@@ -1,0 +1,1702 @@
+type	survival_id	last_known_survival_status	age_at_last_known_survival_status	first_event	event_free_survival_status	age_at_event_free_survival_status	follow_up_category	follow_up_other	adverse_event	comorbidity	comorbidity_method_of_diagnosis	risk_factor	cause_of_death	id	participant.id
+survival	surv_1167	Alive	4406	Relapse										000af16c-a863-58a3-a843-cc49a0446133	bebd12f1-f107-5efc-b493-b9af8b750a95
+survival	surv_1517	Not Reported	3055	Relapse										004bbec0-c0cb-5a1b-8fd5-540a913d08c4	76a02303-c07b-576a-897c-4937a58c3c2f
+survival	surv_449	Dead	1712	Relapse										00516b70-4be8-5781-af3e-2aa7370f37ee	306f85bb-50d7-5b65-9585-72c579d175eb
+survival	surv_376	Alive	8556											0051da69-9c48-51f7-88bd-eb3430090bd9	722b9b2e-fc6f-5dac-a95a-2d89a5090fd2
+survival	surv_1269	Not Reported	6506											00699aa6-477d-51fc-8f27-175bbb3a9b05	ec2749e7-d5c8-5ee4-af55-672821d99eb1
+survival	surv_1502	Not Reported	7437											00bfc7bf-5de1-545e-b3a7-6bf8f71efc51	69400fdd-ad9d-507c-9bfb-d345868750e8
+survival	surv_734	Alive	5848	Relapse										00f09d6b-a050-54cf-9e7c-e9299d1297db	e0f27cb3-de7a-5643-a1f7-9fb37530857a
+survival	surv_1118	Alive	3669											011e8318-7674-5de2-8fc8-1530ea434077	77d1dbd1-fbd7-53e2-9f5a-aef924398cc0
+survival	surv_1490	Not Reported	8899											0151609a-99ec-5719-b453-980e1473ecbc	9a13c490-837b-5083-906b-55216484b34c
+survival	surv_747	Dead	6006	Relapse										01ac3819-8050-5f7d-8081-9d0476e42d0c	d85ad739-fc2c-5b89-9020-b19b4567113f
+survival	surv_1165	Alive	6037											01b134be-2662-5a31-a15c-b67e071636fd	8412fe13-b81e-5fc4-a698-402e0293f310
+survival	surv_312	Alive	8331											02063a4e-5cc5-5e56-aa5f-0d75b2b6f6b7	3871f95e-3058-563c-b45d-c4afdef274a0
+survival	surv_1357	Not Reported	3449											02775b1c-f183-56ee-9fbe-8b0da2f72fcf	22e604cb-a0be-5dc2-a28f-90006d796807
+survival	surv_46	Alive	3125											0285eda7-f7cf-5b05-bfb2-0b313fb0a79a	55242416-7327-501a-90cf-15f579b22aea
+survival	surv_1021	Alive	5015											02891754-40cd-5f34-a11e-985130de7fcf	33f9184d-168d-512b-b9a9-2f06cd5d1f8a
+survival	surv_833	Dead	7880											02c1fc5a-abcf-5052-be90-9d3980345cd5	bb0c9524-5ada-50c6-a55f-c8da959badd3
+survival	surv_356	Alive	3384											02d910fd-c56b-512a-9f22-75f2b53426a7	96743b60-0901-50b9-819a-53697c242814
+survival	surv_3	Alive	2962											02d9b83f-c30e-5e88-9667-43f68e549d03	6efd089c-5865-5bc3-bc3c-3d9fa5abb6f6
+survival	surv_1153	Alive	6812											03212715-98c8-54e9-9463-b49a8b614e33	75a900c2-004b-5eb7-9046-f4b9644dfc3a
+survival	surv_390	Alive	7339											0333cda6-c98b-5235-a432-bf03ce4e7a7a	dbb8b506-e32d-5292-b117-0161e4588cd3
+survival	surv_373	Alive	7640											034d760a-badc-522a-b818-15794cb59ae4	b8641f96-da0d-5f75-8225-e45746be5cc0
+survival	surv_268	Alive	8694											035d85b3-3c4e-5f4b-bf3a-b99e62bf38b8	f9d11adb-e9c6-53dd-908d-278fd51f53e0
+survival	surv_1516	Not Reported	6028											037bc481-0550-5d0f-821f-b7417b3ce4be	88f1ea03-1948-5b78-b170-cccced105e3e
+survival	surv_521	Alive	7374											0390c83a-749f-5316-b03b-6dce14f6cd5e	dbda4c18-8ef6-567c-88f8-b7f79faae674
+survival	surv_1385	Not Reported	-999											03c4f30a-524b-51c4-9d54-8cbf86d15e0f	fe2c0ba7-137c-5339-9d2d-56e9da9c8343
+survival	surv_724	Dead	1661	Relapse										03c9d82e-28b7-5c42-89e8-ec2a6b6497a1	b15b2fb4-9d9e-54e3-ba9c-663e2c6a8532
+survival	surv_641	Dead	4464	Relapse										03ff022e-e189-5956-bbb2-0e897a534e79	3092f0ca-08ae-5072-9d7c-fe3a78f83266
+survival	surv_258	Alive	5359											040731e5-db78-5d17-a8ac-159c4286ae84	95fc210c-d9a8-5736-a914-13bc5e52592d
+survival	surv_337	Alive	12519											0413b4e0-8a27-5929-bddb-b05b61a50968	55615e7f-ee85-58c3-9217-f0e249ec518f
+survival	surv_1155	Alive	4947	Relapse										043fcef8-0afd-52ac-8fd5-8a73d19f053c	e742aace-8fd1-5267-ad5b-323133c023b3
+survival	surv_821	Alive	3055	Relapse										044cdf9c-5e9e-5769-a6a1-a5f6fdd624e6	d69b9b75-d2ab-557f-b086-dba53f68cb3f
+survival	surv_1384	Not Reported	7065											0461eb9a-dd66-5f26-b1d9-7c67a45faff7	8e3a0683-d466-5ec6-a314-68d1a3d247ea
+survival	surv_1386	Not Reported	7694											047c7e7e-3781-5af8-b16f-aff324bcb8dd	465d5fd5-98ed-5050-b98e-f232fa89328b
+survival	surv_1228	Alive	4638	Progression										04848c0b-1522-536d-948d-5419c5463444	9c370c15-a4c4-5f27-bd68-b2c9aa03c6a5
+survival	surv_156	Alive	7585											04a60032-8cf9-548f-93f6-b285f4d4fd93	3a2d888c-1cfc-5d64-bab3-e282af71e2a1
+survival	surv_559	Alive	4886	Relapse										051c2477-1dae-5b0d-bb13-0012053f198b	6a9bbdbb-6b1d-5cf2-9504-72c2c43e18bd
+survival	surv_1043	Alive	6179											0576da15-2c1a-5fc1-8854-df4f61d680a5	5e1f4677-a809-5731-a19d-8d6aa05f96d8
+survival	surv_936	Alive	5389											057cf0d5-94cc-5f3c-8b28-f6647d79a78c	5ec285db-4a17-591f-9502-2f258bd02010
+survival	surv_1541	Not Reported	4342											05899de3-52c1-5a14-9ae5-f958270e2e22	3896ddb2-dfeb-533b-a99b-db634b6486f0
+survival	surv_777	Dead	5639	Relapse										05b1df63-3602-5cb4-b575-9a0422417b39	41f194c5-888f-54ec-8c31-11e55e2e0291
+survival	surv_1289	Not Reported	6387											05cc7407-8dca-54d2-805c-f1e1aa52d783	46cc92e5-4ebc-5ed1-a8bf-590f83c9bdb6
+survival	surv_1397	Not Reported	7667											05fe9b6a-5cae-572c-a61a-bf143bf7c4f8	e8b6f134-66d3-5f78-8975-00a8ace212b6
+survival	surv_1680	Dead	6324											0605183a-5998-5ff0-ace4-998e00017a63	257b3324-d07d-57d4-9183-c3cd5c106b42
+survival	surv_1452	Not Reported	4343											0610e631-6aba-5e88-8f97-1101e10cdb3e	0343b718-c23f-5de1-8049-a24f9f068803
+survival	surv_1234	Alive	6150											061e293b-80c5-57d1-bf98-c49d2efbd9eb	8293c469-5692-5b27-aec0-31cd387d856e
+survival	surv_700	Alive	5720	Relapse										06716b1b-14d6-57b9-b2c7-b5349401577d	d2c2364a-3682-52bf-883c-552903aa8d47
+survival	surv_123	Dead	6784	Relapse										068dcc18-dd63-545b-8da2-9ff24b20552e	8c882009-e0cb-533c-be8a-5cfe646ad2e8
+survival	surv_944	Alive	1122											06addaff-7897-5aae-a2c1-418900956381	a4b57611-1ae1-5379-bb03-c5c9bea0a092
+survival	surv_168	Alive	4115											06d8a396-a9da-5fad-b534-7074ca4bca20	36c328ae-0383-5d48-92d1-ec6f81c27046
+survival	surv_1436	Not Reported	3565											06e4d66d-c31e-525e-86fc-43ac87827084	26b32e73-5bd1-517c-8be4-66f6a8440e9a
+survival	surv_914	Alive	4220											0700ac7a-77b9-5c96-8493-0ba818eb0cb8	9d607de5-fc69-5582-8e66-b43496e934f4
+survival	surv_612	Dead	5680	Death										070ed19e-413e-55db-9fcf-ede621c64a48	0cc84e7c-0be3-562f-ae82-4e9e6ac8b147
+survival	surv_447	Dead	5873	Death										072dfafc-194a-5f57-b214-c8ec2bea2bba	a5658ea2-1ea1-54e2-9acc-409711a36e38
+survival	surv_26	Unknown	7632	Relapse										073cbf55-b130-5439-994e-f9755df33641	14d97b18-ad2d-5234-9c6c-8ca4914fab84
+survival	surv_1017	Alive	4082											0747b100-2c32-5174-95a1-acda683b60bb	9a47e403-fb78-5654-96f3-ca8d88e5ab1e
+survival	surv_1563	Not Reported	3286											075930e9-0da3-5439-82b8-6eb0b62b4ad5	a8394409-3650-54d4-9ee0-36fde42bc900
+survival	surv_302	Alive	5709											0767f9b4-8cf3-5ca0-be1f-d83c2821690e	b5e6f646-f4c4-596a-b1f9-dc0a3792a2eb
+survival	surv_864	Alive	4250	Relapse										078f7282-5aae-53ac-8a7b-8df19b04ebff	37b9aead-8948-5183-a261-3fc8df8e93ef
+survival	surv_464	Alive	8053											07a3c6a0-e708-53d2-b958-0cc84637b4fc	c2cf1099-c92a-5ebe-ada0-38be74898fea
+survival	surv_1486	Not Reported	3567											07c92aa9-3232-5ce3-a130-c216e203fca9	2bf4b19b-3b9d-516b-9d7d-3098bda30a29
+survival	surv_403	Alive	9049											07f104c1-2db1-53fc-a40c-2a53f2b5f3a2	a4297d6c-3d67-5cc6-ad06-b38c1cbed9cc
+survival	surv_180	Alive	8160											0809d775-fecd-5a46-9fdf-a66f7f627bf8	987a0e2c-99fc-59b7-aed1-efb7b59a3814
+survival	surv_340	Alive	7579											082a3b26-1dd5-51dc-9b60-0dc892fb082e	ea81ef2c-2440-5e29-81eb-d85cb3d5ce13
+survival	surv_552	Dead	2905	Relapse										0837d332-e0c7-5d13-9325-19fa2fd51ed6	083490b5-2498-50f1-99a1-5e882d33e4fa
+survival	surv_725	Dead	4296	Relapse										084a7995-fd63-55b0-b986-b8dbcf016e41	9802d3a9-480f-5dda-a75a-c53391f3882d
+survival	surv_1457	Not Reported	2619											088dea28-9983-52f7-a0e6-fe824a9aefe9	4fc1eddf-4fbb-51c9-834e-d36a36b0b089
+survival	surv_1335	Not Reported	9730	Relapse										08bd1119-2e91-5b4b-96be-5e6659cee095	f5fabe4e-d09d-5dee-b3d5-5ec9c169a9d2
+survival	surv_1305	Not Reported	3360											08bd348f-0ba9-55d8-a057-4970d50e9ff8	74e6ed68-93a2-53f3-848a-2f48f8881e73
+survival	surv_417	Alive	5946											08cbe0c1-4f36-590f-8d4c-f7bf507a45fb	e88f1731-39ac-5b4a-8e96-05a5faec065b
+survival	surv_336	Alive	4298											08cc82cf-5f8a-51dc-a7f8-94f99f99ad31	8a47cd80-da64-5f0a-95a5-96171593915c
+survival	surv_1180	Alive	4482											09197203-0429-590f-810d-d21090720e6d	007cf731-f945-51fc-badc-c471c2f548a2
+survival	surv_1471	Not Reported	4108											0988bf88-0bee-5596-bdc8-62f789b51e70	0df69501-930a-5469-a0c9-83c0e583adb7
+survival	surv_859	Alive	3945											09a42668-3dc0-53a2-a914-1fbc05571546	68b9f1b8-39aa-5edb-bd4d-629a6eb003be
+survival	surv_1373	Not Reported	5768											09aa6cf1-8e71-5cc6-8dd8-3a263a8e2251	4c8f4fb4-8677-58f4-8937-cfcc6f0f8c89
+survival	surv_164	Alive	3904											09b0ca69-cb31-5c8c-93ea-10db994fc6e4	e9c06d18-2b5b-5b75-a8b2-fc53e63887e1
+survival	surv_1479	Not Reported	3725											09c26502-5a40-5a86-8da2-ad028635e5e1	6a6f1022-2498-5ee4-bce6-e4bb0ece420a
+survival	surv_664	Alive	9809											09fe8b42-ac80-54ae-b156-b489d7e8fca6	3a61a368-2f37-5b66-9c2f-b9fac57a9849
+survival	surv_1296	Not Reported	5292											0a1c9732-ed4b-5146-b308-14956ed8d13b	c68de9d7-f597-56f3-b45a-e03774cabe80
+survival	surv_1416	Not Reported	3692											0a25e405-2c9b-582b-a1fb-b99e3cbc2220	a9097d8b-831b-5c37-bcbb-7a13cf91ad17
+survival	surv_66	Dead	4594	Relapse										0a7ac7ab-ee02-5a93-a1b9-00afb649431f	9c93d4e8-a914-5933-a54b-0466f6d632e5
+survival	surv_1382	Not Reported	7956											0a7e30e5-963f-5f54-a874-f7345eb8a198	253bebaa-820a-5cc7-8453-9363355b1f99
+survival	surv_1271	Not Reported	9059											0a7edcb1-cdf8-52c0-a6e4-67a6114f7477	e93cd6e2-d6f1-5288-a201-e17d49d0fd57
+survival	surv_1445	Not Reported	4728											0a8e507c-14a7-5e13-a0bc-0a4e01ec5941	56983305-baef-517d-884c-49afdb3e7f3c
+survival	surv_746	Dead	7242	Relapse										0b3353c2-51b9-5ae0-a4d6-997e8c528c35	ac89e39e-2130-5a9c-896b-2361baef04cd
+survival	surv_353	Alive	8687											0b9da59d-d674-5f0d-ad03-e8320b43da2d	b4ca60d8-8d68-5d49-a09b-a9ab71c714b6
+survival	surv_1000	Alive	4354											0bbfd889-f60c-503f-bc34-b8a3b8006bd4	e3abc493-e2f3-5e0c-baeb-bd18195cc3e1
+survival	surv_522	Alive	4214	Relapse										0bf58370-1017-5714-816b-03b8b1fb94aa	dbf6bb8f-dbb7-5444-893a-f67b0e860547
+survival	surv_127	Alive	6707											0c09c310-c4f4-56bf-9f0b-b3e095e219ef	3bf23811-7577-51c5-bc7b-c496f67457a5
+survival	surv_188	Alive	4363											0c1af33c-84b8-59d0-8244-b5a566910e67	2b30cc20-1d2c-5a83-9b14-86c556a223c5
+survival	surv_847	Alive	5570											0c205b87-afce-5fe2-8306-a1d5c8867c9d	68ef58ba-d32e-5cf3-b20c-a582caf4b0c3
+survival	surv_761	Dead	7189	Relapse										0c5be38c-5bb5-5bf4-940a-c02c5ef92b79	0e7a461a-c1d3-5e35-98f4-d774d839d2d7
+survival	surv_769	Alive	6723	Relapse										0c87938b-51ec-530c-8f92-a6b7683af0b7	07c087ef-607b-562e-b1eb-819d7d3bf0c9
+survival	surv_443	Alive	8262											0ce5a3b9-e501-5419-b56a-9bfd94938ca5	8ede1ff5-ced8-5ba9-bd90-e1a48abf0c86
+survival	surv_64	Dead	3730	Relapse										0cfeff61-a3ba-51d4-ad6a-faddde8fbaf2	cc36ba18-878c-5574-ab79-c8db8b42ae6f
+survival	surv_1499	Not Reported	7395											0d09c0cd-a8de-5e27-8740-3565c37356bb	0af081a1-ce20-50cc-a9a6-40f39a72b69b
+survival	surv_1351	Not Reported	7111	Relapse										0d0dc90e-19b4-527e-8aff-3324b1eee005	8c45a5cc-bc23-537c-8989-d0ed0d8964dd
+survival	surv_484	Alive	4985											0d1d4e5a-3797-55bf-9b6d-33b9c681d513	45c55179-a34b-55c1-ac2f-56de0a2a85b9
+survival	surv_1130	Alive	7006											0d400ca4-93c9-5561-8c82-d7215cf3a7fe	26627e4b-77f3-5ec2-984e-98cc41a8936f
+survival	surv_87	Dead	8308	Relapse										0d4b7c5e-5105-568b-a7d1-0b701762b6bc	cd884a90-d95b-5453-a8b1-cfb470d21fc2
+survival	surv_1423	Not Reported	7912											0d687d1e-5e7f-549c-a195-ee93e40243cf	9ece539b-25f3-549f-9a89-264b7ad83e2d
+survival	surv_1580	Not Reported	4531											0d9bd044-f9e4-5111-ae47-5287d5718465	f1b44436-846f-591e-bec8-f348063ba29c
+survival	surv_678	Alive	4897											0da5918c-2654-5565-bd02-91cdece8ed5a	34882c4a-db9b-53a0-af50-696f14953978
+survival	surv_218	Alive	8154											0daa810b-feb7-5e61-9f43-21ad2337632a	0c7833d1-7d8e-5234-8932-d1730ff2b018
+survival	surv_162	Alive	3698											0df45b3f-b731-5b50-b297-649e1e8152f4	8b32c69a-c028-5d2e-8e9a-e487c1b148ec
+survival	surv_929	Alive	4833											0e04aadd-7ba8-525c-a599-a8b7250b1b11	ef5a5dec-7d78-580d-8c2e-60b4a9d4d1b5
+survival	surv_1224	Alive	7052											0e0c3f05-7c91-5bc3-b56a-6194685317f1	50aa1cde-1433-5c16-9fc4-970839938473
+survival	surv_1512	Not Reported	5281											0e0f8f35-8e37-5b52-90f9-c70d8455a20b	f18dc374-bc22-5901-a276-391d5a028d4a
+survival	surv_88	Alive	2179											0e66e507-59e1-5964-bf18-f1d1b4c62610	c0cae8be-7101-548e-b019-5d533f988cb9
+survival	surv_107	Alive	1682											0e6db2a7-f908-5d63-8cc6-143a8713df77	f0d2a789-2087-5dbf-afaa-d2ec7d7b7c79
+survival	surv_1286	Not Reported	3879	Relapse										0e73ec05-3a66-576d-b78f-8b424490b635	3dddbc48-69e8-5b10-a45c-9e28d6afe078
+survival	surv_916	Alive	4784											0e8b3c36-890d-51b8-b747-8489479ec7ff	8c16a187-5d48-56a7-8b7e-a2973ee23b6d
+survival	surv_169	Dead	6544	Relapse										0f2ebe0f-accb-56f5-a904-8d405ede3cec	f5f2ba50-3905-56cf-bd85-e3e6a3db78be
+survival	surv_91	Alive	4219											0f454ed4-32f8-5cb8-b4c9-39c66fdace26	311a5444-7a77-506b-9a71-45a344c8547e
+survival	surv_355	Alive	8528											0f46c8ee-549b-579a-86d9-02dbb66cb667	374bd130-2e0d-50f6-b4b8-2e8de8243343
+survival	surv_903	Dead	1242	Death										0fc369fc-5d68-5f9a-9362-c534d4bb02a1	1e3c0f86-576a-51bd-8fae-2ea4100f4188
+survival	surv_768	Dead	976	Relapse										0ff0a324-85d2-50fe-b1d0-6ad71dbfd5f4	49635119-2947-5b83-875a-1f4f636cdb40
+survival	surv_1196	Alive	10566											1074d335-048f-5370-9dad-de5dc185d0f5	e93bcdee-2104-5ca9-82cf-1316c98efd34
+survival	surv_687	Alive	3944											107a0546-380b-5bf2-bbdc-c72168925de6	f0f3d7e3-b890-5452-81d0-87be66a50e92
+survival	surv_1156	Alive	6458											10b77203-61dc-5e5c-80dd-e4277803276e	3be8be49-c866-5712-a2a3-b4dc6316babf
+survival	surv_1337	Not Reported	-999											10c8ede1-0580-5ac0-98c7-c265bf9db43d	9c1c735f-f450-557e-9198-4c7663d138af
+survival	surv_889	Alive	4922											10d62769-6d2f-5020-b3df-9a7402deaae3	78943a8a-61ce-5de1-b0b5-db43cc9bfebd
+survival	surv_415	Alive	5684											111399ed-e4fe-51d9-893d-cda7ad53b831	9c08e0a5-db84-5066-bf0c-5b7f07383958
+survival	surv_165	Alive	5667											1146ebb8-5389-5a8d-a2a7-354a5a23bff9	6a03ce3b-ebb6-5360-8a5d-965cc0f5f799
+survival	surv_911	Dead	6143	Relapse										11610a1f-4463-51f0-b7e1-4ccf6eae2c1a	71594c40-da28-5e7a-8f93-c234e479071f
+survival	surv_1574	Not Reported	3291											116a4677-84ba-5270-8a03-f392ef68fc05	34785878-94c6-5373-8664-8c56333258ba
+survival	surv_351	Alive	5311											118622ab-88e3-5d55-9c72-85b323da3ce4	755154fd-2353-5914-99b4-a615011c5316
+survival	surv_505	Alive	11021											1189f3d1-9a10-58f7-b36e-e5f66d48b747	23bc8de1-6d0f-5643-89c9-4d594ad20edf
+survival	surv_1263	Not Reported	-999											11afbced-9282-530b-8a33-0152afca297f	96a38c94-1ce1-54ea-b98c-5057f7614ad0
+survival	surv_39	Unknown	3235											11b4d383-3964-51a0-9b85-62c5f516455b	773cb7fd-abcc-5eb7-b8be-e00ce7211480
+survival	surv_1035	Alive	5070											120239ba-63d3-5ccd-a33d-ba641f14b54d	a7d61291-04af-5eba-8cdc-8645535b245e
+survival	surv_1349	Not Reported	5410	Relapse										1249de7b-52cb-53f2-ad47-4489814efa4d	58f4aa77-33ad-5f45-97bb-84a0f9ebd72d
+survival	surv_45	Alive	4556											124d2f52-a008-5643-8783-b5f55df54e7b	ee01bfa4-b421-5cc2-a2cf-9fca456a9616
+survival	surv_906	Alive	6056											12765554-848b-5280-9b05-6c30e79f9940	93275ef9-1882-5e05-b7a5-23ca8da2a487
+survival	surv_1631	Alive	9447	Relapse										12b51bd6-6270-5496-bae9-462b99cc3462	6cad5b0d-7135-56c3-a572-86a027c03705
+survival	surv_524	Alive	7438											12b70023-b8dc-5037-aa19-2c18a6060b08	5af4a3e8-c930-572e-bf06-9e122a6c89ae
+survival	surv_748	Dead	5852	Relapse										12c8a4dd-c935-5d03-8943-e38aa1679f24	d902a4d3-5455-5608-a45c-88702136f398
+survival	surv_1342	Not Reported	7962											12d96a03-ae20-5f37-97f0-d927cc09ec33	788c97de-48a5-5bb0-9e6a-dd4d0e545816
+survival	surv_1379	Not Reported	6583	Relapse										12ea9f6b-bbb8-52d2-a39f-4b57a605df0f	590802f6-a5c6-5c99-ab94-5efbe4a12edf
+survival	surv_389	Alive	7782											130a0e0b-4274-50bc-aeeb-d7c5c50cd7ed	4cd7b81b-c7e7-5e3d-8f1c-786d51893ed9
+survival	surv_1006	Alive	6448											1314279a-112d-5816-a4ed-0d89c22f5e08	ef9843ed-f400-544a-af41-721394b543f2
+survival	surv_1126	Alive	4369											136ca9ed-5c08-5c9f-8173-d18bf5c95922	93ac409f-27ec-5e41-a362-b637b56fbb6e
+survival	surv_616	Alive	4391											137f1869-6bea-5bbf-994e-76c8cd11412d	63485820-4a36-5e92-9d39-9d564225d7b4
+survival	surv_586	Alive	7775											13adf658-6de7-5c20-9f37-42fe358fb13b	f4dc2c72-c192-5a5e-af36-f37f4ba943cf
+survival	surv_962	Alive	2921											13bf9732-3401-5776-b74f-36a8e5cad07f	fb641d81-333d-58d2-93e3-1c81a561833a
+survival	surv_1475	Not Reported	3261											141c8aee-72c0-5600-ba22-0deaf5c7da32	4e0d2a4e-64b3-510a-8a77-0b9324e6a1d5
+survival	surv_924	Alive	4833											141f6949-f698-51ff-a599-2daacbbf9b1e	fd1a8db4-daa0-5ad5-ba9c-b6a037c751b3
+survival	surv_774	Dead	1196	Relapse										14303faf-8e6d-59df-a370-d60c0c39ec21	6a81d7d4-c6e2-566c-8772-6ac88acc790a
+survival	surv_985	Alive	4397											1430b5de-bd4b-5448-a30b-9eedcd0df6d0	4f8da6b0-1674-5e4b-acd0-133922383533
+survival	surv_607	Alive	2638											14550e8a-2907-5178-bf5d-58e2298445b2	f37aa70f-1a4e-5ffd-a91a-7910bc71b6e3
+survival	surv_915	Alive	5459											1499d92b-debd-5f75-b708-44bdc2b11d3a	106cb712-af32-59cc-8875-37f119ca72f4
+survival	surv_1579	Not Reported	6602											14a1db83-1096-5ed5-8231-12c33d69833e	21b05dac-1cb0-5dba-a198-52d18d57b2a1
+survival	surv_1361	Not Reported	7096											14a5cb2a-db23-5142-8d6c-5089f184674a	14c6d839-955e-526d-9e43-b15607b97fb3
+survival	surv_263	Dead	9207	Relapse										14c43e1b-4312-5e3a-8955-a8d40a890a63	97df703a-5aa7-53d5-823d-6a33eead93c1
+survival	surv_576	Dead	4795	Relapse										14c7ab92-df23-5ee8-bb6f-d36ce930836e	8ea09ffb-c76f-525e-81c1-5c6a3c65b7ae
+survival	surv_288	Alive	5387											14e85cd8-8fac-53c4-80cd-e0ceada778d5	55b8f0fc-3003-5c6b-a149-db2aa3e636d7
+survival	surv_1106	Alive	9103											150dc4cc-7fd1-5a39-bd9b-07bd6bfe1e1c	34d610a5-c81c-58ef-b97e-14b56c7657e7
+survival	surv_1665	Dead	2416											15110428-809a-57a6-9584-7f51b8761f13	801ca1e2-288c-5917-93f5-e9b9a59d6aab
+survival	surv_1036	Alive	4684											1540765b-adbe-5491-b96a-c51299c5ac78	f7e077d3-ce68-5832-8496-95b9ec35eccc
+survival	surv_1598	Alive	5426											154acb93-3f3e-57bb-80a0-42539798cd13	4fa4347a-e4fe-5a62-b9f9-a2a1453ff18d
+survival	surv_762	Dead	4834											15735151-cfc5-5ac1-a977-0b40ea14643e	16ff12f4-a520-5b4d-91a0-c9f0c4db88c6
+survival	surv_179	Alive	9019											15795f6d-095e-5c44-8bca-d2a0023f8661	ad7876b2-0037-5848-a4ad-5805620cd15d
+survival	surv_23	Alive	3293	Relapse										1595c11d-1f66-5627-9afc-50485e0ff1d7	468acc86-7825-5a84-8e69-7c10c0238124
+survival	surv_498	Dead	6411	Relapse										1596a093-780d-5deb-ae8b-2da7b0b043f8	3d7e511f-975e-554d-9ab7-7982dbf2ad28
+survival	surv_342	Dead	6657	Relapse										15d2ad0e-696a-5f3e-bf1c-32d7c9e9b431	bb635502-bd53-59f9-a710-7bc10aeac988
+survival	surv_749	Dead	4541	Relapse										15e5ee35-e54a-513a-a8b9-4fcdf7c9d8b6	71123255-56d1-5fa1-8fe6-434f543c57a9
+survival	surv_622	Alive	6108											15f2dd2a-4c84-558f-b178-083fc65632a9	87753ea2-76e8-557f-94c2-4ecd367a6a4b
+survival	surv_466	Alive	6977	Relapse										15fa5b54-d1ff-52bc-a9c5-f9131969f552	9437326a-3a06-548d-9216-36b63fee86bc
+survival	surv_1592	Dead	1963	Relapse										1602b3be-a960-57d7-a385-d918fa9fcfbb	331bd941-a483-524b-8783-6e4cff72ba66
+survival	surv_968	Alive	3739											1607856b-daca-5ef9-8cdf-413b93532596	3e3acc47-5bd4-5959-a8ae-051c002e622d
+survival	surv_293	Alive	4888											16509a97-31c4-5b99-8e76-6529c5938189	0a29a426-b1c9-5ce3-9370-aed2deafccf7
+survival	surv_216	Alive	6717											16545c8b-1395-563f-a026-c4b78da13dde	acc2d41b-2399-5643-9224-a1fea7c73eb6
+survival	surv_902	Dead	3553	Death										16e84aec-d020-5bc7-ba4f-dc854c05b6cc	7ed1c722-8495-5c43-91bd-bcce412f9681
+survival	surv_111	Alive	6439											16ed4e05-917c-5ce7-90cb-5d59b4f192b6	b25ae523-fc74-539f-9833-2d7f7374a863
+survival	surv_1650	Dead	-999											16fc84de-e87a-5786-88da-5eeeceab4101	d51347b9-5f5b-5739-b386-6ab6e6b63e75
+survival	surv_624	Alive	8105											171191cd-7304-5a70-b0bd-b342bbe629ca	0636afe6-3aa5-5b0f-ade2-a575068d050a
+survival	surv_832	Dead	3539	Relapse										1725c169-0979-5af3-9694-ab82fa0403a3	5fee2002-3486-5f87-9fd8-8bfc537f3e7d
+survival	surv_744	Alive	2340	Relapse										17267e6f-c6d0-57ac-976f-f858b2d6f616	830ffdcc-6c05-58d6-adde-f876821279ba
+survival	surv_1469	Not Reported	4082											1727e95a-61e0-50ee-8dd2-40512619c630	58b22625-ff45-5f77-a7e0-96dac9bd1019
+survival	surv_572	Alive	3872											17312047-1b54-58ff-b0d1-e1716b56e933	ce69ec99-05a1-5736-97af-f0642cc391d5
+survival	surv_698	Dead	6763	Relapse										17717a44-68d1-57db-a11a-b8c6b5859f9d	407b639f-50c4-5432-b77f-7a80d5daaa4b
+survival	surv_1656	Dead	800											17da11fb-8b97-5c21-a932-44333dec666d	d8ff89f3-e8f0-52f6-a706-85b416dd3f4d
+survival	surv_707	Alive	5243											1843af1e-94b0-566d-a33f-8d5aa0d81ed1	707b2146-9d32-5f4b-a671-5bb9ab35a981
+survival	surv_1172	Alive	4632											1852a3eb-b4e8-5865-97c1-c6b6e9942336	17e3d114-c464-5985-bc57-c1c6acf2c738
+survival	surv_994	Alive	3906											1852dafc-2f62-59ff-aae1-eaacf0c4086b	f5c822b4-5834-5f81-8f6c-44f619569ab6
+survival	surv_456	Dead	5784	Death										18acf347-4668-5cd3-bbe9-3eed92756f9c	efd697cf-0e49-5839-be8d-672e18ec7543
+survival	surv_330	Alive	5364											18b52772-c18b-5627-8451-606cbac9b76f	8d1a7a05-db67-57a4-8776-7bc7204baba9
+survival	surv_1096	Dead	1819	Death										193a3418-e054-57af-bfc5-8e4e2ed3993a	294dbfa1-e379-55b3-a242-0df403c86a4c
+survival	surv_801	Alive	3850	Relapse										193aaea4-aaf3-5a66-a1c9-48e80b0540e4	7087a96c-4917-5bf0-a098-921db5f33811
+survival	surv_166	Dead	6330	Relapse										194a5596-b4a1-5a49-a743-1e121299e6c0	f7a0e1e5-363a-5f79-836d-bf45e616e202
+survival	surv_1257	Alive	691											194dbb57-852f-50ce-b6b4-0f01febb822d	0e480bc7-0498-5e6f-9b24-54e69f566cde
+survival	surv_1685	Dead	168											19515b91-cad0-5646-99cd-7acfbcf7652b	24eb2cd1-91ab-532b-a2ec-86df25141f6f
+survival	surv_897	Alive	4081											19568492-c205-50ed-a5cf-9c7c6d3a12c3	a5a16237-80de-5019-a04c-d4ee16000bab
+survival	surv_1181	Alive	3865	Relapse										196354f9-5f7a-5bbc-b68e-ceba080c55a3	9151fe6c-e74b-57f0-821d-3a014bd0c56d
+survival	surv_257	Alive	4203											197dcfac-497e-5c98-aae3-334fe889e2f4	a544d283-1513-59a5-9906-511bbf23752c
+survival	surv_956	Alive	4698											1996a992-cddf-5b70-b203-de206087827f	ca48d26b-e1c5-5273-b0ef-61bcfe6100d4
+survival	surv_1657	Alive	2672											19ca112c-231e-5111-a051-bd66c75de96f	a3d9aac1-cd08-5ce4-b409-c3e8c3124f12
+survival	surv_1071	Alive	3554											19db28fa-042c-52dd-a443-e44c9d9468b6	a684691e-46ee-5919-bf18-b78d84605d0c
+survival	surv_923	Alive	5842											19ebf131-9709-5d38-9cd1-1606d22a4760	266eb9de-24f1-5273-9131-f51ba361f46a
+survival	surv_183	Alive	9486											1a05ce1d-d587-579d-9c2d-e99879272256	4baa71c1-9029-5296-8327-931c09aa2b98
+survival	surv_1693	Alive	7739											1a094603-7274-5f0f-ba45-e60bbb6ea1a6	3d42b9aa-ecb0-51ee-8ed5-38a6099c34a3
+survival	surv_738	Dead	6315	Relapse										1a4d11eb-c6e4-5793-83dd-92048a2bf25b	d90384fa-545b-5847-91ae-2476e35186f5
+survival	surv_535	Alive	8698											1a81b91e-8230-5925-adff-474bec21f041	7018e58e-4bf5-5f46-ac22-f30a354667f7
+survival	surv_1008	Alive	6305											1a8d9d04-e526-57e6-b1f7-63a6cd339bf5	a8b55190-94b8-5565-a2fc-c4e16280ccbd
+survival	surv_22	Alive	4536	Relapse										1a9b426f-1d01-537d-a307-27d34de477a6	06e0542c-72fc-568a-9dd4-f9a175e46265
+survival	surv_960	Alive	5332											1aea0240-bbc4-5625-8fe3-a98ca8803587	57458fbd-597c-518f-866f-668068ab5098
+survival	surv_56	Dead	8580	Relapse										1b153350-0879-5b20-aa94-4595006bc98b	89914e8b-038a-5c2e-897c-9bd84d3cce94
+survival	surv_103	Alive	9842											1b2199d9-908b-544d-a945-dc3fef07bfba	9ffe4d9e-8b83-54f0-a9f8-7d0e23d45035
+survival	surv_810	Dead	1772	Relapse										1b59a05d-7acd-5c2c-8168-983d19fa7bde	6f277a0d-2757-506a-ae79-a0a4e7d4284f
+survival	surv_798	Dead	1989	Relapse										1bd26db6-8f2f-53ef-9848-91bb31fd16dd	87651473-cdb7-5ad3-9f02-624f2a84ff91
+survival	surv_1334	Not Reported	8180											1c8a6be1-2d82-5aba-9dca-0dd56a606560	f3ff5f4b-2560-57c5-9d26-51b5200963b2
+survival	surv_754	Dead	3167	Relapse										1d087636-bad1-5e55-a443-8ef38703e6ef	493af0bf-8d1c-5702-bd59-0137948168e8
+survival	surv_1187	Alive	4179											1d423beb-c191-5bf5-a1c8-7eb805cd5de6	99e74f20-68a6-5ba6-aa36-38ecafd2c05b
+survival	surv_1245	Alive	7095											1d4e3c08-d67f-53d9-bc1a-ddc2e87cf4f5	6cec44c0-5b76-57a2-85b4-6a6c8027bb4d
+survival	surv_1669	Dead	2987	Relapse										1d7e0b36-3f46-5cb0-9c64-5f436226cfe5	1e335728-e392-57ea-a0c4-abd93831f054
+survival	surv_1319	Not Reported	7702											1d8e69e3-d66c-51e3-a9c3-b221494ef674	f757c3fa-8c7e-5837-8246-6c91fc071eab
+survival	surv_1059	Alive	1608											1dbd8a2f-8d90-51ca-9363-589af335c7e1	ecc19603-40a5-52fd-ac2f-94478725a6db
+survival	surv_856	Alive	4443											1dbe09bb-4d17-5a0b-a888-24fc5908996d	2f840964-dadf-5960-a48c-c1fdd9505cdb
+survival	surv_474	Alive	9592											1dc0a865-f4ba-50e6-bf3d-24bb8e2b48b4	6f3a98f0-1aa7-5636-a8ec-a2487438e369
+survival	surv_1673	Dead	3867											1e086a58-3a68-5097-917a-e69474b4c227	57a2f135-36db-560f-98b2-1f3bba73802c
+survival	surv_1093	Alive	4845											1e0b9900-63ea-5db1-8ced-cc9a98f7e0b1	f9035a86-25d2-56f6-a274-a8aac289f500
+survival	surv_296	Alive	6943											1e5e3364-172f-5831-9e0f-5f5be702c9bd	845cfb9c-4f90-5af5-8079-56f1ca641e25
+survival	surv_943	Alive	3017											1ef866e5-50db-5ce8-be7a-a5cabb0d702c	c7ec1d8d-e1b5-5faa-a294-b7299ccf831e
+survival	surv_1217	Alive	4715											1f1c2f53-8d47-5598-a61a-0dd585c88211	ea61bbe4-8d81-5166-b19e-885e226b93ab
+survival	surv_148	Dead	4515	Relapse										1f2fde15-1057-53b9-9946-dcbd5e598ea7	c6e086c4-c31d-5d8d-97b8-badea3a7018c
+survival	surv_1301	Not Reported	7495	Relapse										1f4db1d3-c62f-530d-8f99-7a85d03a19d1	de9a93f8-4460-532f-8932-b9bd210aae55
+survival	surv_1658	Alive	5773											1f55885d-6753-573e-9103-64962d8f0018	25eee2a8-c2cd-5de3-9b60-6930b3b0d204
+survival	surv_90	Alive	4199											1f612f01-6762-5a1d-a268-066e89d1cd47	b82b42c5-9bab-527b-881a-35a21003b53a
+survival	surv_224	Alive	2140											1f6bc7f0-ce28-51bd-9e89-0207c6ff37b6	f59140e3-bf7b-5fc0-bdca-cc43178661b2
+survival	surv_446	Alive	7623											1fec7cc1-8e1d-5447-89df-c8d4677e97cb	498a0d32-72a0-5dd6-8396-e5b5111d3305
+survival	surv_125	Alive	4540											204e5ee8-96a6-594a-aef4-63462cd8d25b	33131d6e-9eb7-50e4-b9f3-42a3eedc0d3f
+survival	surv_1441	Not Reported	3910											2057bba2-3e1e-5820-a622-30cf9159fa86	a1fba237-fb60-5c36-8418-2d50e6f86810
+survival	surv_399	Alive	8749											205d460f-1f82-5bbb-abfb-f49a45134c93	c41e08e7-ffbb-5a2a-9277-db4f8915ada2
+survival	surv_1223	Dead	2245	Relapse										20678ba3-cb65-57f3-beaf-a93a0b560422	3ad7596a-242a-59e4-bd11-0ae655a256ed
+survival	surv_1661	Dead	5049											2067ce4a-120b-5a55-b28d-a24a7c0847c8	56a2ec66-049b-5674-a8ef-0ee0701ab468
+survival	surv_1030	Alive	4312											207b7fc0-e05a-51ff-836b-66440b87cbdc	6222e959-d57d-50c4-a1f2-e63d86271fe0
+survival	surv_551	Dead	5202											20c81c14-2fd6-5b31-9859-d1dacc3bca85	cca1efaf-8123-51c6-81a3-921912747913
+survival	surv_794	Alive	3962	Relapse										210a22c7-1c73-5a2e-b2eb-8ef6d8207d4e	ac53d48a-6d61-592a-a3eb-974a9b4ad030
+survival	surv_1644	Alive	3901											214bc00b-e59e-5a81-be33-28b63d3af774	c439c54e-e7ce-5218-b317-5c0204648bc9
+survival	surv_1291	Not Reported	2398	Relapse										21523ee4-7e1f-5c77-8788-dcc1c2ca5c94	6c11b2d5-7337-5eaf-b80c-45aa2f2f00ac
+survival	surv_78	Alive	4778											215f54d0-7bde-57b3-90bf-f1f593a3d482	769cccc5-0f04-5d5d-865f-ac20adf2ee5a
+survival	surv_1476	Not Reported	10474											217ca48e-2787-5a29-84a6-75a2cda552c4	55f40f2e-1c1f-51b7-a610-ab5d21007ead
+survival	surv_1540	Not Reported	2256	Relapse										2186d53f-313a-572c-9bf3-5007f7d97f85	c7e04262-0d2c-5639-85cb-7d1780b21db5
+survival	surv_1306	Not Reported	7955											21fb43b7-362a-5d56-876b-84f20070deda	656dd6e6-8c73-5ca4-97e4-52ad09e007bf
+survival	surv_1049	Alive	4170											22051003-e709-5d94-917b-a6e5176f78e3	54feadf4-277a-5671-90ef-459ffe0c27df
+survival	surv_1220	Alive	6950											2239e611-5a77-5e83-b3c5-b3f9aa599a55	9b4745c0-bb35-5d07-ad00-5b9a4336fcfd
+survival	surv_977	Dead	2517	Death										22560ea3-321d-5dac-9860-3c0fec8c66d7	93dc7070-03de-5aab-b48e-1bc84ef91739
+survival	surv_1398	Not Reported	6345											228ec983-37f3-55e6-94aa-5e9e77d390c9	2cbf8c70-adb9-54a7-83f2-7e62b5c29778
+survival	surv_979	Alive	5815											229c9643-e22a-5eb1-82ba-643cd207fef5	1f660c02-c788-51d8-b717-4ae384ae0a5e
+survival	surv_952	Alive	6208											22ebf523-999e-5549-b87a-2f293151fada	b577709b-294d-52c7-ae8f-8d5e4eabd345
+survival	surv_1278	Not Reported	4825	Relapse										2397d5ea-75d4-5984-8ea5-27cdff7effae	504443cb-5f10-59d8-aa40-5f43ec95a2f4
+survival	surv_1610	Alive	4009											23b35e30-901e-536f-9563-662b32e16176	4679f7fc-3c7d-5562-993c-870873943fc5
+survival	surv_1330	Not Reported	2800											23c5e555-e06c-5e25-ba1f-aa916cf82bf1	2b1052cf-9674-5062-b8a1-a00e9610feb3
+survival	surv_1136	Alive	3986											2404f49e-1476-59f9-a06c-239351b9a4e4	576497ef-c6e8-56cb-813c-ac423bb4c2cb
+survival	surv_695	Alive	7960											240d1d4f-b616-5afb-88dc-0b9bbe2551a7	e25ffc5d-412c-51d0-862b-e1f787c42f32
+survival	surv_743	Alive	2562	Relapse										24195e64-1947-57eb-af17-c2bbdeac1e58	6f1af5c0-1e82-5abd-8fcb-2999c413f071
+survival	surv_248	Alive	10663											2455d181-a9c7-5daa-a830-7735070d6a57	1e549063-8779-5667-a28f-cc1a17f88b49
+survival	surv_194	Alive	6963											24cfd54d-255a-595e-948c-b40e01f64dec	67f6b586-aa7a-5469-9840-c6441f2564e9
+survival	surv_93	Alive	5448											24ea7283-b400-54da-8e34-b5c935f9df77	875a9f7b-7bea-5329-b487-157dd2e9db91
+survival	surv_959	Alive	4606											2558d53d-d884-51d8-a3e3-ba5222f5bfa5	665264c3-972b-50d1-9953-f25c568980aa
+survival	surv_247	Alive	6832											25b851ce-a4f6-5417-80e1-8f81b6795322	17eaa866-de3a-5840-aaa6-1ea0955e95e2
+survival	surv_1370	Not Reported	4652											25bbd4d5-81c4-516b-bccd-14579be9446d	8b77bb3c-2c37-5275-b323-e77abda25b0f
+survival	surv_1692	Alive	7470											264183cb-d74e-5d60-ab88-391a49aad271	33f998fa-b4e7-5218-b333-0c8480758af5
+survival	surv_1507	Not Reported	4178											2653c788-73a6-5531-9e05-87bde9362ede	fafa1822-7f83-578b-a928-c67831a4fa9b
+survival	surv_120	Dead	1913	Death										26580e57-c5aa-505d-8af6-f4661fef09f4	1086984f-db61-5f51-abb9-52a1b12eabb2
+survival	surv_1202	Alive	5739											2658e08a-e30a-5195-ad15-91950dccb845	891c3c93-da2e-50c8-b577-0e2fc88e6a76
+survival	surv_741	Alive	4132	Relapse										26be12f0-4369-5309-9656-6ce6b3f88db4	b1f8f19b-961b-5129-933e-5e3dff5737ad
+survival	surv_1391	Not Reported	3541											26eedb50-c1ea-54a9-a986-4c5123aaccaf	d21b18bb-121c-5172-9b4b-bf35fd91f69a
+survival	surv_315	Dead	2758	Relapse										274075a7-30d3-5641-bd27-150dd2417043	2e689664-2a82-5fc0-af01-07917d5a9388
+survival	surv_518	Alive	9041											2741cb4b-274e-5ce5-bd72-71a395f911ef	891b27ba-384f-5558-bb9e-662be43b1db7
+survival	surv_860	Alive	5427											27714799-c952-5c1a-9701-e4ccb9cf407b	fc39ab49-f0d8-59e8-9009-4836c17221be
+survival	surv_1599	Dead	1188											277de174-5d51-575c-91fb-63fa0edd55d9	08f77af8-5aa2-50da-a089-4078ed408a4a
+survival	surv_70	Alive	6927											27baed0f-e97a-594f-8f47-57cefa89eac6	1fee9bb9-4208-5e66-a2f0-03562a471bca
+survival	surv_880	Alive	6437											27ce0c85-d71f-5ed6-9588-df02d2f08eb9	5ff0d78c-c596-5d97-b7f1-ad611aa5ce2c
+survival	surv_1394	Not Reported	7719											27df2623-c68d-53a2-ad88-3c308c8a4088	d383be74-776b-5ef4-94e2-8dcc8f9a7b4e
+survival	surv_1485	Not Reported	1950	Relapse										2813d10d-2d30-5a96-9993-2abbd6258c7e	96d0829a-00a4-5890-859b-516985169bd7
+survival	surv_1667	Dead	5908											28d0fe29-c743-59a2-8eba-70a01f7e291e	0567c565-b0b2-5f1a-98c1-01e796ea083a
+survival	surv_998	Alive	4959											28d6b8ba-8bd1-5bfb-9990-7e905b0fa59e	17564a7e-6f1a-5831-bcf1-ac008f7ccc92
+survival	surv_281	Alive	4178											2939ccc1-cb9b-59b2-969d-90b3b2e42034	f83b1f06-4c15-5d00-9698-623876df598d
+survival	surv_128	Alive	4699											2946fa73-a62d-571d-94cb-038dcde13a3e	f09e10f7-bd42-5997-b5be-3c7802700cf1
+survival	surv_955	Alive	4911											2980678f-e2c8-5c53-82b4-f49f91f04597	36117db3-e154-5356-83ba-2d92bc3324de
+survival	surv_519	Dead	6764	Second Malignant Neoplasm										2a2dc6b2-5037-5457-8a47-3cb5ee50c3d7	e7c03164-5ff9-5e29-9cd4-3eab0a6d5087
+survival	surv_481	Alive	6774	Progression										2a446e0a-9535-5ade-b7cd-9f35ea602004	0614e750-0565-5d11-b97e-0720d1de89ba
+survival	surv_1450	Not Reported	5225											2a66fa64-91d3-5b98-b7cc-de7c12b1443f	4d8d4deb-054d-5b8f-bb29-5dbe9f6cb987
+survival	surv_529	Dead	6509	Relapse										2a87d069-a519-5a26-8f19-a076a91c9aac	d07d6a4b-f4b2-5a60-a239-bfee0f605d20
+survival	surv_1543	Not Reported	1864											2a87f6ad-2529-582f-acc9-d38effe433f6	a865b7de-1e7b-5583-9fb5-4215c4eb5e90
+survival	surv_1648	Alive	809											2aca7f6e-e53b-5671-aa3f-9462ab0f8528	873ba2cd-0deb-5c59-a9c5-43e1b24eab51
+survival	surv_265	Dead	5757	Relapse										2b2313a6-3d9a-55e2-87a3-352f6e718223	2c317a66-f580-55d3-bf44-9e7f27773ce0
+survival	surv_292	Dead	3805	Relapse										2b45e99c-9b54-5d0b-a7da-f7589d5bf9eb	bfb5157e-d697-5126-8347-542196115b52
+survival	surv_714	Alive	3875	Relapse										2b47e6a4-49f7-53c4-b844-2efc58fab537	1428eae8-98d5-5d41-8be7-708f75eebfaa
+survival	surv_515	Alive	7453											2b4da1fd-90bd-5597-8562-621c5f266200	96d08872-e27a-5138-b171-eb4e44e952af
+survival	surv_1020	Alive	3099											2b62ebbd-faf7-5a3b-b6ae-6f7b1960bfee	2c233912-4467-58bc-b718-093a038a8d0b
+survival	surv_143	Alive	4882											2b936b70-599c-53b8-9e64-2a2bf44d88a9	a3f2106f-1fa5-5485-ac31-7fa5dcd07e24
+survival	surv_192	Alive	6936											2bac176c-8998-500b-b493-0f4ccc0c6418	b6404246-b8be-5baa-b6c3-eda9584bd475
+survival	surv_1432	Not Reported	5047											2bcffb36-5853-52f3-9e56-a782237290db	b77dde5d-09bd-5e61-8cfc-f62d6447d1f6
+survival	surv_24	Alive	6501											2c359c24-8356-5fcc-94ed-125d25e8670d	bb4e7f52-398f-5e36-a523-3eb5a2a33f06
+survival	surv_722	Alive	4404	Relapse										2c50a78f-b46c-583d-976d-9f4b55f3df63	9492887c-f7de-58a6-a864-fa656eaea362
+survival	surv_1659	Dead	2194											2cf1600a-af88-54fa-9441-ac9ca1b42868	361f172e-5a99-581c-a1b8-fb4c1cf5d6d2
+survival	surv_191	Alive	5121											2d12d034-f9f9-5fef-9839-fbe7a9a99d28	991c5491-3685-5f42-861c-7bfcef13ce6f
+survival	surv_650	Alive	3928											2d395c39-0b2f-59b5-8366-86b963051b7d	67ef67a2-4a41-5052-8ddf-cb562826098e
+survival	surv_301	Alive	8007											2d4d3e6a-b9b6-57b0-bf9f-05e5889c9499	493d2674-c454-54be-ae98-a76ec552d053
+survival	surv_1053	Alive	2503											2d842728-ad93-53df-aca6-e838841e186a	9454d7fd-2fcb-537c-a856-3a7ef2262e51
+survival	surv_438	Alive	6639											2d8d9d3b-1f5e-5bb8-8b42-a6c4419b76b2	1d03f637-897f-576c-b55b-a0dc43a5376a
+survival	surv_1040	Dead	3042	Relapse										2db944d2-9c3a-5102-8e9a-92b88ec34d32	772bed4e-27de-5c12-8273-fa7e97cf02da
+survival	surv_965	Alive	5848											2dc55d25-a352-5eef-9f69-a59e777d850f	d96287ef-ac70-5ae6-b98b-fed271acead4
+survival	surv_1191	Alive	9288											2e155ad6-8be1-54c7-bca8-9d07862a9afd	9af88ece-e379-5542-b430-10ca46b22063
+survival	surv_40	Alive	4274											2e30f93d-d95f-51d9-bfc3-7781b192b95f	e340bfca-29ea-5107-9e2d-7928c6f6ca18
+survival	surv_1236	Alive	6386											2e3a81b7-b6fe-5c2c-9c5d-e32d1e461936	a130c72c-6c3f-586f-97e9-d5619a57794a
+survival	surv_831	Dead	9084	Relapse										2e9108e2-f1d8-5f83-b471-83ae852ef259	a324f43c-1da6-53d5-9b09-2d936b7a7bcb
+survival	surv_1622	Alive	3651											2e9ab582-9c3e-5a96-b398-2b80a63f5550	695cf23a-c362-53a5-a1d8-4f5753384d49
+survival	surv_1241	Alive	7865											2ea75d18-010c-5c90-8c86-168642da2446	b21cd5fe-c1b4-54c9-b818-3cd6cbadfd1c
+survival	surv_657	Alive	4361											2f468b67-9494-5836-a99f-e26e3c6070e9	2fe07124-92a3-5e56-a552-4d9cfc68a405
+survival	surv_82	Alive	8484											2fd6068d-73e2-5615-9d96-ecd9591caa64	8664c23e-cb9b-52c6-9099-969c82a1b38e
+survival	surv_1127	Alive	4976											2fe67830-c4c0-5725-9801-ae34f6634b10	c515acc3-a2f6-526e-97cf-1ee010eb46f4
+survival	surv_989	Alive	4233											2ffa1ece-2621-5093-aa03-27fd2c74cc11	2a30aabf-f488-5436-81cf-dce16e47174e
+survival	surv_1606	Alive	4905											3000c9eb-52cf-5ba6-81e3-2fb0eca63e80	c0614a3a-a761-510b-88cb-5d55a1d44f9e
+survival	surv_966	Alive	3727											300df066-97a4-5978-8adf-6671a13e9b10	4d02c1d1-3e53-5aeb-9a70-db68b48e0b0a
+survival	surv_1159	Alive	3883											30bbc692-7690-5e13-b423-415b7755c299	aff1b2b8-6d4c-523e-8778-35148177a67e
+survival	surv_1076	Alive	4849											30ccc15d-9b17-5589-8d7a-fc58ec329d97	0223a34e-51fd-5df8-9cbf-7f295bc3e9ca
+survival	surv_660	Dead	6753	Relapse										30e0812b-32f8-5bc7-913a-a2af2392e21a	a7848c9e-a56c-528c-abf0-adb945e79038
+survival	surv_669	Alive	6718											30f5fa74-a6cc-57f2-936e-1786eaa48865	4c8a1db2-e4b3-5fd7-8c21-5c09a16af487
+survival	surv_855	Alive	6328											3100d608-2993-5e60-83f9-0315afa0d507	0118b8f4-2687-54b3-b717-31dd495f3058
+survival	surv_1624	Alive	491											31339d7c-897d-5ecd-a1ad-1c4daa4bb3f0	c41e4d15-a561-516e-9d75-d6f7fdeda5d4
+survival	surv_1044	Alive	3476											314a9492-bfdc-5411-9d8f-f3af8d6ad83f	68e4a2ee-98d3-5a2d-aa03-597efd62bc17
+survival	surv_1411	Not Reported	4746											316b2ae2-9a1a-5ba0-bc50-48cc1ab0e745	a2715d8a-599d-53f8-a0b6-ea412efe18cd
+survival	surv_845	Alive	4907	Relapse										318077ca-158c-5195-a783-1cffed6a7587	12177c83-9736-5e67-94ab-9dee0cfbe124
+survival	surv_729	Dead	7076	Relapse										31948027-77f7-51d0-974e-ecf234e64aba	75203e1f-a1c1-57af-a4f3-479028b3a62f
+survival	surv_488	Alive	4346											31c9c924-2d4d-5d32-b828-2ae82debaeff	c8d989c6-1648-5241-953b-27041e243c6a
+survival	surv_1356	Not Reported	4283											32000ceb-712c-599a-b9c6-3377eb20bad3	7b9ad2da-64c0-5c58-ae4b-202d7d6faa29
+survival	surv_826	Dead	3373	Relapse										32228bc0-ae46-587b-9d4a-729deb9a21c5	a79eebbe-888d-5074-a80f-ba6543793c80
+survival	surv_326	Alive	9462											3277b1d4-73ce-55ec-bb46-35dec1fdb24e	f6e8340b-fb87-5c59-a967-c0459a5b37c0
+survival	surv_37	Alive	3595											327acb21-5e0b-55cc-b129-7c5a3ac876b1	8eacc5ee-f079-55b4-92dd-5e447c0a575e
+survival	surv_1336	Not Reported	5108											32a69c38-4f76-58e9-92ca-1fcd70edf88b	914b7b18-d801-5a80-960b-f332ad9e8646
+survival	surv_784	Alive	4048	Relapse										32af9471-d38e-5920-8e10-307a711effa7	08bceffb-5e4c-54ce-99d0-4425ff4a937c
+survival	surv_594	Alive	5102											32c0642b-3421-5970-ae2c-3d1166fec0b9	dc1699c7-9a95-574b-8efd-063f64b9c76e
+survival	surv_632	Alive	1833											33387edb-cc5c-5a41-a35e-0d00b49e3c8e	5c10b61b-a49b-5bd3-aab8-ba5f79eaf861
+survival	surv_874	Alive	7222											33449626-e049-5d2e-bcf9-a07f284642c1	40ee0294-bd6c-51be-9af7-a573d6e1e409
+survival	surv_1578	Not Reported	7493											3358371b-fb5b-5521-bbd0-0f55af193bb0	5a7ad835-b576-568b-9568-525b3edd67e5
+survival	surv_328	Alive	4293	Relapse										336d72dd-2d22-57a3-ba95-520468c38597	54457d60-f3ed-5dc2-9dfa-588fc7da6561
+survival	surv_908	Alive	4205											33a30d5e-f0e3-58f2-8fdb-27b6469a211c	c7409d49-6b18-55cc-9b04-16d6922b5111
+survival	surv_1323	Not Reported	4342											33a5e538-ed3a-5b77-89ee-f0fac9b57009	f8fcb9d3-bd97-5403-b8cf-4b3844bd08d2
+survival	surv_1462	Not Reported	7094											33bab055-9b40-5df0-945d-8f2717fddeb9	669ca103-79a3-54ea-9f1b-5e2610603d9a
+survival	surv_1557	Not Reported	3358											33c425c0-3244-5036-a0a5-40760e00d866	5d9b201c-d000-5787-a637-e9ae25bb5d4b
+survival	surv_1501	Not Reported	8113											34012884-4e21-5718-a1e6-6b4071c1f0aa	3aa339d9-872d-52b5-a2d6-beb0d00d8b15
+survival	surv_1358	Not Reported	3211											3470fe14-232d-59f9-aa77-68d0f7673162	0a298426-978c-5c01-8b07-929ce775f44b
+survival	surv_1691	Not Reported	-999											34ba3652-7f90-5649-9455-9b656e00f6b9	dfaac69d-ce40-5c86-a5f2-f3737c661616
+survival	surv_124	Dead	6298	Relapse										34ceced5-d0e8-5c71-abe1-7ac9e6e618a7	afadc0d0-526d-56cc-a88b-910f5434ccc8
+survival	surv_884	Alive	4353											34fbc55b-a804-505a-b4f1-4e26ff3835e2	e80b8d2e-0620-53e6-8f49-8b071457fdcb
+survival	surv_1596	Alive	7547											353d4631-2f05-5cb2-b5bf-262c4891ae19	67f2d56f-ecb8-5177-8af5-a36ec610d6c1
+survival	surv_545	Alive	7889	Relapse										354674d1-eebc-5c9f-bfa5-aa62c20d2d8c	a8d93dbf-53bd-5d3a-b584-b50a47c05cf2
+survival	surv_436	Alive	4916											356ba71b-67d4-5770-af3b-c80b044a00c6	3c6004bf-a6f7-53f3-b374-f1b16b055485
+survival	surv_1063	Alive	4322											358d31fb-4eb8-51bc-ad1d-f3491486ee98	11d927e4-084a-5fe7-b853-5713c4f68c0d
+survival	surv_130	Alive	3617											35a73fc5-2cf2-5274-9e83-5710471c778d	c74c21a5-a37c-5647-83eb-6ff2be378c4b
+survival	surv_1314	Not Reported	-999											35e2b356-28f7-5dbd-b93d-bf1abe2d4e5c	40d07eee-3b97-5995-b74f-792e23028a08
+survival	surv_277	Alive	9871											362b0c25-3060-5882-b37d-1ffa1a72aa3e	e8826f88-ed58-560b-b3f6-fa06e872020b
+survival	surv_1026	Alive	5751											3643f347-4b96-574a-9092-e7e6aecc1288	8e7f4572-625e-5fb3-96b1-444b40b5544f
+survival	surv_419	Alive	1783											364ceece-c17f-530e-b3cf-81171de77580	fb129298-6184-5177-8d96-d3685861b260
+survival	surv_1694	Alive	2618											36577843-651c-56a0-893e-4404e468737d	00ea21fc-4d6b-51ca-a54b-271c18d58a47
+survival	surv_317	Alive	10270											36597f24-c523-5fa2-8bed-c7581250f3c8	86ef91f5-56e2-5b4a-805a-b31f083c69a5
+survival	surv_348	Alive	5089											36c56dff-02c4-55c4-83c9-778703d23587	8122ec87-6a87-5e1e-a898-67b19a1a4bd8
+survival	surv_62	Alive	5946											36ccee07-671c-5c6e-82b3-940f9f3cff90	23621b64-59d4-50be-b31d-b18cf78f3ade
+survival	surv_538	Alive	5692											372ff2c2-df96-5b83-b8aa-08e6c5b6d754	fa113b19-5244-5482-ad22-ad90f7b9635a
+survival	surv_1449	Not Reported	7390											3760a377-f5b1-531a-9b66-17018639c100	8cb2f775-6643-5971-8d2f-5a2c125ae56d
+survival	surv_609	Alive	6616											37834591-a2f1-5780-98bf-202fb08ce8cd	2dd6ff2c-6e37-5b48-9b68-31d70c2cd502
+survival	surv_104	Alive	6313											378b6fd7-b650-5b4b-9092-0a0c7b13529b	e36fe477-6596-5ed5-b084-cc45a4d12687
+survival	surv_1182	Alive	3933											378e12cb-0f56-56ae-b465-bcdbfdf2ff93	110bcfb3-bb11-5989-926c-a5055f45a481
+survival	surv_18	Alive	3647											37de1707-62df-5d1b-8b06-84adf753a762	1498a1c0-e5d6-5642-8bdd-2652d94e5f34
+survival	surv_362	Alive	5659											37dfcdad-fd5e-5cc9-bf45-9fe8b0a09a2c	c0829cf0-ef8f-5e54-8b21-88f115c5ce00
+survival	surv_1140	Dead	7001	Second Malignant Neoplasm										37ff1dd8-0675-59d7-a3af-692dee26bef6	81393756-7f63-595a-a08e-c0842e037d29
+survival	surv_767	Alive	8309	Relapse										38041a1b-63a2-5153-9c59-2eac546d3d00	be2eadc8-6748-52c7-82ee-19c07b57274d
+survival	surv_460	Dead	6020	Relapse										380d0dd4-8bec-5719-92ff-d88f992bf596	04757e96-db2c-53e7-bb35-827f2087b0f1
+survival	surv_1275	Not Reported	7490	Second Malignant Neoplasm										381f58f2-3d77-5281-83dd-b226b7946f00	cd196a5e-2dbe-5bad-9aa0-955d357cb5bf
+survival	surv_1467	Not Reported	-999											3826d477-8e97-5904-902e-bae727e2f135	dcf2bbfb-c1b8-5c92-a056-89eb7fe0c032
+survival	surv_100	Alive	7113											384e1189-8178-5659-b358-43e72654045a	ba37e614-6834-5540-9c7e-a24bc216b9fd
+survival	surv_187	Alive	9040											385efdb7-2b8c-5229-9efc-3a51da151145	b8c639e6-87f1-5599-a167-5fe11052e2f1
+survival	surv_1259	Alive	7826	Relapse										3942ffef-a66c-519c-9a9a-2214997dae0c	8664aae0-f42e-5331-b683-f8af297c7cbd
+survival	surv_947	Alive	3865											399b54b8-efe9-57ce-85ea-5e0134b0093e	aecceb0c-5359-51f4-8264-21c5193fff15
+survival	surv_753	Dead	1584	Relapse										39c61e39-775b-5bed-ad15-07911ed9ae6f	d130b123-2247-5b0d-b1ff-108d7e1c7789
+survival	surv_1660	Dead	4576											39c99eaf-2f3a-5a46-91d8-71eb9715f263	b8d20902-b4e9-5afb-81e7-7a33990ca871
+survival	surv_891	Alive	5485											39e071bf-cf26-53a0-b683-af52729ec369	df2ff6e0-8f0b-53bb-a2b6-eb5433dedab6
+survival	surv_1630	Alive	8247											3a01eb81-1e4f-5131-9ccd-d40e26b11075	2b013516-d45b-5196-8248-b524e7e475ec
+survival	surv_298	Alive	7752											3a129469-64e9-5399-bc03-1ec27659e2d8	f29d29fa-0943-53a9-ab62-bdb346c8fdd4
+survival	surv_1290	Not Reported	1987	Death										3a14526d-9de2-575e-81cd-fe09cef3fb1b	aa6060e1-1a9a-54bb-99a5-ef5407284c42
+survival	surv_237	Alive	4371											3a2be7fd-2401-554f-b3e5-4bf188a58496	67a87ce9-fc14-59ec-8194-c213251cdeb4
+survival	surv_83	Alive	8771											3a386b51-e0cf-5281-a88b-fa9e4dff760e	7b24c46a-37f9-5c29-9d08-ac430fa6d591
+survival	surv_1629	Dead	212											3a55685d-ea42-5120-9146-db3137298de1	631e27e5-f3df-59e4-ab74-f32aa83b5902
+survival	surv_503	Alive	4620											3a57d864-2514-56fd-a365-5cd7c2511371	bdb79240-d2e8-50bf-b810-c5f326eca134
+survival	surv_232	Alive	8379											3aa615a5-d066-5755-b0c9-9da24dea8e35	b6e7ece4-ccfa-5e16-b60b-ec5b91e38d4b
+survival	surv_1083	Alive	2402											3ad66de0-1ead-567b-a2f2-2c8a8affec72	1827929a-d3dc-54ad-bba4-d18457afedc8
+survival	surv_233	Alive	9887											3adac89a-378f-521c-98a7-45409d5e8006	9ccb6203-6739-549e-9452-e454484aaeca
+survival	surv_361	Alive	5021											3ae49a7b-bd62-53ef-98c0-fdefd61cdfca	3d8a8a9c-0d0c-53e5-ad48-3006c4da43ca
+survival	surv_152	Alive	5882											3af4bf14-a23c-5702-88c0-e3723c602010	7f3df429-cd31-519a-afaa-d07fcc676bad
+survival	surv_1087	Alive	8342											3b0aae7f-b1ff-5d76-81db-4747e41c3758	70987b94-7c48-5239-8899-5269a0e36be8
+survival	surv_1160	Alive	4806											3b231893-b247-5199-bdae-2c6b63dc256e	abab5d60-dcd2-5a0a-b8c3-a89adf1f63c3
+survival	surv_1571	Not Reported	3232											3b3474a9-0e04-5e8a-95ad-035f7f7b06e5	766194ab-515e-5d0c-97ae-df0a730729fa
+survival	surv_1113	Alive	4625											3b68d09b-51eb-5960-a1cc-5087c57bb3de	8ccb3d8d-8e00-58ce-893d-b699f1985598
+survival	surv_638	Dead	8634	Death										3b8632e4-326f-5f35-bbe0-820a27ede4d6	2cd8ae57-4186-5998-979d-43fe40608ed1
+survival	surv_432	Alive	6011											3bd79c92-89dc-5907-8227-f5d7fe4af89a	9e1bdd9d-82fb-5b08-9d65-bd21afa9d7f0
+survival	surv_1545	Not Reported	7483											3be1e1ea-6f08-5f3d-90f8-77993ddfbbd1	5bcad100-c395-596a-988b-26a599ce15fc
+survival	surv_981	Alive	4432											3be723a3-a6f0-5513-9a7c-e380e2d7e22c	5009687f-f820-560d-8a9c-81029eceb3ea
+survival	surv_1056	Alive	4534											3c02c9d8-b0a5-5cc1-aed1-83ef3c0253dc	19eb865c-4f4e-5ab2-9e03-0d985dc91671
+survival	surv_1075	Alive	5114											3c10bea7-e6a8-5475-acc0-7f981cb2e515	ac006ee1-7e84-532f-9b34-22b53ce1bfd8
+survival	surv_1171	Alive	5970											3c13db36-9e51-5cd8-b4cb-031a0d6d19cc	69edecbf-66a5-5337-9845-6b2bc3469280
+survival	surv_1478	Not Reported	4849											3c184837-85df-5365-8d0a-7b834d7dca9c	51217792-d9f4-5122-a3b9-2e8cf54e2f39
+survival	surv_652	Alive	5138											3c27cf18-111e-5886-be5e-41a4aa466f2d	0e9999de-2c7e-56f7-bca2-c72d483ddd36
+survival	surv_1313	Not Reported	3278											3c2f61fa-9e2e-515e-8eb6-227891f864cf	fcb10578-c53f-5134-8361-ecf5489919f1
+survival	surv_1488	Not Reported	3215											3c612934-56d8-59ff-b3d0-6a7b2cd40ae2	3f6cbed2-cfe5-54c2-8de1-de8df84e414b
+survival	surv_1274	Not Reported	6228											3caf76af-53e2-5d3b-8c2e-0f2cf490cc07	9d878055-4ca2-5a95-9c1d-c98f0f507ac8
+survival	surv_571	Alive	4698											3ce4fbca-7a5a-57d3-a604-a05791fb343a	6f580a5f-5735-5584-b79f-b96cbb686046
+survival	surv_226	Alive	5461	Relapse										3d11b9ea-8102-5bc9-a840-e4093baff091	c3ee190a-f496-55d0-9661-15a00a2f915e
+survival	surv_950	Alive	4687											3d17a408-5ab7-51c3-86c4-3e3030c2fb58	23db1ebe-22cc-52a0-9938-e3e12b08fe1c
+survival	surv_1287	Not Reported	5361											3d38a78f-138b-5ba7-a1e6-2655143929a9	33b1d846-3191-520a-88cc-841669c43636
+survival	surv_385	Alive	7977											3dcba633-80e4-5786-b09d-fa15e2e4bf5e	1e0c9b4a-ebde-54d5-a1c8-31eb4a863c05
+survival	surv_158	Alive	8866											3dfce510-1f0c-5b75-9e65-6e0ad57e1ce2	b3057f4c-d8f5-540e-b61a-33b13c56e445
+survival	surv_1184	Alive	5737											3e58fa2c-717b-50d6-9acc-5b326ea1a0d3	8b855093-c9c2-59e6-924b-cd913c4db90f
+survival	surv_1346	Not Reported	8233											3e5d3699-01de-532b-847b-4b88b978b701	73f9101f-2215-59d2-8cf9-d2f96f89b23d
+survival	surv_177	Dead	8502	Relapse										3e61f024-d433-56fb-bfc7-e7ab95dc1c0a	87e9d2fd-c5f2-5b99-b12a-b0c87627dc3d
+survival	surv_1586	Not Reported	5425											3e76e732-857e-5bd4-bb24-8220f83fe548	482f2130-e035-524e-b1a7-fcb25b5ee80a
+survival	surv_1521	Not Reported	4992											3e9d8409-5b2f-53ef-bbc6-22238a8be507	3d7a0220-dd9f-5736-b4c1-af18145eecc2
+survival	surv_633	Alive	7306											3ea0aeef-2d54-54db-9b4d-8cd1b6f4403b	eb7e231c-d5de-5906-898c-20711dfab4dd
+survival	surv_174	Alive	7595											3edb2176-c97e-54aa-8a97-57681fe57d22	8d06adb3-3f2c-5c70-ab85-9cfab9f8d833
+survival	surv_1325	Not Reported	7780											3f821f9f-6946-5cfe-a842-46a9b7732aa8	3ad7ec08-57fb-5c49-aa80-d05efe2ba2cf
+survival	surv_1345	Not Reported	7550											3f9d0dbd-a2d8-5734-9b0d-ccfbfa01a6f0	2b6fb09c-4c85-5e73-ada4-73d41314e2a2
+survival	surv_818	Dead	1072	Relapse										3fd30d50-5aea-5541-b010-3368b94b2d11	9e4b6582-66a3-5207-beb1-34efd0d5c082
+survival	surv_1019	Alive	6818											3fe286a2-6bce-5e0a-bee5-1eee4ab0abb0	a789a30d-b2ab-5f8f-b58c-bee25028e1fa
+survival	surv_245	Alive	4828											402ba4c0-e1ed-5ea5-95cc-5b44c5ce3ac3	aa22fe85-3989-588b-aa79-7fccbd60d696
+survival	surv_1572	Not Reported	5159											403818a9-a5f4-57fe-86d3-023e8d1f6665	6e37bd3c-68fe-511f-9abc-85deba49dff1
+survival	surv_1641	Not Reported	-999											4042759c-a9ef-5089-aa01-8207948d3c54	d2f2f627-db56-5368-bfe6-07d9734d5fd9
+survival	surv_424	Alive	6577											4055b7a9-88ed-5487-99c5-061ed11673d0	8c91b194-1dbc-5a52-aaa3-a82ae9bf1b3f
+survival	surv_371	Alive	1891											4057c1f1-3e17-5ff9-8b33-3bbd1c3a3ed6	a0663353-90c8-52cc-9208-3ad510aecbdf
+survival	surv_783	Dead	8448	Relapse										405a8ecc-da93-518e-89b5-22a3c86c483c	d159e0fa-bab4-527c-8575-3b20e6c170ff
+survival	surv_1546	Not Reported	7730											406955aa-cd27-5495-b745-f95a0e2dd74a	2f03555f-5b57-5814-9b6d-fd9a492181e2
+survival	surv_278	Dead	5668	Relapse										408fc1be-b3ea-5cbd-af71-568e9d49efc8	e3335c60-ccfd-570d-be12-68edba1f3728
+survival	surv_627	Alive	7303											40e9d0ee-4c03-5772-86fb-3314da4b1194	ccdc7df7-44d4-5dae-ac73-40b41b7ca201
+survival	surv_530	Alive	8164											40ed3a69-d3dd-5893-a2c0-d3307ee1571d	8938a852-5539-5a72-80c2-06531a5ca5ec
+survival	surv_775	Alive	4388	Relapse										40fd2b96-fc3e-58bc-ad6a-3b2102e5e74d	1e34fade-5d65-589c-8a1f-7ceceb920cb7
+survival	surv_688	Alive	4818											410aa03b-7b4b-5cb3-a12f-e9560c87144d	1cb9fd89-b804-55d2-95c0-6b326feb2ad0
+survival	surv_1109	Alive	4857											410b1a49-c5bc-59d5-9366-7e04e3eb604c	4a7a2228-9e29-5de9-881f-9e0f54f9d08a
+survival	surv_1399	Not Reported	7170											4141779d-2851-5502-a5be-bd879309ff9d	c0e7e29d-98c9-5eea-bc49-a2c293decf03
+survival	surv_1038	Alive	4828											416177e8-8c8b-5adb-81fc-15e48ce126eb	81810830-caef-5d71-b782-6b174530d722
+survival	surv_369	Alive	9174											416fd4a5-6a45-5a5c-ae04-719426d45393	01a35d62-2a59-588a-ba35-0cc4aeee23ca
+survival	surv_1531	Not Reported	8803											4186e6b1-5fd1-56c2-a99e-a5fd79ad4120	dbccb068-9651-54d9-9c6d-c39d5f528c0b
+survival	surv_623	Alive	4431											41a556ea-5476-532a-8f5d-a0e3dbd376fe	a20e203a-35f5-53b6-a16c-7f4b1fcc8b4b
+survival	surv_1123	Alive	4645											41b34de7-e39d-5161-b5d8-94b40826a56e	f9fa790d-8f99-5a7d-8846-c25504417166
+survival	surv_10	Unknown	5091											41c4848e-b6af-5fc3-a884-0ea36964d194	fff4b5fb-1401-5e22-8470-4d6a96c3715d
+survival	surv_886	Alive	4722											41ebe164-55ef-516a-a9d7-7ca4087668c1	398dea3f-b209-50a8-af31-40e60d1e8a3d
+survival	surv_451	Alive	7815											422515ca-18a2-5e63-9fc6-03853e2f1b96	ecbf3083-f96b-5ee9-b90d-47023dc756ed
+survival	surv_881	Alive	5745											4232f1c8-3c0f-55c1-b1a6-2c238674782e	1ce7cc32-7fd4-522e-841f-4e6cfd4b1408
+survival	surv_1137	Alive	3665											423e0e06-d4af-5890-bd57-dc6825803110	4998deb9-051d-59e8-bb5c-a450662d7c56
+survival	surv_927	Alive	6158											42b85773-9140-51bb-b890-ba2eaf80a27c	7daa71ac-1a4b-52f2-9811-03926b4c7fcd
+survival	surv_852	Alive	5094											42dad424-30b6-543e-89ec-fbd015a17404	388fdc7a-d31c-55ea-bba9-4d5fdc7b0d4c
+survival	surv_404	Alive	5349											434998f7-eeac-5dc3-869c-e35dde423e89	63ad971c-5f87-5a81-a656-56983aa18e33
+survival	surv_1066	Alive	8968											43537bf2-64ac-519b-850f-3ecebd29e316	8577fcc9-4892-5cf0-bd91-35ce159d7190
+survival	surv_1108	Alive	3804											437b3460-cf14-5850-a8d4-01622db4fd62	f4799b55-ac47-5a75-8600-86109486d04b
+survival	surv_1458	Not Reported	4528											4392e5a2-4e51-5284-a09e-15e0a102f051	f2a23149-552c-5243-a0d9-bb8e428dde04
+survival	surv_1242	Alive	6397											43977a85-1465-5da5-8a5a-09a3b8465689	4e2d4876-7f14-543c-ba97-44a655b1940f
+survival	surv_765	Alive	6017	Relapse										43caeaa4-6f19-548f-bf28-beac75e029e0	14a3f403-7ae5-552c-b0ed-ad5b588bcd47
+survival	surv_113	Dead	2802	Relapse										43e3d169-cbff-5c53-b66c-e82e0c20880c	d83781f4-e176-5d97-aa47-a2063d78869b
+survival	surv_603	Alive	8274											43eb3881-ee45-5ca5-ac91-bc87094470a5	f501988d-a98a-52df-afce-af99bcf6c94f
+survival	surv_690	Dead	6595	Relapse										43f3702a-2705-5e7e-9be8-1bb00b72c999	659c74ab-4a5c-5952-a499-4da60fb29ff6
+survival	surv_517	Alive	6004											4405c857-e864-5bd3-91a0-516215dfcf9e	13b7b482-0534-52f4-b924-ae7d33e2c76e
+survival	surv_320	Alive	9339											44397694-4afd-5119-8ee0-a4feec97fb70	c07ec4c8-1dcb-507d-a6df-f9c6dc0e5777
+survival	surv_483	Dead	6476	Death										44691319-f907-5b5d-a6ba-4e835d5511e7	9f4c1764-1102-519e-9f4f-49b2e811e953
+survival	surv_175	Alive	7702	Relapse										450c6ce3-415a-5193-a437-3939ee1ea90f	98634524-ab24-53a0-8b3e-457b6957bbdf
+survival	surv_1461	Not Reported	5787											45611da8-dbd1-5e7a-bd45-b0ca9f2aae4c	67486093-90d2-5bb8-a00a-7b1747c274eb
+survival	surv_766	Alive	4344	Relapse										45acae0d-b058-5910-be6e-d334f628dbb1	9b196ab3-d966-502c-8d6f-57783c30bd47
+survival	surv_254	Dead	6765	Relapse										45c063b7-0d6d-58ce-97b9-33629d04879e	f9f67150-7b66-5a84-8fda-faeda83dd0b5
+survival	surv_809	Alive	5344	Relapse										45d77ef4-42e3-5684-a38e-828d6763baff	b2f7d2d3-d7a1-5543-a14e-f4a437f22204
+survival	surv_1344	Not Reported	4098											45f58098-b79d-54f9-b368-47e436fdd483	64161ee4-ae55-57bb-a552-73444c4b5c8d
+survival	surv_95	Alive	9069											460b2c6e-4b37-5bb7-91db-756f006742a8	f880d7a0-2160-525f-bd02-f3118e18306b
+survival	surv_514	Alive	4215											463fe84b-2d1e-57c5-adc4-e4fb37deb46f	8f94551f-04ca-59f1-8c4f-1fc8be4deee8
+survival	surv_907	Alive	5200											4696382e-fe1d-56d3-abc8-578dfb06a844	d1983a60-bfe0-5f75-b1bb-f9a5807c24e4
+survival	surv_79	Alive	9869											46ae1d6a-234b-5bcb-840e-92db8a9bc688	7efd010e-10c6-5590-9e3f-122f9e8bf49c
+survival	surv_561	Dead	9846	Relapse										46b8f9da-0b46-5099-829e-6b1ee2727a85	b9e5e648-c76d-51bc-8e0e-28d07391ffe9
+survival	surv_683	Dead	5328	Relapse										46d3ace0-064f-5383-aeb6-416a853f438c	b4f9acfb-9287-5ba7-9f54-714d7e671b66
+survival	surv_1261	Alive	4583	Relapse										46d88751-c122-5314-b954-2f54bdba69ae	db216242-c346-5d1f-92a1-aa652fddbfe9
+survival	surv_922	Alive	5121											471c964d-3bac-5860-80ce-cdf8962ad252	1ef77d60-8a2a-5421-8114-925af3a0a63f
+survival	surv_274	Alive	8089	Relapse										473abb12-7fcf-518c-926c-b8983f0c3e21	450b0d9f-8032-5e82-8b29-8a06aeab7e3c
+survival	surv_839	Alive	4772											47593fad-8d7f-5acc-a0d9-32db5d788bf3	2b1b38e3-5c28-5515-816a-731648f6ca37
+survival	surv_493	Alive	6805	Relapse										4825c132-cece-5020-b8e3-ff078fa2f5ba	a447bbbf-6571-5bf7-8e97-b74d1d19e7f9
+survival	surv_413	Alive	6933											483d74be-3e5a-59fe-92e0-a6e9bfeb5a8c	927d5347-7187-571a-baef-0594d06a62a4
+survival	surv_946	Alive	5007											484455b0-6ecb-5c65-9b2e-1ea10072c73f	91f893a1-3aae-5caa-9d27-a2cd850a3f91
+survival	surv_1525	Not Reported	4822											484e3666-c1bd-5a77-8ea4-0a8163c4d11d	c01f45cc-76ea-5525-a18d-fbc074ee1f2c
+survival	surv_1057	Alive	3691											4898ecb4-bb7c-586c-bd2b-f51be0bd642a	8907955a-7de5-5309-9095-7b919e40dff1
+survival	surv_106	Alive	6622											48bc7e60-c2f9-5977-b6a3-ed34160a54b3	e9764d12-3cb5-571f-848a-14fca1a7cad5
+survival	surv_1125	Alive	4784											48d37fe3-3c6f-5029-8c69-ae52a60482c3	bf6f4919-718c-5ae2-ba25-0ac59a6326fe
+survival	surv_321	Alive	8325											493ceae7-e9b0-5413-afdd-d8f834fcadc0	c1704e6b-5f12-550a-b34a-ca675ce7044d
+survival	surv_1435	Not Reported	7650											4940a687-d04e-50c6-848f-c6d75db0042f	e8b71f28-4764-5550-8244-c632b06230db
+survival	surv_68	Dead	4930	Death										495d8e37-ee74-51b5-9a72-67210143e4a2	16081253-e4f3-54aa-b003-9e850afc1622
+survival	surv_536	Alive	4105											4984b324-11af-5526-8488-13c4e07dd4a6	aaaa0b8c-6c18-5db8-a74b-f91356fba418
+survival	surv_13	Dead	1491	Death										49ab34b3-7241-5be4-b422-3200e744664a	1eb5ec2c-5d45-5600-9e22-e5b689ad5975
+survival	surv_1681	Alive	3378											49aeebb9-0bae-5d80-9703-29f422f70ee4	9d770642-5f51-5a21-8c2f-2d199f516f25
+survival	surv_319	Alive	7940											49c7e28c-b452-5c39-a5a9-80195f4d75b5	7b4432b5-aef0-5bdc-94d0-f3395d46fbfb
+survival	surv_931	Alive	3522											4a15abad-47ba-586d-b409-288c36b9f87a	286dcd0e-a592-58bf-9e3f-e700839fdda3
+survival	surv_1670	Not Reported	-999	Relapse										4a7769e4-47a1-5fc4-88d7-046d6e1dca23	e9067a61-1ebb-53a9-9f86-4e2070252e3d
+survival	surv_1701	Dead	3936											4a975b40-92b3-5a6d-b191-8bca7e0a5bb7	c6ed3c56-8e88-5d47-9bad-14ef07dd8ed9
+survival	surv_1566	Not Reported	4448	Second Malignant Neoplasm										4a996d37-683e-5d51-94cc-128078be9b64	d297745c-242c-52a3-94f6-1eeec510bd54
+survival	surv_1570	Not Reported	5549											4ab40028-9dc2-57d1-99d9-b65b46c7835b	d59bd662-f419-5b29-a0e9-94f370aedf3a
+survival	surv_259	Alive	5277											4ac399ec-45ff-5631-a863-50cf768fa195	41722dd8-fea1-5976-b036-9c3e6d0225d1
+survival	surv_1162	Alive	-999											4aec2f93-164f-53d7-8aec-1cc00e9f6f5f	3a979e4b-a8b5-5dce-b703-18210cdbedfd
+survival	surv_327	Dead	5060	Death										4af85e4b-204f-5ef5-8a97-57ce35bc4c96	13dbd338-f988-541d-9bd6-1f6c463f72b7
+survival	surv_1609	Dead	6077											4b0b0f66-d35a-542a-b9fe-110c132fd2c2	985b73f0-4adf-5226-98d7-69f04978d265
+survival	surv_246	Alive	6531	Relapse										4b13d3d9-d163-578c-a766-8151cf46225c	be180299-0e10-5b5c-8491-a80035f4bf75
+survival	surv_272	Dead	2545	Relapse										4b22eb2c-b77b-57ca-8c31-7b13f2189680	f1d590b2-7ccd-5f8c-a7a2-2513d1667ea6
+survival	surv_1633	Alive	3545											4b23da3d-ea63-5235-baa9-72429d07c611	1fb48b9d-eb56-578c-a9b9-71a6de1fec47
+survival	surv_1653	Alive	1707											4b34e9f6-59dc-55ac-b8c5-704f9ead07c7	a2449bed-262a-5562-980f-446ae424607c
+survival	surv_813	Dead	5618	Relapse										4b37234e-e8a5-5fd7-ab61-2024e62bd276	1c40d7d1-786c-5636-b57a-a888c7c452f6
+survival	surv_144	Alive	4235											4b3cd84b-11a5-53ed-a6e6-ef21b0f6d04f	5b483e2d-8a59-56f4-a243-01ee670f09ed
+survival	surv_508	Alive	7865											4b50dd3f-593f-57a9-8455-18a92f4b9ecb	00820685-1bc9-524c-8864-658845e562f5
+survival	surv_835	Dead	5253	Relapse										4b5e79b3-d795-5784-837f-f784766b39dd	adcb6ff9-3209-5eac-b6a7-32ccb125b777
+survival	surv_1552	Not Reported	7128											4b94caeb-4431-577d-a049-cf97993b20b4	e5370e8e-13e1-5063-b9f8-4b89de4edab6
+survival	surv_1188	Alive	5523											4b98ab12-7cf2-57be-a25c-a8e6edcad2d1	4b8be1e0-b962-554d-8756-9dae1180aa3a
+survival	surv_925	Alive	5198											4bc3f95e-0813-52cd-8df6-5b067c3225ef	9e47eb53-9d0b-5801-94bc-c99f30b53288
+survival	surv_197	Alive	8449											4bc4dd3d-7379-50c5-ad63-c526ad6cd36c	fcf9497d-fab5-5eef-93e6-9c23595c5d0e
+survival	surv_1463	Not Reported	3267	Death										4c671b05-a7e6-534a-86a8-aa8f7f61ee57	8c1706c0-5511-59e6-b002-370be8c64236
+survival	surv_375	Alive	6653											4c7d54fb-1e17-5300-a3f6-3f8527ac2fd9	ed7da4f4-c365-51ee-9c88-8fcb82f37531
+survival	surv_1270	Not Reported	8074	Death										4cc8315c-0cd1-5b29-b073-6b55042329c9	226571d3-bd7f-556c-8cfb-d81bda191a2d
+survival	surv_350	Alive	9236											4d0fb59e-e525-5daa-a2a4-aaec61fed9cc	3ba18aec-32c5-5a45-9edd-5a3bd0118bb3
+survival	surv_383	Alive	8292											4d2487bd-479a-5799-9b0a-424f1dbd9b52	ffa0ee61-6ed3-546d-b4e7-b2b9fda33e7c
+survival	surv_1179	Alive	4394	Relapse										4d2bd6fd-0368-5459-8b29-6ca15ca07b9b	66909429-7fae-53c6-9afb-969497054abe
+survival	surv_926	Alive	3430											4d3e9562-e131-54d7-9121-edec60617613	9a972448-aa03-534c-9cb5-fe1c420dfef7
+survival	surv_988	Alive	4508											4d5af11c-eca4-533d-9135-5f974d26dff5	a38f80c5-2c57-5e37-957f-dbdb8f0a5033
+survival	surv_1232	Alive	4427											4d9a5fe3-d44c-5c75-8852-91f47cf0ee12	b00f8816-4dc2-5fcd-b7ee-a60129e0dae4
+survival	surv_41	Alive	8075											4ddc40d2-f0b8-5654-8e6b-68fe276c8651	92b9330e-6620-50ed-bf38-422f3abaeaf5
+survival	surv_1133	Alive	4532											4e007c5c-6fc1-57c5-bd1b-cef1893c3d37	1c466158-f7ee-5a6d-ba59-ab35758cb193
+survival	surv_637	Alive	4990											4e3cabdf-3f9d-550c-af02-69c89e987126	2929f392-f033-5220-9746-ded809513ff3
+survival	surv_987	Alive	4574											4e8238db-f10a-5fc8-be49-ab83c3c757d7	27185ee8-3a25-5dbe-ab5f-72b5a08781e4
+survival	surv_863	Alive	3994											4e9fdc44-98d2-5a14-a697-f05b95d13e08	c2a378ab-7205-53e3-a8d4-72ed5bc89a75
+survival	surv_1509	Not Reported	6230											4ea19285-b437-5308-8575-93c89c360c10	9e3ef51f-763d-5e97-b929-d32ae26d9442
+survival	surv_1497	Not Reported	6104	Second Malignant Neoplasm										4f06575f-884c-5dc2-a8d4-234fa3135038	c5d2efd0-6f6e-5b71-a2f9-c4521607c449
+survival	surv_1438	Not Reported	5199											4f173870-5e55-58f5-a47b-481ca55014bc	13a5343b-8d65-5b2f-8429-edc2089d564a
+survival	surv_329	Dead	6163											4f599d9d-24de-59a9-b6a7-988ada079cbe	044e9025-3ea1-51f3-9300-6239291339b2
+survival	surv_1262	Alive	8177											4f9142cc-d007-5144-9cd9-07a5f64c4845	1d012d64-1705-5238-97f9-2bbdeceeafd4
+survival	surv_757	Dead	6658	Relapse										4fe3f198-883e-5316-9527-bacf1ecf7354	aab8ebfc-1771-5372-aab4-6391f50d1f0c
+survival	surv_378	Alive	9943											4ffcfb31-3d76-5c74-a2bd-af1245c7c96b	77eb5d30-a425-546b-b0c1-8ff9003d17de
+survival	surv_1489	Not Reported	5274											500c09b9-4d08-5661-8a17-d2b79169113c	78438985-2fa5-576e-a2cb-a73245ee1e50
+survival	surv_1281	Not Reported	7713											5030ffec-2adb-592c-818b-ad5fc7d2eea0	bb09d31f-520a-5ed3-91fc-aff7ddedea6b
+survival	surv_457	Alive	9000											50798c70-7920-5084-b985-fc9bff8565a3	5c6fd59d-1b12-5622-b0f5-5293de06e4f4
+survival	surv_1143	Alive	4639											50ba5862-7f5e-564d-b2e7-b9fdc1d7dfe3	70797083-c11d-5197-9589-10a209ff3107
+survival	surv_178	Dead	3437	Relapse										50cba481-8002-5a34-bace-d43d99d1c431	75e4a0f1-a285-593a-8024-5a73259bd3ab
+survival	surv_1514	Not Reported	6617											51109496-1a2c-58fe-a840-ac88fdfd24de	d764cc5f-62b6-5fd9-a05b-3b3a5f2bf306
+survival	surv_122	Alive	5137	Relapse										51230d0f-12e3-5df2-8945-4c9f5f40bb35	fcc45abe-3ba6-59e3-a21d-7eeaf53bc75b
+survival	surv_1603	Alive	5186											513059c9-6083-5349-8205-41ff0bd31ddb	6cbef877-a541-5c15-b9d6-a84f7bac67bf
+survival	surv_1166	Dead	5059	Relapse										518189d3-9097-5fe0-81f9-eaf4ed1722e1	ea3caf5c-0182-56af-954d-d224566fa0a7
+survival	surv_43	Alive	6295											518f7747-12df-5131-9b54-70812701dd6f	e3756ec8-d3b0-5942-b764-58a983e4cfd5
+survival	surv_1158	Dead	6878	Death										51bab458-16b6-5ceb-a0c8-3f79ff10e721	3f0fe313-067b-5969-b0c5-eab5a8753bc0
+survival	surv_279	Alive	10057											51ce3126-ba04-5a62-9e6e-2e03beee7dea	7789cbb7-cdde-54c3-8dec-7ed65ebc628d
+survival	surv_407	Alive	8251											51dadbfe-5d02-508f-81de-70cc1223f206	b660c00d-1e64-56d8-9945-dcebc4151eff
+survival	surv_1688	Alive	3986											51de1369-0786-52fc-b29c-cf2e43c190d4	c6179742-1aac-5463-b8cf-dc003d5bd374
+survival	surv_541	Alive	5200											51e24017-7f31-5211-a080-c69adba71047	cb278bfa-0def-5275-9132-36214c314fa4
+survival	surv_646	Alive	10154											51f4f639-72cf-5363-bba7-a2fadafc9b8c	44de91fb-d79b-5a1d-84e2-5db98e5ea18e
+survival	surv_76	Alive	4567											52318d0a-ef77-5876-a13a-92b0c4082742	ecfcb047-20d4-5ff7-b232-6d7b664e2761
+survival	surv_267	Dead	2548	Relapse										5298a860-ba95-5e64-be42-d0b0402c7a8d	6b66a04b-8a23-5c0b-b0c6-9a463aea298a
+survival	surv_1440	Not Reported	5715											52c707e7-94fe-59fd-ba4a-67dac52b1ff7	3a45f027-8c96-5385-b552-83cd568ad673
+survival	surv_25	Alive	3298											52e96b93-8b34-5ac0-94b0-49ddc6b338d8	0cd47a5d-88de-5f11-8c53-ac296d563374
+survival	surv_862	Alive	4430											5338041c-e32d-5deb-942b-5dc6e2e315f3	2f2e4d0c-56d5-58f8-8a24-82b16067ee9d
+survival	surv_135	Alive	5087											534e2695-ad8e-5b07-ad6d-e814d60ad7b7	ff872a9f-0117-5d4b-976e-f716a2f6d987
+survival	surv_1282	Not Reported	3963											53640c69-4258-5b77-bc79-a2a02dde1c5d	9bb65cf6-60f1-5a00-9b16-55e2db2c50e9
+survival	surv_402	Dead	4153	Relapse										53824b1e-ddb1-51d3-a990-c8292f0d964e	9b6873f6-712b-55d2-ba0d-119c997a9917
+survival	surv_1148	Alive	5049											53d2bdef-f55f-5339-a175-408eb224b124	cfb94c11-e411-5973-b428-8795e527080b
+survival	surv_872	Alive	5013											53d8aeca-779d-5e4d-9f2b-c384bd8d6970	b174202a-dc82-5108-a353-26d4d96cc976
+survival	surv_1554	Not Reported	-999											53ed47b8-242e-5295-8281-24efe4a4bfb5	8394c2c0-997e-5dd0-b53f-9292b6aaebf5
+survival	surv_400	Alive	8488											540028b4-78cb-5dd7-94e2-a37963c3d35c	3745c62d-a491-5a76-8dff-34fb7fe9bf31
+survival	surv_206	Alive	6290											54b137e1-5749-53b7-8841-32f040df227d	3b2e3010-9cb6-550f-ac9e-53b1e6359980
+survival	surv_625	Alive	8463	Relapse										54ff4dc7-aa29-5b1f-a564-2d8175bf7a4f	8531ed46-4ced-5ab0-9c92-0ec71f0302cf
+survival	surv_1105	Alive	1598											55befd69-42c4-5c19-a07c-2719f245c571	ea74ec6d-d8ab-585a-86a9-1cddd91d3fa8
+survival	surv_475	Alive	4595											55c4ca15-6e61-5d5b-b043-bee3303d41cb	0d35f22a-35d5-5b80-8f59-bbe791d8105e
+survival	surv_1364	Not Reported	5131											5609354f-973b-5945-8105-030aeac1f947	8929176b-3418-51a6-a2e4-505dca8c6e4c
+survival	surv_1235	Alive	6536											56862e1a-ed5b-51da-907d-eb7b99f8992f	01981e3d-33d1-53c5-95d2-ac604377fb0c
+survival	surv_172	Alive	8882											568905bc-4823-5595-9e11-d639053f4b55	79017768-71c7-5a87-b879-35bb28289c56
+survival	surv_1138	Alive	4573											56adf74a-6e66-5a6b-a89e-b7b122a2fb63	f7750426-aa8b-5339-b5e4-09b9ecf7eec8
+survival	surv_1227	Alive	6956	Relapse										56c8ca44-2659-5e7d-8825-25fc4944fcba	00d1d1a9-1514-524a-92eb-27e315cebe6c
+survival	surv_1260	Alive	5692											56d40bd7-781a-59c5-bf69-e4d85da3e449	8e59a254-85c3-54e9-8dbd-a69623632213
+survival	surv_1284	Not Reported	3736											5733ee89-e424-5e4f-bfef-5f8c4d674bc7	09e9ab04-5842-579e-81af-580c87522c47
+survival	surv_409	Dead	4898	Relapse										5735c464-55e5-520b-b6fb-9c57f107bdc6	374a2c29-369f-5fd8-89bf-3abd08fd8a5d
+survival	surv_1608	Alive	7057											5740c0ed-728a-5220-828c-0e18ffdb3157	63ec0cdb-8951-599f-8956-c99bc67784d3
+survival	surv_99	Alive	11256											575b2799-3d41-590f-9357-cea17e09ddd5	5963a338-84c4-5385-af15-7116dfc39fe7
+survival	surv_349	Alive	7021											575f3198-11e3-5da6-9daa-b8ef40b26862	6ef4ec38-ce8a-5136-964c-7ffefbeeafee
+survival	surv_732	Alive	8942	Relapse										5788b9ad-677c-5313-9043-46e4704cd14d	1b456c4a-c436-5b96-aeb5-5c36bc6fd601
+survival	surv_65	Dead	8237	Relapse										578b72ea-51db-5879-adb4-a873a155a430	d927abc5-6159-5104-9d83-62de27faef85
+survival	surv_1231	Alive	8560											578d51a9-14bb-507b-bcf4-e4dc7b9e3897	86f15681-cb06-57bd-8009-f4d51f177c7a
+survival	surv_1051	Alive	5481	Relapse										57afdf14-5caa-5368-9d0e-c917102062c4	fe12bce5-9e98-52e2-9289-f30b17fe49bc
+survival	surv_945	Alive	3908											58534dcf-bd65-5c91-b93e-675e4f5c73b3	55ff30e2-964f-5f19-b321-d7af7739aa5d
+survival	surv_1102	Alive	4331											58554e22-bba2-5984-895d-695a15fe8a65	c8fee5f4-332e-5d06-aae2-e44202d455bb
+survival	surv_408	Alive	5433											5872bf8e-8837-5c86-9013-060dcfee78ae	e2419dde-f3a1-51b8-8eac-c0b06d3338bf
+survival	surv_905	Dead	900	Death										58744c4b-fd55-5dc8-b970-27f0b88c9fce	d13bb1b8-72b9-5c82-86fb-d7ad37ebbdff
+survival	surv_358	Alive	7154											58a4ebab-b253-59c0-8f3e-2df1138075e0	e0992ee2-1975-51bc-947b-6055c2d27ece
+survival	surv_534	Alive	9558											58ce8f97-68f0-57cb-9cd3-431ead7d0ab6	f273f7d1-1f6f-538e-bf41-ab0bf39f9ca4
+survival	surv_36	Alive	4049											58d4dc68-6794-5ac8-a5ac-d04e6ec9ecee	8e8d7641-6c57-5326-8ba6-0b5ec0cd8a55
+survival	surv_428	Dead	4544	Relapse										58eaba76-5f61-59d5-9ad8-fc3e995785c9	1f382ed9-bf05-5dbc-a54d-4ab749492642
+survival	surv_1460	Not Reported	5213											59226adf-d497-518f-946f-d49ca92ef0c2	890b1aa3-6ea4-52a0-874e-ba3b79ad5100
+survival	surv_1204	Alive	4469											593cc919-9ef2-5777-938a-f8e5652971b9	c3a94f00-031f-50ad-89ff-dc7e0c23872d
+survival	surv_109	Alive	7935											594d79c3-a1af-53d8-8617-febfb7f3213b	ed05f8ac-5bf2-53f5-9164-0ffaa131d9e2
+survival	surv_1033	Alive	5299											599535e4-06bb-5f68-b674-8f59520e0c1d	c7d252af-ca55-5b47-b5d5-aeb54e8f1895
+survival	surv_654	Alive	2090											59a2814a-79f6-52e4-a3f4-b10c36729abd	470ba6b7-194b-558b-ba04-d7bd2c29520a
+survival	surv_568	Alive	4163											59cea9fa-c105-5b48-9a64-84ff8922961f	52cd38f8-4429-5c60-9eaf-d714de988a5d
+survival	surv_1233	Alive	5521											59e44ef7-7650-5e1b-968b-8572eaa8fe90	494e0e5f-c886-5271-a9da-5756a14b078d
+survival	surv_894	Alive	6545											59efc397-df82-57af-9f30-43b5786b984b	063b7a20-e1ac-5172-98e8-23dd9eb7ebfd
+survival	surv_782	Alive	4181	Relapse										5a0179e6-5a65-58de-988c-d1b584ffbcf5	5518ed87-b24a-555b-bc58-b176c4cc4cb0
+survival	surv_1013	Alive	4553											5a1849a7-0871-5382-bbd4-b93e65ce0106	a2ee0385-dfae-599d-b854-7e2f1d4ef1d1
+survival	surv_817	Dead	1583	Relapse										5a723625-8b35-54ed-be32-f109751244f5	809c5219-ca55-527b-98a9-3098cc248306
+survival	surv_582	Alive	7988											5a7fefc8-dd1f-5a13-98b6-6ec9a1f30042	d82c2da9-045f-5383-b80a-7c5bfba69777
+survival	surv_132	Alive	4594											5a9755bd-2e43-5fb4-8e95-d657c2e1c635	b55f64c4-52d7-5ed0-857f-2c2b6eb84e26
+survival	surv_1666	Dead	861											5b26b91f-989f-5218-b137-86e06ae92e8b	5cb354c2-214c-5dab-a8ba-1936fad39260
+survival	surv_1205	Alive	6901											5b33113b-e6e2-541d-94c0-8820376b67c1	e33e0534-59cc-587c-b0c9-4da0c95ab8dd
+survival	surv_525	Alive	6514											5b3d0985-3122-5e37-bf27-cda96355a930	b6adaa96-8f59-592f-8976-e4f6094f3c7f
+survival	surv_352	Alive	9066											5b643ef9-deea-5af6-9d63-7f695c1c2bb7	5d98d82e-2eb6-5f1a-bca5-cb8521dd617d
+survival	surv_190	Alive	8889											5b66e9f8-5e66-54d7-aa69-f6771bfdb571	e88ec129-632a-5656-9185-eb8dd5076a05
+survival	surv_338	Alive	7694	Relapse										5b6cd53b-9ca2-5ec2-9b9e-58376c524873	03993588-cd37-5f2b-9a63-809ea9b1c0cb
+survival	surv_1144	Alive	6939											5bb92031-b108-5327-9cba-0d8246b6abae	e7045ade-5b6c-5d75-b97b-e7a556f4947a
+survival	surv_496	Alive	5150											5bc3380f-2571-558f-8c5e-83bb1a93fb08	efdb8dce-7422-5dbc-957e-2a3b0d56d3bc
+survival	surv_159	Alive	8697											5c0d791f-7fea-58ce-a385-a15be6d279d1	f7520878-a7ab-539a-8f0b-2ae9571feaf2
+survival	surv_1067	Alive	1392											5c16053c-e52d-5e73-9138-c76a24494d64	2b84bc94-3bec-517e-a365-8d2498712785
+survival	surv_1343	Not Reported	3576											5c184207-4362-5fdb-81ad-31d80e362524	18eff1dd-b9f0-5348-9f11-abd89d62dce0
+survival	surv_167	Alive	5909											5c1f2fee-b7d8-5c27-964a-afe26585389c	5214dc01-f936-57e1-ae7e-3631ccf1b3b8
+survival	surv_199	Alive	4750											5c9af3d3-84b9-5c86-baa4-a876280cdd3b	18f905d5-12f5-57bb-9c2b-67395599722b
+survival	surv_811	Dead	2046	Relapse										5ca0fdda-f4a9-5b0f-8a0c-8e46ea1c7bc2	7bbc176b-5762-5072-986d-4a83256fe0c8
+survival	surv_1210	Alive	9625											5cbe1293-5c3b-5f03-b78e-985664b55fa8	43e36d43-ef07-5a8c-8ff6-3f04de901176
+survival	surv_858	Alive	4267											5cc0e984-b09c-56ac-9ac1-f376f4300590	96e963d6-e405-5a9c-84f6-0ed93a9b6ca4
+survival	surv_1078	Alive	3842											5ccab586-2610-5c4d-bc47-24ffdcfbef60	b31ce081-cd3e-5fbe-91b3-114217af8dbd
+survival	surv_431	Alive	7361											5cf0d1c8-4f8d-5548-bbd8-8b89112b7131	0ac815c8-7d3e-574b-b57c-b7d11f82e61c
+survival	surv_57	Unknown	5713	Relapse										5d1a044e-527b-5e8b-b263-77e77a1f26c7	5e68735b-f980-5c95-b192-0d107f1bf1c6
+survival	surv_42	Alive	2890											5d1e62b1-519f-55cc-8451-5d7adfd7dd47	8e42da19-0d18-5db7-bd1e-67f13b13bea4
+survival	surv_1152	Alive	7745											5d64b903-9799-563d-b8d2-7cbcf757b7d1	675bd998-618e-52e3-aad1-b919106d6c37
+survival	surv_377	Alive	4990											5d92cf26-ddcc-5a16-9aae-692dc0e2c221	3822e556-bed8-5404-8b8d-4a96e784f62f
+survival	surv_1302	Not Reported	5347											5dc329ab-59c1-5eb0-a955-2a35bc9dfb97	f89a9b9e-e6d4-5a9f-b5cf-89461750e5e1
+survival	surv_454	Dead	4391	Relapse										5ddc75ca-a8ec-53c6-8792-7561a5a6b101	0ea603c6-669e-5b5b-9200-fb2c063978b1
+survival	surv_1054	Alive	4770											5ddf18c5-0992-53b9-bdb2-44b91c6fa526	87e4f346-29c3-5d0c-abb0-38a89eef599a
+survival	surv_32	Dead	4686	Death										5de0d85d-fbfd-51a1-83c2-4b2d26bc1eb6	ee293a9f-aaa3-5043-b7bc-f9813052d62b
+survival	surv_1515	Not Reported	8178	Relapse										5df812e6-3acc-5f39-92b1-7753be9363ce	6fe7be00-ef12-5b64-82f8-081e476c68d4
+survival	surv_1230	Alive	4076											5e105b8b-4986-57a6-b338-d0afd9c68b3f	b763d9b0-6379-5aa9-94e5-ba810245bb2b
+survival	surv_853	Alive	4754											5e38240a-80cf-5347-b771-ca1590369c16	ac129174-1578-5016-820d-a821655ab8ea
+survival	surv_1617	Alive	2843											5e597c00-3cd7-53b4-85a8-344a43d3d396	4ad4fa26-28c1-5499-8a6f-618f96bc129b
+survival	surv_1415	Not Reported	4845	Relapse										5e69d3ff-c939-5d08-91b3-71c6b51fd56b	f13aaf1c-4783-57c0-ad26-445ba59efb7b
+survival	surv_473	Dead	6294											5e908af6-c92a-59e7-9777-ec556e6433bc	c8c3fe9a-f56e-5309-b4a6-3fff9dfc8629
+survival	surv_781	Alive	7151											5e98b1df-fd4e-5605-b89c-af49c37e2f14	bad029e7-fa75-5e36-b41d-831e7d1e18df
+survival	surv_780	Dead	6682	Relapse										5f110ced-0a4f-5694-a54f-eb0db33eefb0	bd4aaadd-4aaf-5a87-ba90-f8a071fe7cdc
+survival	surv_1031	Alive	4690											5f28c0ec-d7a2-56c3-b4a5-9efb34f7a988	da999dc7-3e0f-5c07-b54e-555133b7dbf5
+survival	surv_1444	Not Reported	5692											5fd90637-4a98-5847-8dfe-2b164337f2cf	2aca5619-be74-58f0-b6b0-e2550c401b47
+survival	surv_1620	Alive	5382											5ffb4993-90ab-54bb-872f-219a7581f8ea	4ad48bc2-8b4e-570a-b423-d0d6a7aa0a7c
+survival	surv_401	Alive	6094											5ffc75dd-80c5-54aa-8a47-80f691a269b7	37a6925e-69ef-5362-aeed-559b25606ba2
+survival	surv_476	Alive	3960											605e35b3-a41e-53fd-8fd7-a05157c549e3	9af0ec80-5ad8-542b-bfad-53a98b867636
+survival	surv_1046	Alive	4395											6094511a-84d9-5610-9729-14cd901623d0	0156ae47-bb35-5dd9-b36f-6fc9834bba3b
+survival	surv_1154	Alive	4154											60a42961-542e-5839-9cb3-31cff8b67437	9e74ca14-08c7-5fb3-a7d4-367cd7fd305d
+survival	surv_973	Alive	4816											60a653ca-acbe-52dc-a37f-14e4f5af0b04	793a3fd2-4225-5d33-84a5-83d7331f853a
+survival	surv_1674	Not Reported	-999											60ce37f7-8fe5-544f-a8a9-c9561eeaddeb	0029089b-48c2-5c44-bf62-4bfd378c25cf
+survival	surv_1651	Alive	3107											611df106-9238-5c31-9d5c-b77413ac43a1	58db2735-ac89-5f07-abaa-2adea0c8ec3a
+survival	surv_74	Alive	4725											6130116a-fc49-595f-9af3-86f7e93c1c53	fa83791c-5f94-522f-965b-475cea319b16
+survival	surv_140	Dead	4248	Relapse										613a427a-6113-510f-9180-32a7c0e55f21	535c5e4d-8c2e-5534-a06e-61d101f49176
+survival	surv_829	Dead	6412	Relapse										6169ae3c-ffb4-56bd-ae2f-6d0d7bb4094f	571213f0-0b2d-57b2-874a-3a958bcd04c4
+survival	surv_116	Dead	3752	Relapse										617e1c38-e644-5204-8937-4b05315b7724	b587a535-a9b6-5eb7-9669-bb32077033e6
+survival	surv_1068	Alive	4442											6183eacc-b508-50b8-9316-35f33e85a748	f25a9e47-8a07-5e28-8763-f227a5a1eb42
+survival	surv_1676	Not Reported	-999	Relapse										61a91601-7fdd-5597-9e36-0e59c78133cf	c9078229-ed55-5459-872c-e663bbad4951
+survival	surv_1616	Dead	5695											61c21697-7407-5ae2-980c-8aab76c14343	45a63948-b447-5157-821c-8226e6b8e730
+survival	surv_1642	Alive	3461											6207cdf6-76b9-5aff-afb2-de6f82124b36	43132deb-312d-5fe1-bc33-2381411927ce
+survival	surv_200	Alive	7247											620aa3b7-7967-5249-b734-c7214e5328f8	6b426610-b7ac-5bb6-aaa0-beb118f8c908
+survival	surv_555	Alive	4078											621e2d23-af7b-5950-b5b0-05b0c9f95f33	8baa31e9-18ec-5684-bce0-6cbffd375ee1
+survival	surv_1011	Alive	4643											62467676-d643-58bf-bde7-4bf8c9123529	6fc57039-80c6-51c9-b95b-34f0e107591f
+survival	surv_644	Alive	6100											62639d10-1505-5ba4-a115-9315a40d0088	07f183fa-e90e-59a0-8884-7390a725c483
+survival	surv_1032	Alive	5131											62eacae9-6074-5b09-9e3f-89a9666cc27f	7698f57c-9f86-5ef2-b232-d562858972d0
+survival	surv_1147	Alive	5171											62ed6840-4a89-59ec-a28a-8b9e58b1b3df	e1fd9bc6-aa7a-5a5d-94db-4856d8e2daca
+survival	surv_877	Alive	3962											631afa22-c523-5db5-8daf-ed0aef75ef64	08b4f931-266f-5cea-96d2-697019ab201b
+survival	surv_147	Alive	9766											63469feb-7839-5f9b-9ad5-99ce022a21b9	96c2af2d-d82a-5761-b71e-d07bd20d8b2a
+survival	surv_304	Alive	10097											6365db47-327a-57a4-b6a3-3fc98f909693	4d9e5f58-9828-520a-8b96-12668f18d54b
+survival	surv_941	Alive	5574											63a26a45-d04f-5482-830a-61d69475ee70	5f5762a7-1f8a-5921-b7b9-1a423f7f4876
+survival	surv_611	Alive	6729											63a435c5-e9d8-5d34-9f18-9fd7cc1ee890	9f2b25cd-ce5b-5750-9695-abfb23e67434
+survival	surv_1431	Not Reported	5679											63a4728b-17c8-55df-a8b7-a645624425f9	850c465f-6fe8-5461-82bf-da649d6facf2
+survival	surv_270	Alive	5972											63b029b2-05cf-5336-831a-943feb6e2789	a93bb372-9e63-550b-9604-9305e348e1fa
+survival	surv_1207	Alive	4095											63dc23a8-6cd8-5ae4-9c20-1fe7508aca3b	4c093bea-4eb2-59f1-a6cf-52a3bfe34e66
+survival	surv_335	Alive	4432	Relapse										63eb8ec4-46a0-5f13-99ab-25e83fa7317a	f578b00e-088e-5beb-a782-802f42a7ba01
+survival	surv_280	Dead	2503	Second Malignant Neoplasm										63f64ce7-9ede-54e9-b448-14eb7b2243f8	bd6d6fd3-fbd1-5dd8-81b5-42dbd0acf8e0
+survival	surv_1248	Alive	3927											6407f1e7-4aa7-5d23-842b-e379024968de	54d8ed49-0de5-55ef-8adc-0d8314a02fc7
+survival	surv_1359	Not Reported	7067											64139742-bdb5-5760-9301-72b415f394e2	e7ee6d37-de78-5545-a2d7-a9e9fafa3ce1
+survival	surv_807	Dead	6630	Relapse										643cb270-48f9-5f76-927e-fadcef4a634b	607dab0e-7d15-5299-9b43-d92c75bb7ed5
+survival	surv_299	Dead	7258	Death										644d8bc8-e97c-57c8-93f3-a740a5466d80	a317f29a-616b-544c-8b79-b9289ad8ce01
+survival	surv_577	Alive	4443											64a1cc5a-1b79-575a-b027-eb131bc96a4f	797534d5-4e15-5ebb-bf3e-1da643fd4140
+survival	surv_717	Dead	5998	Relapse										64abcd87-9b0c-532c-8a57-a72031f5f638	23706e3d-05c1-58cc-83de-8ad1d8c543b3
+survival	surv_957	Alive	1323											64b40bcb-4156-59e3-94c1-b3c73d0d6d39	fe7e794b-69af-5599-9c11-25a5708519b9
+survival	surv_1048	Alive	4192											64f5f630-98cd-5c80-b87d-725a44323dfd	d16078ea-c856-5e6d-91ae-d8856a9c46b5
+survival	surv_6	Unknown	8381											65539058-7cec-564a-8a1f-479d5d99603d	997c2c9c-2e16-5a2c-8535-d0b0a10b0793
+survival	surv_1621	Dead	55											6581bdc5-9e57-5fb2-b3d8-71af9da23a50	838c94ce-11c4-5fac-adc8-ad09cd97b511
+survival	surv_913	Alive	5916											6582a6d8-5681-57cf-b0ea-27bab79a3d05	2ef5294a-e23e-5469-ab06-01bb339491aa
+survival	surv_1505	Not Reported	3444											658bd980-518c-599f-89a2-87925ba1f747	5841c24c-70f3-5f39-a2cb-644ed91b8d3b
+survival	surv_1028	Alive	3346											65989564-5886-5453-904c-5997b01b239b	da8346d4-ddd3-54c6-9b48-1b6cec01f1d5
+survival	surv_1587	Dead	2473	Relapse										659aeffc-b1e5-59ad-a847-856da3619cb1	64475c6a-fde6-5231-bbfc-8b3e6bf988cd
+survival	surv_186	Alive	7175											65b85664-2d69-5136-b075-18a48b711059	b8bda374-6d3f-5586-916b-9a0d51ba6ee6
+survival	surv_1122	Alive	8659											65d69967-eaa4-53ed-8725-9195619b3ad4	fd4c5bd2-f96c-521b-9d28-426909b922fb
+survival	surv_917	Alive	6914											65f77dab-35b9-5f89-b93b-46b48cc47b87	d1f05df3-b0b0-5c9d-884d-a6ef27a43525
+survival	surv_655	Alive	5758											6631446d-901c-50b7-911a-a469b5500abf	bc715437-e49b-5359-a45c-a9293e2dfc1a
+survival	surv_459	Alive	5835											6637bcd1-fe0c-5cc1-9f94-63f2901d8a7d	e7a9ed4a-a4e6-5e5a-8fb2-08af6d55d578
+survival	surv_933	Alive	4599											66457ece-9828-572a-8550-bd4a53f58f99	0982e650-0a9e-50a1-b350-ff67d50411b4
+survival	surv_1023	Alive	6048											6645c488-a6f5-59a8-8e76-fd676bfd7556	5ec8196a-8fa9-5ea2-b963-937ca3e3759b
+survival	surv_557	Alive	5758											666abe75-d4ff-51dc-b6bb-60a9cdbdef41	e85fce0a-8104-5a5d-8776-4ce8796a12ec
+survival	surv_1561	Not Reported	8127											6670e71f-bcde-54db-b8a2-e5988306828a	2ec6d569-1219-55c9-8451-7adf5a944281
+survival	surv_271	Alive	11723											669435ed-9cca-5067-999e-a9004e018ebe	9dda5095-7d67-5e0a-896f-86e486f46a42
+survival	surv_1027	Alive	5559											669b0d2d-4de3-5441-8d5f-60deed0e7dcd	cb0e8c8b-a6ac-5a5d-8c38-9e35eca0997f
+survival	surv_421	Alive	4179											66dc5dd6-02b9-5d21-bf68-d1016ab248bd	11a35862-8266-555d-9c2e-320ed5ff95f4
+survival	surv_1169	Alive	4564											66ea9e30-4cfe-58e9-a9c5-3e77e7dea8e7	a542489b-0791-533a-aeed-32292e20a679
+survival	surv_703	Alive	8082											677f3b7a-23fc-592c-9f28-6291f3267452	dfaf29f4-2bcd-5e4f-a2f4-37acac1b0e44
+survival	surv_51	Alive	4908											679a64e1-a63b-5e2d-a025-995c7d5a078d	a1782da7-28e4-5e78-9196-7b6f8673ff41
+survival	surv_471	Alive	8151											686759d5-ab65-528b-b729-6d87e80267b1	3afafe8e-1992-532f-8f5a-aa82c15bef88
+survival	surv_1426	Not Reported	5660											686df003-f8f5-55c2-828c-4283e32e2cb4	6abddd5f-4fa7-548a-a1ca-02f26cc458b6
+survival	surv_1643	Alive	6122											6883414f-ab26-5f13-b27e-1b7b7e657de8	fb08be2b-5cb4-577c-9e96-616883e5564a
+survival	surv_468	Alive	7336											688c6db1-3325-50c1-b5f9-e8bc3c690622	ef3ca51c-e146-5fa3-95b4-63890e13bbb5
+survival	surv_19	Alive	6533											689b86a1-5d0f-5c8c-90ca-b3f932153763	c6898352-5321-53c4-bad5-9047fb664049
+survival	surv_433	Alive	6276											68b6c6c4-b37d-5cd4-9991-46e6b2f74408	dc823b31-dc48-58c9-b7c9-aecfdf80df02
+survival	surv_283	Dead	1954	Relapse										68c1a197-b306-5507-9ddc-7250b57aab02	48ef1647-7697-5aa8-bea1-1cdb8e73f20d
+survival	surv_1041	Alive	3972											68cac991-dc90-568c-a58a-3b1e95d455f9	e079aea8-5ad5-5c78-aabf-d04ade9cabc3
+survival	surv_866	Alive	5882											68db78a8-1a9a-578e-b1d4-bdf517c967a3	ddb6e3e2-cb7c-5d91-8ac3-2da9a4c7afd2
+survival	surv_1529	Not Reported	4571											690bd29e-b295-539a-8a10-130e1e5e9d02	c08f9994-b399-5b4f-bee7-d2bfb9a21b97
+survival	surv_1550	Not Reported	822											690ea6c7-e1a3-5a3f-8047-526cc251a404	b370b104-11e3-5d5f-9c90-9e996918e2c0
+survival	surv_659	Alive	9364											69389f11-89e2-5f73-b2d6-797633e1647d	ddeed7e7-07a1-5134-9ff4-a5ea77e52701
+survival	surv_229	Alive	9003	Relapse										694812c3-5501-563c-8f31-18ed7da10d12	040a745a-77c3-5af8-aec7-f3cd706c6ff6
+survival	surv_1654	Alive	2303											69a1eb7b-3b4c-576c-9751-d0346a98a909	58e85d15-c38f-5445-b7ee-b508e3becf6d
+survival	surv_963	Alive	4354											69a594b3-e641-5188-a641-14793ddfc89f	f0a730f9-f32a-5ae0-a8fa-67d6a0298a15
+survival	surv_1466	Not Reported	2141	Relapse										69b2376f-5c0c-5116-81f2-a2b711575685	2f81bb5c-e7a7-5a03-86d7-2a75cd5d4936
+survival	surv_325	Alive	5851											69c63b7b-75a6-5671-be24-0f193bfe1b27	b255749b-5603-57fd-b76f-222143440f7b
+survival	surv_75	Alive	7762											6a778419-688d-5cfe-812c-ef46882086fe	44612c0c-4fa8-54e3-9877-0920578b29d8
+survival	surv_1689	Alive	7036											6a7f6692-dd5f-5b04-ae3f-c278a3e6980e	8507e21f-ffce-5db5-afde-c8a5acd575e0
+survival	surv_1239	Alive	3855											6a909c79-1545-5c77-a8e8-22818014d6cb	67b7aaa8-c09b-5a56-967e-b9280ede9044
+survival	surv_984	Alive	5623											6aa5d2bb-2c80-545c-953d-89ba7280ab60	c6acbbb6-f1bf-5255-9452-750f23245468
+survival	surv_1558	Not Reported	5861											6b82a3e0-4498-5b31-92b4-b9df4a424285	1642f81c-38be-5831-8ed5-3f247b755267
+survival	surv_1082	Alive	6420											6baaaad8-6db8-5d18-8e31-8ccc685ae1b5	02d5516f-bd6c-55c0-bf10-a4ec56470762
+survival	surv_1664	Alive	-999											6c1a04f0-dd9d-5544-926c-0fa009381916	09379ffb-977b-5f14-bb09-42e688cce0de
+survival	surv_1496	Not Reported	4546											6c304d89-b9ab-5545-bc96-1e8701efe7c2	7edc3b51-3d7a-54f3-8848-f167478a2dfa
+survival	surv_1146	Alive	5595											6c4e7e83-9fe7-5397-a273-051b3f45b323	2df4ab69-bd77-53fb-a6de-6fb0c12cb481
+survival	surv_133	Alive	5948											6ccb3c56-0bb7-51b6-bd53-de8091d05bd7	651b5e61-0659-577f-90b6-804225a9e0ba
+survival	surv_573	Alive	1596											6cd7f7af-e0f0-5616-a694-b1fd07e0b356	5947d400-58cb-5135-b3a6-0d7fc2fd47df
+survival	surv_699	Alive	3091	Relapse										6ce2e5fa-5253-58e1-8074-8e25c3f9e235	a0043e46-caef-52f2-bd52-8640013e9abe
+survival	surv_222	Alive	5620											6ceab0fe-b1c5-5eb4-b85b-a26099bc0f9a	849b568b-972a-5e39-848d-780e3ac1b403
+survival	surv_1069	Alive	5310											6d323401-404c-5b52-9a56-868aa32175d1	aa3a5e9d-a0b2-5d61-a3c3-0a407e1ce9e7
+survival	surv_520	Alive	7514											6d37e68f-1d14-5300-871d-56d5ce92c973	15a6176a-a02a-5534-bed8-735f0c807727
+survival	surv_733	Alive	2652	Relapse										6d9f9400-c421-5aa2-9b14-a49c822db0b8	67ddc10e-3698-5c9c-a931-66371a5cf303
+survival	surv_189	Alive	10268	Relapse										6da80322-e490-513f-9484-36fb5631a0c1	669b1695-6ab2-52b5-904a-af9083653430
+survival	surv_849	Alive	5086											6dee62f8-8e0a-51b0-b4a1-24e272e40830	47150b08-fab4-56eb-85a4-67804726e0ff
+survival	surv_1427	Not Reported	4264											6e83d313-4459-5d00-b2a5-cccb8cdc85d6	78696d93-ed51-5def-81c3-943059bfdcd7
+survival	surv_1276	Not Reported	4225											6ea2bb3d-15e5-52d5-9100-bac45b9c6ba6	f152f36d-4cf3-5815-8163-47792d419908
+survival	surv_999	Alive	4822											6f177a4b-296a-53a1-b496-94ddbcaca074	7db58448-d7b3-58f8-908b-b9c8945128f6
+survival	surv_126	Alive	8410											6f256016-9069-5172-a9eb-18cc9a525e98	e5b15a16-d0ef-518f-bf06-23df924a8b19
+survival	surv_1103	Alive	3969											6f301f68-27f6-5479-b1a0-a89f93b7dbb6	237d8b38-83fb-5e87-b943-8608a6d45fc2
+survival	surv_909	Alive	3997											6f537767-bc0a-519a-baa0-dbae31e51228	abbe8b81-3f10-595d-9303-db9d5c861113
+survival	surv_750	Alive	6350	Relapse										6fd0e296-9124-5eac-85ab-6cd46378abb5	25b510f2-9956-5a33-b140-26a7135dbfd3
+survival	surv_300	Alive	8459											6ff91305-e0b4-58f9-8666-9a7dc426a865	ca5a9a2e-6138-5d59-a034-6d7639588627
+survival	surv_1258	Alive	7705	Progression										700f1ad1-5ee9-5f66-90d2-c61e5cae6528	f5013b82-5bb0-5fe0-bdcd-7600bbba2cbf
+survival	surv_506	Alive	4314											70278d79-2787-50c5-8ba8-fe2394fea5bf	065f092c-47f5-5f1d-a0f7-f8c49a5fec84
+survival	surv_1446	Not Reported	4868											70872be7-bfba-54e0-a34b-60d23f6b0e90	8199f51a-f4d8-5cbe-9307-98256fe1e0cd
+survival	surv_1307	Not Reported	8151											70a2833b-f253-5e5c-a2db-56f843a4012a	24a75e39-93ad-5b9f-8472-6ae3e40451ed
+survival	surv_736	Dead	1331	Death										70a99fca-d5d6-5305-950e-acc3287daad5	cc61e29f-ceb3-5c62-9930-f8548a7ddfe3
+survival	surv_670	Dead	2994	Relapse										70b4075b-c921-5947-9328-43bab4c638d3	0b335f7d-1f4a-5cb1-8a8e-856446f8bc27
+survival	surv_81	Alive	7227											70c0b834-e563-526e-8c6d-25b549b8d9a4	5d15cb26-3add-595a-b9cb-eb91bdaeba51
+survival	surv_964	Alive	4595											71003992-1a66-5b62-bb0c-2d5abc182ec8	c2deb7b3-2887-59a2-819d-e1486314e17b
+survival	surv_1569	Not Reported	3426											71260197-0302-5cf3-bb6c-70ca1f4fe0d8	cdaa74c5-f403-55b6-9e1f-77280fcddde2
+survival	surv_1493	Not Reported	7941											7150f47e-35c2-5ac7-972c-44d11215ba08	1c13b99b-b2ea-55ac-99a2-507c43e46d0d
+survival	surv_1468	Not Reported	7672											716acf15-e9fc-5b23-b1ef-cf804f15bead	01b14c50-3ea7-5875-ae54-130fc7e5691c
+survival	surv_565	Alive	4439	Relapse										7170bde8-0708-572c-b563-43b1d0ad6dfd	df7ad510-966c-54cd-bcb8-aa85879824a5
+survival	surv_307	Alive	7560											717ac69a-8db8-5e8c-928d-a45fb5716e22	d8a18b26-fa4a-5244-a8df-ece696929eb9
+survival	surv_684	Dead	6722	Relapse										71b78248-e0b4-5e2d-8954-fc536215b843	bbc6aa7e-38db-5671-a12b-104151bec2f4
+survival	surv_388	Alive	9668											71cbebef-8f93-5f70-a92c-84079935b90f	037d7edb-d1af-5bb9-8be5-3c2b8fa8dc45
+survival	surv_1636	Alive	5980											71e73a0e-bad1-58b0-b27e-f6cfa2b03fd9	bfd0683d-b21f-52fc-9653-c3488112a504
+survival	surv_786	Dead	5174	Relapse										7213554c-f181-507a-951d-4a7e89cfa6de	8123d995-46c1-5b4a-a499-d22ff6ee812a
+survival	surv_643	Dead	7621	Relapse										7281b3ab-6ee1-5d9c-b464-381062e219e0	60df2204-62ce-5128-bccb-597555d3b449
+survival	surv_1597	Alive	8156											72989d51-fe40-576e-ac50-8523ae611339	bb3574bd-303f-5ffb-85cb-5b4d6c288a6f
+survival	surv_215	Dead	5347	Relapse										72c4e3b6-370c-594b-b291-f2d7085f68b9	a15c2002-ad8c-5c1d-b452-2c62a268bbe2
+survival	surv_1089	Alive	1097											72c8a6c4-577d-52e0-8864-32645a217a0f	0408aa65-d888-5ba8-aba2-654e68b8dd21
+survival	surv_739	Dead	4906	Relapse										7339105e-d3e1-5c52-b911-eb30538b9f95	1b6596ab-ba76-59df-8d9b-76c0403ab950
+survival	surv_1198	Alive	3440											73875c1b-e13d-57be-af10-e2dc3c1c743c	fd5f2aa7-d84c-5b9a-a033-58df9b323f46
+survival	surv_1687	Alive	3865											73be01be-5da0-5d88-b369-5e6c3c9b62b1	9f34671b-e2b3-5f66-94ea-14644146f0f1
+survival	surv_591	Alive	8018											73c0d59f-c5a5-599f-80cb-0f04384dff6c	8bcae8c4-78e5-516e-811c-4adbb56a37dd
+survival	surv_217	Alive	3215											73e93da4-7b20-5b3d-a915-569714111718	29e48e4c-30e0-554b-9026-237bceea8c95
+survival	surv_1602	Alive	7202											73fb4ab6-2e11-56cd-9ec9-8ef332226674	0d369f7c-df8d-51d0-a456-fc5ee1bf0262
+survival	surv_181	Alive	7538											73ff9083-6a76-5e6e-9dd5-d64943bac5e6	a863ee0c-7936-56a2-8c88-d3bdcfa5895f
+survival	surv_792	Dead	3296											740aada8-6454-58dc-bda0-863fc13760c4	31a14a6c-661a-56da-badf-3010ad3b211c
+survival	surv_527	Alive	7491											74265400-9c2a-561b-ad4f-6640b89186c7	7213449f-7330-544e-98e1-e2e43042cf62
+survival	surv_397	Alive	11742											74525d4a-972d-57f6-9b28-072fa8a99ad6	70824530-02e5-5bac-aab0-3fc4639d7dec
+survival	surv_995	Alive	5121											7497e9cd-2782-57cf-a27e-26f710cff928	fd743c31-7a7f-5ed0-9934-3762a9f286f9
+survival	surv_423	Alive	2945											74a844f8-e3b2-5925-aa22-0d8dbc554d06	32f1dae7-1e1b-5fac-a024-4b17aea37791
+survival	surv_264	Alive	10325											74adea6c-314d-54d8-8c9d-052981216ee0	a74f5b46-78c5-5b81-bd6f-e2f66543c44f
+survival	surv_1309	Not Reported	3389											74b51e5d-62fe-55b1-9883-46810ace9905	2d0c5901-91ba-599a-ad97-e6920acd3c6c
+survival	surv_1129	Alive	4321											755267be-0c29-563c-886b-3446ac386077	7584f7e7-9292-57b8-b1c7-fe03475d516c
+survival	surv_658	Dead	3338	Relapse										7593be16-3c7c-5350-871d-daacfd65556c	12d2b7dc-d34c-58f0-b866-8b0bd8e43a8c
+survival	surv_665	Dead	3834	Death										7624e168-701c-5354-8016-07c77a0d66a6	d1a40eee-6d86-5893-8dd5-496e430396af
+survival	surv_485	Alive	7823											764497c6-286d-5a92-a23a-6c477b35f2af	c9e9cd98-8bd0-5b88-a27c-3d9bb4529d7d
+survival	surv_275	Alive	5308											764725c0-a2fe-5914-ac9b-5d9284c83d9f	64565d74-e357-5972-a4a1-1bbe88360d56
+survival	surv_1209	Alive	5807	Relapse										76580e44-8f86-5d3f-8b6a-6985780f0164	a35cdd73-2163-5726-9082-11c86f1486ce
+survival	surv_1387	Not Reported	6928											766b320a-9aa0-577e-9312-360ef78ab457	b258cdf6-9bbc-5eb2-9af8-86329be848da
+survival	surv_816	Dead	2470	Relapse										7670005a-30d4-52a9-9fa9-a95d6c5261bc	425c4e54-ab70-54ba-ac75-7b3d29ce39a8
+survival	surv_479	Alive	9024											76cecf90-054f-57af-a8cf-7891377200ca	999a2ffc-64b2-5e55-b013-6fd526b9a975
+survival	surv_357	Dead	5532	Death										773eb7a5-03ad-5dea-b1c4-5148eb85566c	65cc5ea0-10f2-55ec-bd58-bb90b35edf93
+survival	surv_630	Dead	6922	Relapse										77855900-2e04-5f17-bc52-dd7cd330f5aa	9afa1ddb-f860-5685-bf42-1dccf75be7e8
+survival	surv_1193	Alive	5060											77b7f6c1-dd98-5f75-9dff-28f9da1d96e6	5dec4775-72fe-5783-8407-86dfe4a60358
+survival	surv_1506	Not Reported	5782											77d78cac-b9fd-5e68-9992-f8bbf40afefd	ba09972f-91f5-5c67-83e2-1c57bf9d0e0d
+survival	surv_1304	Not Reported	4530											780e8fc2-d0de-5a6c-bac4-c98423dd92f4	a865a9fd-a4ce-5260-a7c8-c9601f0516cf
+survival	surv_1326	Not Reported	7108	Relapse										78804c4c-33c6-541f-afd5-c299d2d05ba7	1ca81469-d7f9-563b-a1c6-8dc04d2ae529
+survival	surv_94	Alive	7773											789bd7b2-76a2-52a6-b830-76e479a13fbd	d3483dc1-6374-5ef2-b3d9-9b996e9eb824
+survival	surv_575	Dead	3395	Relapse										79033513-17dc-53e3-a841-048b052c4cf5	9a476bed-6582-5568-a68f-e972dd7bbbe9
+survival	surv_1678	Not Reported	-999											790fe84b-cc8a-5b26-be09-5241149ce3b9	82a39112-f23d-542e-9fd2-af0c56418482
+survival	surv_1434	Not Reported	6531											791434e9-276b-5eb1-9962-a5e8218a2a69	f3ed4689-6142-58dd-810b-64e6489515f7
+survival	surv_1377	Not Reported	4357											79290a09-2cfd-5841-b6c3-27701a80221a	e727282e-d475-5737-bb18-472067701c80
+survival	surv_1576	Not Reported	8516											793f9765-e1c5-59c0-87e8-fe988bf4bc7b	12a3ce3f-70ae-512c-8267-837511862cd5
+survival	surv_1229	Alive	6552											796c8ef4-3339-5d61-a60b-ec02f7360a27	398584e0-0184-5b82-b9f8-c25f6492289e
+survival	surv_1199	Alive	4032											799d74b9-d8d9-59f2-a0d5-4148226d40fb	ed8655ca-7b1d-597d-afd8-9974cb3bbaa2
+survival	surv_787	Dead	4833	Relapse										79f707a1-d523-5ed9-ab47-47e9282a8740	452925a9-7b98-51bf-8ede-a337f817df62
+survival	surv_883	Alive	2056											7a0e00a3-3150-5a9d-b325-bbec493222a7	b2107415-6a50-5822-b42a-9a457fab7838
+survival	surv_1045	Alive	4664											7a353de6-f401-5fcf-8cb4-8288ada3ab17	c0347008-c4cb-5a85-9c6f-d1364b912899
+survival	surv_405	Alive	5072											7a458c5b-259e-5276-8954-de76c5031d05	1da33c93-2375-5bef-85e3-ec5dc70eab0b
+survival	surv_1174	Alive	4133											7a6b3da3-191a-51cb-ba92-1d1dcebef15c	a2f30c36-b389-5f0e-b649-0d47f8a7b235
+survival	surv_1627	Dead	1399											7a7ddbdf-7dc8-555b-98dd-90779244530f	7aa63b6b-5d72-52e3-a0c6-fb3828383d4e
+survival	surv_770	Dead	8071	Relapse										7a8a60c3-eb54-5789-a91f-5b277b09ab21	adb75e80-77c7-5d13-825b-16765a8a06a4
+survival	surv_4	Unknown	3063											7aca3a1f-9f96-5f1b-a3ff-25c5659f06bc	bd6b01d5-4512-5509-ab0e-67ed19149527
+survival	surv_590	Alive	4596	Relapse										7ad80e56-ec6b-56d5-96c4-19e6a4b894a1	f5baa275-9681-5518-87f1-38ab42d63bcb
+survival	surv_1559	Not Reported	8014											7b0b2c17-6341-5ecb-b4c7-08c73197d200	d7f01985-0dbc-5267-aeff-881835f889c6
+survival	surv_951	Alive	4419											7b15ea3e-5458-5331-a808-75d64af14328	36d1279c-e272-58e7-9d79-22a136110c19
+survival	surv_1573	Not Reported	3584											7b1fa3af-d54f-5b11-ac5c-4eafabb2fb91	25135ba1-b758-5687-bc3f-997befd563b9
+survival	surv_1500	Not Reported	7211											7b2e54bc-e2a5-5f0a-a49e-f07444aca002	2d40d737-50aa-5c90-915f-8eb18fb0e6d7
+survival	surv_991	Alive	4339											7b39de15-e018-57cf-80d2-8f9b2565809a	d68706be-847b-5a82-973d-eaffbf9f4530
+survival	surv_606	Alive	3929	Relapse										7b606878-df65-50a6-b94a-eeedac38442e	46fe52ea-ed68-5fdb-81bd-3a4b9501391d
+survival	surv_240	Alive	8854	Second Malignant Neoplasm										7b784acd-61bc-5be3-9909-ebd743ebff6f	309a0a4a-4e59-5799-acc4-a2f282456561
+survival	surv_618	Alive	5466											7b92d8f7-03c4-5f7e-a7ca-7284fb70e7e8	66a9ff88-970f-52aa-b473-ba5dc4c4a981
+survival	surv_309	Dead	8650	Relapse										7bbd80fc-cfb3-5643-882b-32fe22341800	894becab-91e7-5c5b-94de-e98133092df0
+survival	surv_711	Alive	7589											7bdb1779-58f8-5dc2-ac5c-461e5fa43e5e	7b62ee71-f7bf-559f-b2f8-65f905513eac
+survival	surv_1266	Not Reported	3501											7bf9dfef-3def-54dd-a0a7-a4c0e4972cbe	6e77208d-66ad-5069-8647-ab51adb7a22d
+survival	surv_1697	Alive	2529											7c137e26-aad3-5a95-97a3-4acd10027610	0795328d-7c6b-5e78-8265-af4e289ccb6c
+survival	surv_171	Alive	9218											7c1632e0-3f45-57a1-9d2b-b70611a2b41d	bf60d3a7-9d9d-5d53-ab44-eb43037e3954
+survival	surv_764	Dead	2592	Relapse										7c4f7223-e8d0-5942-978b-e7a4333f85ee	6b3f71ef-45bd-5adb-8be5-d6e328da9672
+survival	surv_1696	Alive	6977											7c8c814a-775e-5db7-8698-23cefab91af0	a0a592f6-9dad-5b8a-9dd0-41582ddb3132
+survival	surv_422	Alive	7608											7ca18217-0b59-5fef-8944-4c8fc8a78709	858d89e7-14a9-5c95-b09b-6828cdf750f9
+survival	surv_930	Alive	5990											7ca18d0c-e514-5aa3-98f1-7e37953de23b	c8026fe1-9136-56ba-b4dc-9d1d6f39f8af
+survival	surv_1588	Alive	3943											7cb78e53-e58b-51f1-a2d9-67630a79272c	4f33c093-d436-53b1-b494-b45952169b25
+survival	surv_997	Alive	5605											7cf53a29-f94e-5899-81bf-789479d9e4cf	34238250-21e6-52c0-a20e-50191ac6ffa1
+survival	surv_139	Dead	6687	Relapse										7cf5fbeb-2cd4-5f9a-87db-35f984a783aa	0c33e831-c58c-5c93-b5b6-afe7cd4c2505
+survival	surv_953	Dead	5742	Relapse										7d420187-e14e-5c31-9b94-26eea502bcdc	fe262161-2b71-5fe4-b05e-f868d5eb7ead
+survival	surv_663	Alive	6466											7d42e41c-505b-511c-98bf-e3e11cb5605c	446aa687-ac5c-5472-9a20-02e3bea3a9e3
+survival	surv_50	Dead	1527	Relapse										7d5ec75f-318f-532a-ab7d-95ceb84407ff	3ec1a65a-bd6c-5a09-ba39-85a87ea4559f
+survival	surv_1226	Alive	9169											7d6a33e6-1052-5832-b1ed-44929ebaf8b5	f3ab8bfa-a163-53f8-9e51-441bac9cc177
+survival	surv_211	Alive	7296											7dae23dd-8eb4-5e94-9c2c-c3c32cfaafeb	827b77f0-2b9d-550f-861c-49175826a515
+survival	surv_1104	Alive	3770											7de65d50-d715-5bd5-a5b8-9d1a01ae02ad	466cfa25-36d5-540c-864a-cfe6b1a195ea
+survival	surv_617	Alive	6553											7e149eab-c14a-5e2d-848d-b53624c7b134	e1c9f17a-a169-5b90-8a9b-21fa309c82f1
+survival	surv_1640	Alive	2115											7ea0080e-4166-58e7-952b-05854f0ef5e9	c59fb2de-8c09-5087-a112-040cc9464f95
+survival	surv_772	Dead	4946	Relapse										7eb0b983-cdf5-5b39-b130-5cb61d812af8	1b879fa0-f710-5d50-90d6-ef55f5690d67
+survival	surv_1484	Not Reported	8663											7f26a5e1-8678-53c9-9cd7-cf70814e0a2a	6c8305ec-f395-51be-be25-340a96bae4c6
+survival	surv_563	Alive	7608											7f5d5481-5517-505e-baae-e65209900794	ab87e187-87c3-574a-b669-2e2c6ab52764
+survival	surv_1425	Not Reported	4870											7fa49c2d-bde7-5e2d-b07e-05917faceae5	08704fe5-d867-530c-a3ac-fe46c46c6d28
+survival	surv_1135	Alive	7139											7fb3b902-8c38-5827-818b-820807735b6c	5c3d1270-cdda-57ea-87a9-0a43cb267277
+survival	surv_1591	Dead	4369											80139000-9a4d-51ec-8381-ea811f6e1785	bb0efa09-103b-521a-8de0-ec1ff944ab51
+survival	surv_499	Alive	8460	Relapse										80186244-5610-5663-b3a4-8c6b7811aff7	fd70fcb4-2466-5de9-b2e6-a22b9cfdfa79
+survival	surv_347	Alive	8715											804555f2-5bc7-5ed6-bbd5-eb1e4f190e5a	39a30a91-f554-520a-a6e6-d109299d5b6d
+survival	surv_316	Alive	6762	Relapse										807e304d-9af7-5278-a5f3-585551be518f	804d41a4-2373-5cb8-9e3c-e961f218f381
+survival	surv_1474	Not Reported	4200	Relapse										807fbaea-8c1f-5c50-b804-0384c62daff5	e65c0290-a5a6-52ac-813e-e035b374e5a8
+survival	surv_381	Dead	845											8084c897-8386-58b3-b164-e39e55bcef14	fca1da55-2a48-5e8c-b6fa-4ead63dd50f2
+survival	surv_384	Dead	3786	Death										80993b10-3870-5ca5-86e9-cffd85ed2a93	2d75cf2b-c5b2-5edc-ba2a-140ecc4a4006
+survival	surv_1417	Not Reported	4080											80c2ef89-0e38-5f42-9434-eceaf1251d22	0535c746-9a8c-5e3c-8a3c-32541ec5ccec
+survival	surv_1214	Alive	6666											80de6b98-17ca-5664-ae2c-ebbca0d685c2	3957ae2e-c603-59b2-a25b-455cc39c2398
+survival	surv_812	Dead	4978	Relapse										80e01717-1060-5680-830c-69ae582b6f53	918b0c52-6996-5e96-a580-a55d9c7cc0d0
+survival	surv_332	Dead	4518	Relapse										80e0fa90-aa79-55f1-89dd-2a87b1767141	1cb92cbd-032a-5ed7-ab47-3cabc7ca5236
+survival	surv_463	Alive	6848											80e37289-beeb-5e8e-a39c-b06853b88619	896b326b-376e-5eb7-85ef-c12a71b261d7
+survival	surv_980	Alive	5015											80e757f5-3a24-5eb6-b5d1-ac8608495443	e059ce84-4dc4-5dbf-8eca-f39b17d9f9d1
+survival	surv_940	Alive	4969											80ee5170-b839-5c0e-ae33-0f1f9f9190e5	8474834a-8134-52c0-89c3-c3dc0db69e92
+survival	surv_1303	Not Reported	7613											8111be8f-b582-532c-a4d8-fb7fe4e9080d	c6b32c95-c757-5e4e-8a4a-1c3aba141038
+survival	surv_676	Dead	4489	Death										816401a6-82cd-518c-ae2c-d4a4a343eb96	68287d92-6555-51bd-b2c8-00560f4de1f5
+survival	surv_450	Dead	2151	Relapse										816f029c-eabf-5956-8746-38941cfecf38	8510dfd9-bb61-5403-98a6-6182f9e9b5a9
+survival	surv_1682	Alive	4322											81803885-82d8-5ad2-acf1-b51156e5fd60	bb7c3523-7fb4-5805-87dc-4623656a36ea
+survival	surv_494	Dead	4477	Second Malignant Neoplasm										81abf8e7-1fad-54db-993f-bf13a294480e	58bf09ee-e1ae-5bf9-888f-c26c3b7871c2
+survival	surv_1612	Dead	630											81dfa155-e07b-5d10-a653-df2c6be4e540	50ebfa55-8f7d-5150-b2f4-3a18a0caff6a
+survival	surv_1623	Dead	2637											81f809af-2f93-54ea-977f-826565b6123e	c2204959-ad09-52ce-95e9-1b6a8994b63d
+survival	surv_490	Alive	4395											8211a4c2-728f-5023-bd43-e070418fa8c2	fe9837f7-e505-5201-9acf-643539fe21f1
+survival	surv_539	Alive	4569	Relapse										829b5dee-949d-5d98-b12c-c48d8e93c40c	258f9acf-cd60-5bfc-8887-0c5f9fabb4b9
+survival	surv_797	Alive	2028	Relapse										83200419-3417-5401-902d-775a1a59388f	2fb5dbc1-22b7-513f-b7c8-701cf1156070
+survival	surv_716	Dead	2247	Relapse										8374beb6-d04d-5ca6-bf73-9cce0e063990	8fcd227b-66f1-5227-928c-091e69b460e2
+survival	surv_1115	Alive	3883											8383c2d6-6d88-506c-90b9-bfce4bdc16c7	e817702c-3169-5a3a-8703-cb7a65edcf9a
+survival	surv_967	Alive	4456											83885ee6-fd94-52aa-acda-df7ad4b85703	a54d7a7f-6f02-52b4-b5fa-9526fc285a91
+survival	surv_255	Alive	4747											83d4fef1-374b-5a1c-883c-632d1f18219d	4c0eeed5-7e1f-568b-a18d-a8b689c3756a
+survival	surv_219	Alive	8656											83d726bb-79d0-5918-b064-886ceb1be4bd	92ac14a0-72a4-5d96-8137-57b168632cc2
+survival	surv_1483	Not Reported	4090	Relapse										83d7e7b2-02ba-5974-8f8f-3d330ec1e950	46012cc3-279a-542a-9614-0193e9ab6f64
+survival	surv_1504	Not Reported	6259											83e27938-8b4a-5a5b-88aa-c529aec3f4d9	fc6a4547-e3d1-5c93-ae03-ddfeabb8be9d
+survival	surv_795	Dead	4032	Relapse										8436b808-977d-5311-b17f-daa9c9bfcd0b	3f5eeed0-b65e-50d4-a81b-9eb2245fd56b
+survival	surv_86	Alive	4908											845533da-b91d-51bb-b2c7-d9d60348abdf	e6273f46-1251-5572-9721-e0339a44081d
+survival	surv_1518	Not Reported	6917											8482367e-d088-58cd-8056-2c094f136e54	815fa886-1a0b-512f-bddb-bab5a0ee1686
+survival	surv_1189	Alive	7890											84d6871d-c2cc-5abd-aef3-d065dbf91a0f	76a91647-2dfd-5c36-b2e3-924f96be392a
+survival	surv_334	Alive	4574	Relapse										84f51e2a-3d26-502e-8595-675afa96defa	cd749e5c-68bc-5d03-a1d2-0aafea44e446
+survival	surv_9	Alive	5519											851b1804-2f3b-561b-8ca4-fa1962b68bcc	23fc2c41-60f7-5da9-9dda-626263ef7e42
+survival	surv_7	Dead	3204	Relapse										854a6200-0914-5728-894d-ce9422164cfc	63f8c286-8123-5126-96b5-66e2114d5e7d
+survival	surv_1062	Alive	4697											854dc51a-5728-5f29-bad1-217600b4cbb5	8eb94318-cbdf-5a03-bd91-9e019ef35d51
+survival	surv_502	Dead	1548	Relapse										855f3efe-ee42-5896-b596-a64c83a7b112	dd616b2d-7cc7-57a2-8337-c1e77b2bb1e1
+survival	surv_1537	Not Reported	9213											85a23e5a-2f15-5373-a6a1-c5bfc0b9283b	4ab67590-174d-581c-9b2b-08624e114eee
+survival	surv_1061	Alive	6559											85aa750e-6368-5e68-9293-48c692746431	f7b9f7c9-e0b5-5725-89cd-a2fdef37cf5b
+survival	surv_549	Alive	1551	Relapse										85d43a90-3d0e-52a0-8e56-9d291d7d8894	44ad0eb7-90c5-5b4c-bcec-7a27af82d2cf
+survival	surv_692	Dead	4798	Death										85ed41b7-6520-5362-8784-f0b6e1163b26	e80f8d3a-80dd-5f74-92ea-099b5763aa26
+survival	surv_1010	Alive	5897											85f0c513-0889-538e-aadd-fe1c526e20ba	cc192cf6-21e8-5470-9874-8939ed58c277
+survival	surv_996	Alive	5972											8616ab7b-9ba6-5627-94cc-8dd18e11aa5f	ae9b7b1c-3fcc-50ee-b64d-742aa2a4c20f
+survival	surv_114	Alive	9343											861d2e5a-0d75-59b6-9681-310f97902b8a	306126a3-d35b-5243-b7c3-25191701f5ec
+survival	surv_763	Dead	6240	Relapse										866f4426-c81b-5939-bab2-9002d811af88	908f4f24-b842-50e6-810b-1c7bc38dc5d3
+survival	surv_231	Dead	9229	Second Malignant Neoplasm										86751c82-3c48-5a2d-82d9-c4ded5472730	87f740aa-cbf8-52f6-848a-d835a88744b6
+survival	surv_202	Alive	4371											86787568-32c7-5b04-ba5f-da76365bb879	bd32e151-f7f7-5c96-bae3-07cf5c45ef1a
+survival	surv_1114	Alive	4168											8730b324-62a7-5b38-a127-8191896d1b59	652d0932-e2e5-5ff7-8cf8-c997cb4cf180
+survival	surv_546	Alive	7250											87bebdc3-20d5-5c98-bc59-f8222c3c68d6	5df6218a-5a8a-5c66-9650-688186c59969
+survival	surv_1190	Alive	1995											87d306f7-0157-588d-b0f3-c401adec3a42	a2fff04d-2849-5b19-9676-16969c67404a
+survival	surv_1112	Dead	4278	Death										87f943be-e96b-5407-a6db-befad8d70ce7	f087b5cc-f64e-5ea0-ba4c-389cab3b7977
+survival	surv_1508	Not Reported	5380											8896534d-8011-5533-af76-e0037ea5201a	71aaf78b-fac1-59fb-b119-ab308423f8a7
+survival	surv_412	Alive	6210											88ad3b73-e3f3-54e2-b4f4-e2f0542cd0eb	04c6dda9-0a3b-5ccd-aadf-6cbe005a7fd6
+survival	surv_1366	Not Reported	3395											88da7e10-3d52-5044-bab8-be2335f076eb	a3eea168-3018-5b34-b3bb-a99103d82cda
+survival	surv_1553	Not Reported	4140											88f1fe7a-2730-537f-9ffd-37e70a6109c5	e9fa0f97-7bfa-5e63-a320-0319f15317f8
+survival	surv_972	Alive	6648											88fbc90e-eeea-557f-b379-f5348f5dc392	0622e61e-076b-5d96-ab4d-873ce1c895ee
+survival	surv_1442	Not Reported	4222											8929b16f-ae6c-583d-89bd-7c7cd819632a	f27516d6-8182-57e2-a74d-c5df26c73ac1
+survival	surv_661	Alive	4611											893aea5d-b086-535e-81c0-f3843a8451cc	9dbde43b-392b-518e-8121-a54ae42115bf
+survival	surv_303	Alive	5319	Relapse										89730ac2-5c1e-5093-85f7-b1dc12258706	dae12349-2b98-5ae1-8137-56378f0898c9
+survival	surv_1256	Alive	8597											8994c0b1-5fbe-59fd-aa3e-1c23eaaafb04	c9d83ad2-57ea-582b-bd79-fd5ee1d76e5b
+survival	surv_1016	Alive	4221											89ac79a6-95ac-50ac-839c-ef226cc25011	00591bf7-d261-5356-b817-7968899b3d05
+survival	surv_604	Alive	4637											89b29991-d1d7-5c0f-a7cd-dc7a5258e714	50a2c151-8a6d-586e-8845-b758d31b946b
+survival	surv_837	Alive	4705											8a0272cc-0f3f-5418-a4ee-c812e526d298	c63c9767-8d7a-5c44-be95-cb6b70882d08
+survival	surv_599	Alive	5082											8a0a5b07-f43d-550c-90f6-415ce57b883b	c32f901e-0b89-5a92-8394-b3d21e484629
+survival	surv_677	Alive	8781											8a2970f1-165c-5063-b925-28e5c4b5039d	98451460-8c41-56b4-9aeb-0c80f514e614
+survival	surv_1009	Alive	4686											8a4ae959-2c9a-5dc5-a0aa-7c278d386272	9c78dc83-1471-5252-a80c-760a2f5e63c8
+survival	surv_1222	Alive	7186											8a7fb24f-74d5-5b84-8ef5-8d4ce13e523f	3ce75bfb-f61e-5913-9c83-ac274e10839b
+survival	surv_513	Alive	8971											8a859a43-dec1-5145-9424-dcd4a94ae2f5	845bc6e4-02a9-52fc-9d69-35f7c70eac80
+survival	surv_1607	Dead	5694											8a8efddc-4bd7-5782-8334-0eff4edc41e9	f8c19525-2884-5fe6-a29b-c481bea05509
+survival	surv_1121	Alive	4718											8ae65b4f-85d2-57f7-b093-20859e1fb41d	04cbb001-b8a9-5a4d-8afb-fa798d0f865f
+survival	surv_1380	Not Reported	4609											8aff1808-93eb-5e41-9a25-0360ac22afa6	0a4d9856-fc41-5d46-bbb6-13cf95ce7e0d
+survival	surv_653	Alive	6761											8b253889-7230-5c78-b2e8-b14ce99d35a8	08ff268a-6c52-5cf5-a554-7ac710f70934
+survival	surv_1022	Alive	4323											8b4f02cf-8a4a-5b15-bf79-9fdc13635eb7	da073542-89a5-55a8-82b9-e2f9b8a95d97
+survival	surv_49	Alive	6073											8b57cd50-c297-56c1-9531-56962773309d	fb25a7b0-243f-5bca-bd07-f7e80660c500
+survival	surv_1311	Not Reported	5478											8b6bb7b6-a344-5b56-ba68-151682334aed	8445833f-ac77-5add-a8cb-f053b516e1ee
+survival	surv_1161	Alive	5844											8b8ecc18-c9f7-531b-9180-1594a31481c5	589e9f52-1359-5638-80a2-687150a03a48
+survival	surv_1095	Alive	7936											8b962ea0-9dc7-59ca-a801-e1b04a56166c	228c98f1-c6f4-582b-a03b-0870d85dce42
+survival	surv_868	Alive	7180											8bb44444-3ecf-57fa-a329-e7355d54f5b8	a43e341d-a56c-5270-b06b-9bb8b79759cc
+survival	surv_628	Alive	6776	Relapse										8bd164a5-0a5f-5fd8-b711-5635c776ab2f	915adcbf-72a0-548c-b9f4-57dcdbfee563
+survival	surv_704	Alive	7201											8be267a3-f8c7-50ab-9868-7cc680574fe0	3fa7bec8-7a20-5fd4-a4e9-ff34b36a9e8a
+survival	surv_993	Alive	857											8bf91b5a-1c17-5147-bed3-b9a2727f0389	53d156ad-aa7d-594b-913b-507cb3cd9b20
+survival	surv_345	Alive	6964											8c3e9d40-baab-5b83-a13e-46b3c496f2b0	950db057-fd47-5c97-bc4e-4231e563ac64
+survival	surv_871	Alive	-999											8c56f516-997c-500c-9907-6ab900c51e91	b914b592-6c50-52dc-b944-a850f60ea660
+survival	surv_1185	Alive	5941											8c8f3023-b614-5019-beb2-c4e58fe40863	4da9e231-5f61-5a7e-b256-16230f54c041
+survival	surv_1492	Not Reported	6572											8cd0de62-f851-5bf1-93a7-060b6e2932b4	b53b346d-b4b8-56fd-afea-90519c06dbb9
+survival	surv_1451	Not Reported	7505											8d167fa6-9b60-59ca-8df9-5b6918ed973e	563a0f87-d2c8-592c-b422-c8e15e19dfe1
+survival	surv_1277	Not Reported	3576											8d6ce2ac-3813-5f28-8486-86ef9248e3f0	ad0b24bf-25c5-5cf8-a9de-a6cca8b4a781
+survival	surv_1005	Alive	5750											8d75ca7e-75b4-51e0-be54-e8713534d9cd	ed2dc453-1386-5367-9353-32c794c91f85
+survival	surv_1090	Alive	4844											8d7d0bca-234c-57e9-9458-de76c42f01c3	eb7f7e91-7d2f-50b0-abb7-875255d679df
+survival	surv_1360	Not Reported	6277											8dc49cfd-08f6-52f6-9ad6-cfb4a1e44330	b996bdba-a83f-5e24-880d-e3c72b5a2f04
+survival	surv_1221	Alive	3988											8de0c688-f913-53db-9e80-782651f8a0dc	7fc9e2e0-dd52-5e8b-be48-df0b4207744e
+survival	surv_489	Dead	6710	Relapse										8e569429-f7da-52c8-9f56-9b0cb4236006	05f3d96f-b56f-5472-ad15-e4aee9c194da
+survival	surv_44	Alive	3539											8e5dc511-cdd4-54be-a937-fca61bce95b8	9249add0-fe5f-5a5b-8cd5-ecb8cb0a306c
+survival	surv_201	Alive	4898	Relapse										8e85549e-3bb2-52c0-92c3-3dc0a33022ec	89a1f7d3-5096-5897-8fdd-c505f583d4ec
+survival	surv_207	Alive	5151											8e8c56d9-d4cf-539c-a348-a5b581f7d3a4	5132004b-e407-5ab2-b398-750eef780ee7
+survival	surv_1604	Alive	6202											8ea6a28e-92fb-5d17-8cab-0832fe4a30a1	f254c680-427b-56d8-84cc-b0812a13526f
+survival	surv_1176	Alive	9515	Relapse										8eb10c35-88e8-5abd-bab0-b386cb7fa9f3	946af080-c9ff-52a2-9cc2-c2a27dc00ab1
+survival	surv_1086	Alive	5719											8ece1931-8ecf-5335-bd41-e2b8f274aef0	07bf89a3-1941-5e62-a995-d6bc37d2b2e0
+survival	surv_1593	Dead	3155	Relapse										8f213d48-8acb-54b2-812d-653a548ab705	eeef9260-bc06-53c5-a044-ed2dc6c9f10d
+survival	surv_308	Alive	7788											8f2d4aa1-c123-5057-bb25-9747db72f1e2	dff265dc-9fd8-5e89-ac22-d69b5659c244
+survival	surv_239	Alive	7133											8f725861-a9be-5280-9b04-95eb69e8ab0b	1c16c859-0b2e-5c0b-b385-e0594be6bdf6
+survival	surv_983	Alive	5460											8f7d9570-113f-5edb-94f7-ef6f88f1805e	a4e7bab7-9278-5789-bb52-34bd016179c5
+survival	surv_1272	Not Reported	1697											8faac0be-9e0f-552d-8326-3a9cbafaad00	68f155e2-ed3d-5502-a070-75e278c7e2ba
+survival	surv_1464	Not Reported	3337											8fb4ab0b-3949-53ec-8e46-471738b4c321	f328fbf2-834f-500d-8921-85eb2ebc8b46
+survival	surv_1293	Not Reported	11380											901e0dbd-4ca0-5fdd-8963-d8e62644e4d5	461e8db7-3375-5572-aeeb-e1426f69c4a9
+survival	surv_1634	Dead	571											904194f8-c2a9-574f-a480-fd01387dbb72	754df32d-683c-525c-b61b-0322508d6f19
+survival	surv_636	Alive	7361											9052d184-0e2c-5e6e-823f-47f5c6f6311a	59b28314-2f2e-5e36-a108-783781e86e8e
+survival	surv_363	Alive	10491											90a1068f-5a77-5e55-ac13-0a2c3467c338	f1a17140-5511-56ed-a3d2-cbe0f489f188
+survival	surv_507	Alive	4312											90a4cfdf-5b6c-5528-a941-8c4100fa71e0	ca7fe473-a993-536b-826f-3c4eadc20387
+survival	surv_452	Alive	6659											90ac5b3c-701c-5b8d-95be-12def371cbc8	9644a7d9-2227-5bb5-a600-35128cd9be63
+survival	surv_98	Alive	4590											91330150-5f09-5df6-b340-f0cd3d58deaa	627e8b06-64a9-58b8-a42b-e0693397ff6e
+survival	surv_136	Alive	8134											913fdf3f-628d-587d-b0e6-a93f0f8ae2d2	60fcda37-f544-5646-8fac-8490a110188b
+survival	surv_843	Alive	6619											918d7db8-6557-5135-893a-39bd3525a35b	af99f377-ca68-5ef5-abc8-7307e8b0b1ad
+survival	surv_495	Dead	5484	Second Malignant Neoplasm										91ab51b7-1f64-5403-ace0-2a4678744041	093f9286-d3c2-5d82-b68a-2c20766947cb
+survival	surv_504	Alive	2211											91bec9ac-19d1-5e23-8133-4156902dd997	9160a771-2fd6-5d87-9208-37d426475408
+survival	surv_735	Dead	5607	Relapse										91c53bdb-45ad-5a19-8bcb-889972f168f8	efbbf720-9b5a-5055-9548-8d9ca99aa5fa
+survival	surv_1369	Not Reported	8666											91efab74-c934-5ef4-a4ea-2a1b92e5d716	e673d215-e624-5584-8bf9-4014be9fb14c
+survival	surv_1453	Not Reported	4995											92281715-05c2-5f36-9993-86feb2e370ac	276384cc-fa1b-5518-b489-be400da8fd4c
+survival	surv_1055	Alive	5083											92427aaf-f128-524d-b161-e41c2a9a28ba	d269876c-a321-5a48-8bfb-12aa0471c9b5
+survival	surv_779	Dead	2415	Relapse										9288a684-d0a8-56d7-b635-94313dcfbbb1	c3817449-2eac-5c18-b16f-bf4556571c60
+survival	surv_1015	Alive	5751											92c1cdeb-4ced-5f4a-9c26-4849ddcbd912	1e9c563c-fd35-55c7-9692-ce7c5eb4fea8
+survival	surv_310	Alive	8058											92d09a2a-315a-58d9-8b53-44f0f09eff15	6e6d8ec2-3037-5095-8c70-8618ed9d30e8
+survival	surv_721	Dead	3864	Relapse										92f6f808-d53f-577a-971b-7627a4f26b53	2af5e7a7-9817-5c2f-87cb-85bc1f6d39f3
+survival	surv_1407	Not Reported	5352											93457cf0-ca82-5757-9ca9-b7ffcfff93a6	1e731a9c-fdc8-5b34-96ed-30d245f9b23d
+survival	surv_204	Alive	2202											936a7a9e-8663-5c1b-8b95-54d92ce9f395	d8d5fa86-68ed-5cb6-acdb-aa7c36d79a99
+survival	surv_1197	Alive	4340											937170a3-6b2a-55a4-a723-89f7d3fb135d	54232f6d-c439-54b7-b73e-174a9390b2cc
+survival	surv_848	Alive	5143											93733b9e-6641-585d-96e1-c26ad5d373e4	fa89722e-e7ab-5644-bbb1-eb82a4f0f01a
+survival	surv_1310	Not Reported	5030											937b3473-0a63-59e0-a02f-50f64ef3cf82	52f22b45-0f6a-5c5a-9aa8-d74a68ce61da
+survival	surv_556	Alive	8746											941ec786-917a-5d71-9152-27f262e90bb4	eea917b8-4cbb-5bb9-95e9-97bf535ccc5a
+survival	surv_873	Alive	4301											943d78ab-4789-599b-94a6-4ac31564493f	fdb17d4d-b944-51df-91b5-3b26d7bf95d7
+survival	surv_1684	Dead	3137											948481e3-d2e9-53f3-9863-9609a9f6fa3a	95867ff2-4b6c-501e-932c-6637839cd16c
+survival	surv_1437	Not Reported	5814											94ad5565-219d-5fe7-a938-563d0ba371a1	f094cf0a-a01f-5abc-9a40-e1321a3258f5
+survival	surv_1294	Not Reported	8363											94cde220-117f-58b0-923f-68f4e00f99ef	71c3b312-d1e2-5a57-a9b2-2e5d4362b9d9
+survival	surv_639	Alive	8861											94d2d7fe-2c3c-5bc7-be9c-f82a24d82297	8a36009f-3b3d-5f7a-8381-26321639698f
+survival	surv_250	Alive	6570											94da60a1-0098-583d-9c9d-9b595d78d307	a4cf674d-26be-533a-8dbd-63dccd6b0383
+survival	surv_1383	Not Reported	7275											95721dd2-0a0c-58b6-9000-79e15da0c990	576a4deb-2902-55a0-aa31-45e8853ad70b
+survival	surv_1250	Alive	5448											958e26b7-f1a3-5c1a-b7e8-1e0598dc0d69	c92f98c9-a034-5ec6-874c-620852280d3c
+survival	surv_773	Dead	2531	Relapse										95bc32b6-af2b-5e84-a329-480ae544be53	2871320b-1a92-5376-ae58-60d87db5cb92
+survival	surv_719	Dead	7356	Relapse										95d621d8-82d2-5f17-b74f-41d192105aa4	4d368198-f4b2-5880-b6f7-e2b771045b01
+survival	surv_1372	Not Reported	9701											9615615a-9724-5d9a-95bb-56c1f72b688e	2febe522-261b-5ffa-9aa9-159e1185b3ae
+survival	surv_547	Alive	8766											96391b47-08cd-51d5-9757-3e22ac2f188f	1ad5b281-dba3-5bff-9fbd-ece228aa27f1
+survival	surv_266	Alive	7778											96946e8e-1e54-5f49-b765-ce84f72501b4	8eae7fa2-a3b9-599b-b6f5-243a49be5809
+survival	surv_1014	Alive	4147											96c3cd2e-2cb3-5ea7-a756-9dd6cdab267d	76018bcd-edad-5c78-aa77-3c8bd25c8779
+survival	surv_30	Alive	9862											96d1b12d-6279-5acd-8bba-0f9b3816bb3a	b485d3be-b1dd-5034-97dd-dd4a182bb5f8
+survival	surv_429	Alive	6588											96d8f077-53a9-5488-a853-cc50af75e5d4	fb6519c5-5560-568f-abc8-0cc948b1e453
+survival	surv_58	Dead	7108	Relapse										975f4b16-08e2-5420-9111-f10ee76852a2	5f6d2019-d385-515b-b5df-f36889e8f250
+survival	surv_1295	Not Reported	6386											977d19c6-cfe8-5274-8a0a-1f579a2d8224	69fd1284-ff32-5694-9793-3ca9ca9467da
+survival	surv_1074	Alive	758											97b24859-b84e-511d-aceb-bcc2126cff9a	b3620e50-3b91-5ad6-ac66-e587b97e2009
+survival	surv_793	Dead	3558	Relapse										97b448f0-21d8-5a1b-a5d1-ca4c4d958b6d	61a16fa2-17cf-58f0-bc32-f72839c61775
+survival	surv_939	Alive	5197											97fe1922-4d8c-5112-8bfe-1c9e6e598386	878644a6-bba3-5905-ae8e-d16ea07060f3
+survival	surv_1280	Not Reported	5175											980415cb-5355-5741-9f8c-40d46c565344	0b4b4058-82cf-576d-9b23-8d3d44424061
+survival	surv_800	Dead	2091	Relapse										985e13ba-ee72-590a-bdab-e02c24db40ec	a4cb19bd-f3fd-5128-92c4-0983ee54a1ff
+survival	surv_1100	Alive	4061											9892426c-341c-599b-b2b4-f1fba61bdf66	9319bf53-9af1-51c8-bcc9-c1120de8d986
+survival	surv_440	Alive	4341											98edbc73-3237-5ffe-a89b-08c678dec12d	5645e8a4-8332-542e-8b91-6dfb7b37b242
+survival	surv_682	Alive	7715											98f278a7-0ac5-5c8f-888d-a545f6e89ebb	4b8f654d-7a6b-5fd8-9506-d99e722a8377
+survival	surv_1465	Not Reported	6743	Relapse										98fe3b7e-b0cc-5d9f-8d25-2fdfc0c79373	751cd786-1f87-50ae-b9bc-4879622d0980
+survival	surv_465	Alive	5988	Relapse										9929bc64-7c63-543f-b80e-1ea5ee298079	cc34e06f-bc51-57e5-a8c2-74569d0910fd
+survival	surv_241	Alive	4807											99b70dc4-9ba1-51cd-8315-2027bd0c5d82	03b62341-4820-53e6-8d97-28545080608b
+survival	surv_896	Alive	6022											99beed9d-48b5-52e0-b894-c01bd7b066c8	b93475db-92dc-56b2-9e4f-be724ba1ba19
+survival	surv_1081	Alive	9464											99ccce53-85b9-5478-a0a1-9351a276d843	83215536-c4a4-5862-a904-0c40bb0150dd
+survival	surv_1536	Not Reported	2562											99d9b025-9dbf-5a82-8039-4ba2c2e8b783	2524b974-29d1-5cb7-975c-3b761961b0c7
+survival	surv_745	Alive	4237	Relapse										9a1d5a1c-ae46-5854-a331-f0e171991d9c	f70b4463-1eb2-5640-8f52-5517ac42f687
+survival	surv_1547	Not Reported	5494	Relapse										9a27f43b-381f-5d16-b92c-551fa27a0fde	885114ce-9388-5213-ae1a-eaa6ad6a4765
+survival	surv_1247	Alive	4532											9a46da72-53c8-5792-8576-641b88c160a9	12c04552-74a6-5b30-9af0-328a30e9d4c0
+survival	surv_567	Alive	8955											9a4e3ec1-b294-5fe5-aeaf-5c4baa6b2bdf	f9abdff3-9acb-53a4-bed5-c52f3dac3c31
+survival	surv_1128	Alive	6283											9a59103a-81e7-5dbe-b557-33933fb3b4bb	f15641f0-abf7-5e33-b67a-cd172f5574cb
+survival	surv_12	Alive	5053											9a953d8f-2a7d-5ff9-9bab-a2d7febd70ec	be0d1436-04a4-5bc9-b2e7-2f452966596a
+survival	surv_205	Alive	9845											9ab93c4d-b6f6-5563-9c7b-12e473b77091	e438ae81-952b-5f68-940e-88b5f3aaedbf
+survival	surv_1406	Not Reported	4274											9afb2a71-c45b-580e-adf0-0118145fc7ae	623b327e-b625-5c85-8d38-832d8bd9f5b5
+survival	surv_1340	Not Reported	6955											9b36b9ff-fe66-5a85-a896-aebafd6d35b9	562d98ab-4027-5b7b-9298-875cc4fdc2ab
+survival	surv_85	Alive	7632											9ba8ca5d-43f1-5b08-852d-0f46ec05f5b9	c1eff803-ecd2-5f2b-bafa-fa332d2e7242
+survival	surv_1404	Not Reported	4258											9bb42e98-2a99-5dd7-98d4-8004337eed84	bbfee36f-1ae3-5df2-a223-5dfbfc09bb82
+survival	surv_1381	Not Reported	-999											9bd99450-4c1e-507f-88a3-a191fbb7d573	92796417-90c0-5136-a0c9-4485373053c7
+survival	surv_486	Alive	1935											9bfb984c-557f-5e8c-8a93-13a5731861cb	4dfb3111-22c4-551f-8db2-761399d5333e
+survival	surv_105	Alive	5107											9c641e74-fad4-5bb8-b71d-2baa4a06e4aa	71a70f37-7c9c-5db4-9299-cc736e501d14
+survival	surv_1495	Not Reported	6208											9cc59ed7-cb88-5a73-8b8a-a8f214df4e02	2912251c-656a-59d7-b926-c21ff9e474b8
+survival	surv_796	Alive	7119	Relapse										9cc699cc-d309-5ae4-87c3-0b7d5a79974c	f9e6ec79-12da-5e0f-9e44-728523fe738f
+survival	surv_1481	Not Reported	4480	Relapse										9cd89c1d-ee9c-5d79-ac0b-ea4d81c971fe	23e59673-68fd-5323-be51-6af861a7b97b
+survival	surv_1393	Not Reported	6664											9cdd8877-ed2e-5409-9a2d-fdb727fd2c07	72b9f5f0-4fb9-5af1-a5e8-32fc1b4486f0
+survival	surv_441	Alive	4443											9d046f33-d73e-51b2-8745-5b7b46e8a743	ad9163a6-3af7-5f07-a5f7-c9d07aa072ba
+survival	surv_893	Alive	4749											9d243563-b303-56a2-bdfe-a5bc469501b4	035ac1e6-8b16-57cd-81e0-54a5ac21bcf4
+survival	surv_720	Dead	8012	Relapse										9d346567-6564-53d9-a66d-e945136af3f6	42184516-c19d-51b8-b54a-684761f58057
+survival	surv_203	Alive	5149											9d573b3a-edbe-5e69-bd29-516ba744d2bb	da2ad765-a7af-5b7c-8400-70f2079e9005
+survival	surv_1668	Dead	2832											9d674c0e-6495-525a-8b17-a2e9da07c220	66e2efd8-4ecf-5568-8069-3cff6f6d4b9f
+survival	surv_827	Alive	5596											9d6bcad5-6de5-5bfb-b149-1a7a5f8f0c9d	cf68489b-cdb3-5685-b73b-a1ce366951fd
+survival	surv_1208	Alive	7233											9d79168c-e343-5045-bd93-d5a09486ac3c	9b9f4b8e-8bb6-51d4-97b6-4895a51e36c3
+survival	surv_1613	Dead	1709											9d9d09a9-3243-5b53-b27d-6ea932ebb057	05c8be26-2e99-5440-87e5-46407da89009
+survival	surv_150	Alive	8336											9dfd46e7-5d7a-5ea1-a906-24c415eaaa70	acbf6cf4-3005-55f6-a748-7079cf4356a6
+survival	surv_1329	Not Reported	5522											9e005e34-248a-5500-b3e2-1fedab4ba461	0a4019b3-de39-5099-8884-c5fec36cf9ac
+survival	surv_895	Alive	4502											9e14deb4-955e-5178-96db-471ed75fb4a7	76a51b7c-9e76-552a-b814-a1ca5acdd30f
+survival	surv_411	Alive	4387											9e3a9d8b-9a26-5615-b15b-73f706bf01df	406ed097-d77b-595f-8182-624642c9e28d
+survival	surv_262	Alive	5303											9e59d53c-77a0-5824-89b6-64db424c5e82	6b6376fc-ff25-5555-86fe-38bae5205358
+survival	surv_1003	Alive	4885											9e840dd0-862d-55ff-b832-55b470148ab5	82343fd9-abdf-51ae-88bc-ed13fc6c73e1
+survival	surv_554	Dead	6606											9e97fbfb-103d-549f-bf53-59ce0134f7b5	39fd26a0-c8d0-5e3a-ae83-9fdf9f39ba3c
+survival	surv_380	Alive	3383											9e9d4bca-e63b-5e08-ba24-042d930c65f2	40aa436a-7b01-590b-b9d6-d1ffcdea41a1
+survival	surv_1663	Alive	-999											9edf96fa-07c7-5326-b402-a7d72251ab4f	17cb78f5-f010-5226-a17a-6a3cce841af9
+survival	surv_672	Alive	3522											9edfe0ad-4da7-53fe-97ea-17e43ffafe55	bcd42c5e-bcce-5a7f-a24e-7c2312fd3d14
+survival	surv_640	Alive	4811											9f170a12-54fa-5c4d-88d1-b5f600e19855	9dacbe82-48cb-5592-8d0b-4f437faf8103
+survival	surv_1583	Not Reported	2500	Relapse										9f62a6ba-0a0c-53b5-bcbd-9dd4667994f7	7af6573e-5952-547a-bf2a-9cf19a99dc97
+survival	surv_29	Alive	6930											9f665f4c-387a-5868-9816-568d02d21f4b	53ed1f3a-e00e-52ce-87eb-e0cc06421962
+survival	surv_806	Dead	6748	Relapse										9f9a3a93-fadd-52dc-9d2c-98486582e066	0d554a61-3ba7-52ff-823b-13881338854c
+survival	surv_899	Alive	4749											9fbc0934-0181-56ca-8888-148af7d0523f	d7c6553b-e606-5da8-a6f2-140a226827eb
+survival	surv_1595	Alive	7765											9fc679ba-ffad-58e5-8edc-bb554c8c1320	a6adfc5e-33c8-54d2-80df-0801b1f49bd3
+survival	surv_1698	Alive	5238											9fcfc9f7-e41d-5b7e-9bb1-92ed9af577db	2e8c1bc4-676d-5060-a350-193885c62fee
+survival	surv_824	Dead	1881	Relapse										9fe4c3d6-7e42-5e5c-be36-d28a56a89e7f	c83f0172-0c5a-5ef0-a97e-4a25b9aed1e4
+survival	surv_1520	Not Reported	4761											9ff1b208-ab7f-5757-a555-d277dce90ec0	67538d0f-0fae-5215-9e08-1aab9c9374b3
+survival	surv_1412	Not Reported	5113											9ff1cff7-9825-5cba-a633-9ecb7c2ad89e	00090472-5eec-5cb5-9ea1-25a84a2451ed
+survival	surv_297	Alive	8358											a003260e-4ee1-5fcc-86fa-e30a27257b75	e6c5be95-03ba-52a5-b975-d54ff4f56659
+survival	surv_898	Alive	4624											a01e6023-f1eb-506e-aeb6-43e296c45d64	76d25230-22c5-5a27-a7fe-30fee4d16a7f
+survival	surv_1317	Not Reported	8099											a040d39e-72f6-5b65-bd01-9501fd7e6b1f	c412df4a-c2b6-58e9-86f5-a8c9218628f8
+survival	surv_548	Alive	4199	Relapse										a0864d52-c26c-5083-911f-891eeb318c59	2bce3357-b3e2-5007-a1ff-ddee66b11937
+survival	surv_1362	Not Reported	3516											a09a25e9-b997-5f0d-8aab-ace26ea86df8	57c1602d-3f42-564c-a1bd-3b9a62f0e5d7
+survival	surv_1374	Not Reported	6943											a0f42155-796c-5fe1-b02c-98933ac3f423	38b808e5-512b-53f1-b525-ebf36c1ab6a7
+survival	surv_1101	Alive	3510											a1196b2c-c978-55ad-85fc-c9ae85f8afdd	fe375378-b027-5c5f-9db7-ef5b92460b7d
+survival	surv_427	Alive	8493											a132d36d-fa82-5e02-b5f2-b758a530d8f0	be0569dc-453d-5a5c-a428-21e827dd5c3f
+survival	surv_395	Alive	2585											a15c3e80-a6d4-5c33-b36e-39e201e20721	1ad65b47-9c4e-5bd7-a520-d9857b8a6203
+survival	surv_1390	Not Reported	7433											a170fe0c-70fc-55e1-8afc-45e7a219fcc1	264221f2-1c4c-5e28-9352-429e7261570e
+survival	surv_910	Alive	4786											a1753eb7-c04a-5b3d-9095-9b3a7439bd24	7a55a69b-eaf5-5a98-89e5-cd058ff2f9e1
+survival	surv_510	Alive	3713											a1b79075-12cc-550e-8ac0-92ddd1bcd40f	92f97dfa-92c2-57a6-ac4e-16782caff55d
+survival	surv_20	Alive	4183											a1cdb8f2-7b1b-5057-b79a-d3c40faf2e14	4ea2206a-85f1-5622-b729-3696751eb0eb
+survival	surv_596	Alive	6036											a1ce8dc0-742b-536c-a4c6-c423131f3b7b	2b1871c3-f549-54f7-a987-67eb0747a445
+survival	surv_146	Alive	6114											a1ec1107-5e2f-5cb9-acf6-298d34f004d0	53cb14f9-67f4-5014-8494-ad6110333322
+survival	surv_346	Dead	2507	Death										a207f573-e9bc-596b-9ac9-035a29b68efb	8ba69bf9-9777-5edd-85f4-1c9424181e2a
+survival	surv_360	Alive	7705											a2228789-0af5-5799-b126-d35bbc3aac19	0ebd009f-bb0f-5e77-be2d-e9317c54ce21
+survival	surv_242	Alive	7444											a23977d3-0534-5295-80a8-b420685e6caf	60a41c12-798c-5197-89bd-23f3899b02d5
+survival	surv_614	Alive	9845											a255fdf8-f546-578b-9268-25d8a13b8bb3	087052b1-8a7c-5f8c-8385-257a0847af19
+survival	surv_1482	Not Reported	4905	Relapse										a2b581ba-ee32-52cb-8beb-a6a14879841f	3ba68442-443b-5d9b-80cc-ee4515bdbeea
+survival	surv_1079	Alive	4060											a2e88943-de73-5668-8b5f-d23d99100b99	eaf5a182-0096-56b9-a07d-0a0add30c917
+survival	surv_1560	Not Reported	5293											a3a70973-f898-5ca2-912a-cf38db683f7b	1dfcb008-b4bc-50ab-a335-f430ac2d5929
+survival	surv_472	Dead	7944	Relapse										a3cedb73-f621-58d7-a88d-fcce4c3c7912	a09e6abb-32db-5e5b-9f2b-7e12db61baac
+survival	surv_131	Alive	4780											a438ff90-0797-5111-b1bb-891c5559f573	648009a4-fb0b-52ef-b0bb-e63db28a3ef0
+survival	surv_1212	Dead	3392	Relapse										a47e7cfd-d76e-5ea3-b79a-3c3b49ccffd9	3acc8803-4b1d-5c72-b55d-e2f068e8ab94
+survival	surv_597	Alive	5036											a481be59-bc15-5f0d-9ddd-a00d3081eb2e	97dcf989-0c5a-5887-b8ed-eb942730aab2
+survival	surv_1264	Not Reported	-999											a4829e3a-b0ae-5ffe-9051-a7dc1fa977ec	c43020a2-9a1a-5d8f-9372-aeb28af2415d
+survival	surv_1004	Alive	5709											a4df90c4-05c0-516d-9242-654d827f7ece	5db304e7-260c-580e-b8a0-13360a2d3bd1
+survival	surv_1429	Not Reported	5926											a4e4e166-f274-5d24-86fd-fe3c52cbf3a6	2a37cd36-ce8e-5033-8e81-e98782388103
+survival	surv_1132	Alive	4182	Relapse										a56908b9-404f-5d64-a375-9963a894f15e	aa100db5-c01b-537e-ac9e-2bcfcd0ce284
+survival	surv_1034	Alive	4695											a578d9c7-ba53-5e6d-92d7-cce5e4a09ec3	418cce7e-2354-5e8e-9e4c-81f6dca2078d
+survival	surv_420	Alive	8289											a5b32cc5-9301-5237-9d95-c848f631943d	22c9aca3-e3cf-53ba-bdb0-312a742fca0f
+survival	surv_601	Alive	7093											a5d616ad-9660-5a0e-88fb-c1acc2697ed8	f176a8de-dc58-50d2-93c6-265dfe11ca96
+survival	surv_718	Alive	6479	Relapse										a5fb8f0c-f7e2-5a33-ba75-dfdfcf9a56a5	6e34150b-3ccb-5f9c-a3ad-c33473ad19bc
+survival	surv_626	Alive	4671											a63279de-05fc-534b-bc32-ab0699e33afb	417a2b75-7670-50f4-b2e4-ac074129086f
+survival	surv_954	Alive	4758											a653794d-1db6-5d23-8705-dd3bb9c22343	8f5d7b5d-15ab-5885-b64e-b929f8aacf9b
+survival	surv_1142	Alive	6239											a65c9fc3-9b5e-559a-ab9a-1ea88e2d8706	69354931-887f-51dc-97c2-cace7733baf1
+survival	surv_1585	Not Reported	8018											a665b2be-c282-5520-a014-7bad617c9fcf	89dcae12-ab4a-5069-bf7a-5cb4a0be6b8c
+survival	surv_1491	Not Reported	4321											a6669d93-9f82-5c5d-805a-305501dc6f80	a6f8bbef-89ca-5053-87b2-afc6b9b27965
+survival	surv_1099	Alive	-999											a7019e03-765b-5d1a-93e1-c5b45299193d	ba37e1aa-6ef2-5f48-81d6-26cabe62aa8f
+survival	surv_53	Dead	5363	Relapse										a745cc12-a06b-5b67-958e-a8939d359d39	f1bf12c4-e617-529e-8787-80906ed1d902
+survival	surv_593	Alive	7250											a75fac40-b119-5cea-8cea-86354d6a0bb2	ee2e66c7-b800-549b-8b84-337438194ec8
+survival	surv_1186	Alive	5043											a78eb907-dfcf-57e1-9722-df7827282ff6	28b5c4ee-757b-58d4-ac45-52cb3cdfc019
+survival	surv_1268	Not Reported	8284											a79907b6-4256-58b5-b3e6-91184870ee1f	292d3f55-9d6e-5b60-8910-4ecec7941b79
+survival	surv_830	Dead	2896	Relapse										a816e8c6-e770-5ab3-bae2-e8743c90c010	9db4082a-de2c-5752-bd2f-4232cd88c1af
+survival	surv_1254	Alive	4081											a828c30d-bd5c-5bea-ae92-6e14c8aca5b9	5289afba-1702-5edd-bda3-a1f9a7634d50
+survival	surv_875	Alive	5791											a8514d9e-d34c-5608-9f80-6db684468e86	565ddf97-1023-5f0f-b5e6-b8393b360132
+survival	surv_118	Alive	5375	Relapse										a867ffce-2b2c-59fc-b561-5ae23e1aaa80	c617a8b5-8a0e-511b-89f1-03c1d772f810
+survival	surv_153	Alive	12751											a8693976-426c-5566-8b0e-86db0a365e34	1c0d201c-a938-5135-9900-d48556379655
+survival	surv_1368	Not Reported	4022											a873d32b-ed4f-5ce1-8fe9-d6ca846a05be	b94663ca-6726-5014-b7d5-28a273c80e36
+survival	surv_799	Dead	3681	Relapse										a87b6bdd-76ff-5d31-bbe7-5e834528e194	a591fed9-8cf8-565e-8034-732280fe6c57
+survival	surv_1141	Alive	4647											a87d5e99-1b25-59a8-9321-6fb29f53082c	eb449534-8a4b-50e1-b66a-bac07fac68d6
+survival	surv_1134	Alive	4216											a891773f-296c-537d-b851-1ce44af40a55	58c91601-191a-5c55-82e1-cb453bf49cb3
+survival	surv_934	Alive	3757											a8b097e6-13b4-5eac-9107-6240890d8654	ecbd68dc-b905-5a1d-8b58-9a074de3a3d2
+survival	surv_145	Alive	4569											a8c70a22-799b-5125-9e91-770a7b390cb9	63231fce-ece6-5e10-b8b4-2571c8973451
+survival	surv_511	Dead	7503	Relapse										a8d55cf6-5150-56e9-b678-69715535fe86	d38a5b57-9207-5d6a-9514-bb687dad5f6e
+survival	surv_154	Alive	5454											a8d7f659-5213-5408-9637-6e8619912ba4	1885cd07-de14-5a7d-8f81-fcff026f1212
+survival	surv_528	Dead	1467	Relapse										a8e74d9b-3cf9-524f-ae5d-6949162b89b8	4a3dbc13-f1be-5b11-86af-beba74a6a84d
+survival	surv_1555	Not Reported	7327											a943f79b-15ba-505d-bf0a-fe9dbac091bd	e52ebc5b-1642-5f59-a4e6-5e070fd9d80f
+survival	surv_892	Alive	4690											a9481f69-ff1d-50da-a4c4-b4fa4b36274c	6bf493fd-82c9-5cfd-be5f-217961bb4c20
+survival	surv_1225	Alive	5893											a949b2d1-965d-577f-81d9-63b8fa47720c	0cad2016-3073-55c9-93f6-3d57768fe9ae
+survival	surv_790	Dead	5844	Relapse										a94fc918-5686-5c20-8a4e-f2aadc712963	83d9fc3c-01c3-5ca4-a3ea-e43553e3b45c
+survival	surv_157	Alive	8362											a9afdc36-0599-57f7-83b6-36af1be84d92	61618f60-da80-5126-bd40-a92b90fb0618
+survival	surv_785	Dead	2653	Relapse										a9f057bf-c15e-5469-aa0c-66e5e532c763	6da42d09-29d6-5450-b658-0f9e7a76067c
+survival	surv_631	Alive	2239											aa007a06-8b59-57b0-95e4-8f47fa1a9f9f	42178801-7e7a-507f-af0e-4842ce8e7f9f
+survival	surv_834	Dead	7135	Relapse										aa2a3c0f-b771-5432-8ca5-d7abf829bbf2	f4ea9b9e-e312-5266-9dd3-ce2cea481782
+survival	surv_890	Alive	5374											aa39c5b6-3f22-5dd2-b5f3-7f09754e2b27	00cbfc36-8782-5f8e-bae9-131ee33e145e
+survival	surv_359	Alive	7083											aa3af338-cb3d-5cc5-b339-4a6edd0951a5	52326e71-7565-5d4d-93bc-8a6e90ed9c38
+survival	surv_867	Alive	5373											aa4406f9-dc92-511b-a251-3437bed74973	ae1e27d0-afce-5e02-abce-b7b521ae32ae
+survival	surv_1378	Not Reported	6964											aa649556-dcac-506a-9521-6a39f4b58a80	c2a2538f-70d3-506b-be01-6c4aefd36650
+survival	surv_600	Alive	4590											aa81ca4f-d01e-586f-89dc-8fe6404013bf	b80a24bf-7269-54f5-9f69-732a6e442dc8
+survival	surv_137	Alive	3807											aa8d411f-7872-5f57-bc65-2a7b08d9dec5	3e313b2f-c6c8-571d-bf0d-e99858baf772
+survival	surv_1473	Not Reported	6783											aa976e24-6054-51f1-9b81-f6ec00e0e25c	15361fb0-4616-51b6-bbd4-5d4819641f51
+survival	surv_379	Alive	5672											aa988c74-c52f-53ee-b06b-1bb214c2d251	a0c24cbf-6968-55cf-a6b5-09ea9d8d220e
+survival	surv_1273	Not Reported	6724											aabc5809-2332-5674-8903-0d77cfebc60e	e395d706-8425-5032-8a2b-dd1c6b82195d
+survival	surv_1300	Not Reported	3750											aaca038e-e3a3-5433-8c30-fb84cbae59b9	5ca672bb-43a6-5eb7-85c7-8f89d4baa5cc
+survival	surv_1328	Not Reported	5712	Relapse										aace6994-ffc1-579c-a17c-58411084056a	78c3f9fa-12d0-5e81-b93b-733ccd3d34a9
+survival	surv_1594	Dead	4442	Relapse										aad05261-1aed-5e7d-a9eb-f6ad374b5b41	1c0c6929-da11-558c-8890-230b9c3a01a7
+survival	surv_1575	Not Reported	6218											aadf9ca9-b7dc-5b51-84cd-d0d72cd90393	2db7c241-6083-5bc6-8352-e9386a2b039b
+survival	surv_1523	Not Reported	3202											ab0b9273-2d05-51a5-bf20-6d88bb187057	326b374c-543c-5451-aadb-9e4b56808114
+survival	surv_1433	Not Reported	3765											ab35023d-aff2-5aae-b0b3-51a8c73e26bd	12cbbb0e-8366-51d6-8bd0-d4dfdde3fdf8
+survival	surv_311	Alive	4693											ab4bb5ca-3e3f-5bf1-8b9a-85b6b4a27e36	54276e97-2082-5445-8433-5c47ff73f3f7
+survival	surv_667	Alive	4230	Relapse										ab8ca69b-1316-5d44-addc-5da2c322cbf3	51bd0262-65c7-5483-9fb6-608ab52c8663
+survival	surv_1170	Alive	7615											abdfe042-8537-505f-a2c0-0c7e6d72c64f	5f168f57-8f23-5838-acbd-e5ec1ee95f90
+survival	surv_365	Dead	3625	Relapse										abef4ee5-e010-5fcc-b615-f14dcc31c5d8	49824932-ab61-591d-ac74-2784b5e6d050
+survival	surv_1403	Not Reported	5919											abfe2b43-87c7-5ac4-97f9-402b5c82daa6	fe4dcf76-e7d0-5805-aa7f-2f9b82bab05f
+survival	surv_11	Alive	5129											ac2281cf-ae31-5a96-9eb9-938410d41fe6	8603431d-3901-5d52-9c15-b4b97a260679
+survival	surv_737	Dead	2981	Relapse										ac34cb38-7b8a-50c8-9714-5a0f22324e50	9aa28d64-0097-5c58-aa20-a091583a8ca9
+survival	surv_1542	Not Reported	2882											ac4ca479-92b5-5e59-a1bc-3245ed196c4c	475edad6-c1f2-5f2d-a7b0-f6eba7e4a5fe
+survival	surv_372	Alive	6145											ac6714db-2202-5a47-8d3a-645af7405afa	d0dd0cac-4865-54df-83cf-b904961041a6
+survival	surv_710	Dead	4876	Relapse										ac8a5e0f-7ece-5c0c-8dd1-ac8c260e9784	269d30a7-74a7-5c73-b8b7-8b6a89dd3b3d
+survival	surv_1098	Alive	5201											ac9d1f8b-c723-510c-95aa-7f041a4cd7ef	f7417fae-45af-5114-a4ee-bb20707f7ee1
+survival	surv_693	Alive	4423	Relapse										aca4ed3a-fb3a-5a5b-8835-cad9224816e3	4e9d2a12-0897-54aa-8c97-7f5a96a3da4a
+survival	surv_1424	Not Reported	5743											acd7edc6-983b-52fc-a3f4-638c65853b72	7e22781a-1faa-569c-96d3-b6ea7af9b829
+survival	surv_1538	Not Reported	2586											ad2ade51-01e5-502f-99f2-2ea967ab7000	3e7d9b30-1a69-53fd-a28a-34c737da6372
+survival	surv_284	Dead	7594	Relapse										ad616929-a60d-5425-9c6f-495ac649a2d0	13761744-f021-5534-8a27-8aa8184cdfd7
+survival	surv_509	Alive	7544											ad9f13bd-177c-5801-a87f-522b4284d58a	f9e97e29-8765-549c-bb67-012c87c65f02
+survival	surv_1353	Not Reported	4290											add2643d-26ae-5997-ad22-6ee3453a41c3	918c611a-9dfe-56d7-8f5c-fd7a19df1c04
+survival	surv_444	Alive	11226											ade8bc14-4208-52a7-a052-8c87bf94d303	2ae0d5f5-c984-5552-be1a-c6b231c94436
+survival	surv_333	Dead	3790	Second Malignant Neoplasm										ae0da481-fc32-5fcb-b611-e0c5371f3b4c	2e9dec35-c55f-5a09-840c-ca82461ed600
+survival	surv_251	Alive	9972	Relapse										ae3d6a30-d3be-58dd-8e1a-8d806aade682	180167c8-761f-5b22-af76-7a1b4b8d20d0
+survival	surv_1637	Alive	2309											aea462ee-fb38-5498-9dcc-8833c80c1a3f	ded3ee13-8f43-592c-a3eb-6990f56b4daa
+survival	surv_60	Alive	9443	Relapse										aeb32fb5-7674-5bf9-8d76-4ce8bd7b75ac	fae1750d-8335-5b18-85aa-896c27cfcf97
+survival	surv_562	Alive	4435											aeb7a666-9ed6-5f5e-872e-dc6997a0d549	0d3fcf38-363f-57f9-b0a4-6012cf6d9841
+survival	surv_1582	Not Reported	-999											af03d60e-cb49-534c-a4a3-22e5660a2319	745c759d-6ca4-5102-bea1-02232888e9f2
+survival	surv_341	Alive	9037											af0c4ea6-fbd1-540b-821d-ae09ff4643af	f0fbbf6f-028e-5c83-b2ca-fd52b8bb38cc
+survival	surv_1371	Not Reported	6635											af0e3c3d-4952-500e-87f1-491a952232a3	cd471875-8635-5dcf-9cac-524e0959f1ec
+survival	surv_142	Alive	3314											af26a650-1922-5efe-827f-07ee3c56aefd	582f22cc-a721-50c3-99cc-020fc646cf17
+survival	surv_1494	Not Reported	10049											af46d057-b00f-55e8-a47b-34b56cb28360	5fc2eb2f-931d-5356-aa19-d942e2c4d047
+survival	surv_291	Dead	5628	Relapse										af972f64-10b3-5253-913d-6a84143bff25	6e2f5e41-76d4-51a2-8fdb-ada1fa50a2f8
+survival	surv_1480	Not Reported	8891											afa0c702-55f4-52c1-a3f6-4969b0800644	d9c2fd56-5884-5e21-b833-1b83b0042f82
+survival	surv_1430	Not Reported	7568	Second Malignant Neoplasm										afaeefdd-3ff2-5fe6-bca1-fa3a3f6e7faa	f7fbc552-7fe5-5724-9fb9-738bd32ef6b7
+survival	surv_948	Alive	3566											afb76a5a-8ddc-552c-8081-0113e9b1eb63	582c7ff4-c728-59f9-af49-6be7c8535317
+survival	surv_1195	Alive	5122											afbec622-afbe-5525-83c9-df188ae14f2b	0b24c306-aaed-58ec-bbf2-6ea47f9d9860
+survival	surv_1419	Not Reported	8053											affd8cd5-cf02-5814-aeed-bb0b0bde5e8f	e9decaa1-4bd3-52d6-8299-996b0ecd893c
+survival	surv_804	Alive	4568	Relapse										b00d1cca-2011-51a1-bb28-d303e1fc96b9	8001825a-a874-5099-ae00-be9730d48064
+survival	surv_516	Alive	6573											b0111c97-aba1-52ff-b436-11db63a229ad	312d1164-baaa-57f8-81f9-4de810ef6651
+survival	surv_225	Alive	10351											b02177c4-dcb6-568c-b8f7-4279d49aee71	9d4af26f-3a9f-5a86-adb5-3aab52887f24
+survival	surv_1562	Not Reported	4270											b03b1341-c8c4-53eb-86ac-7e71a8bfe793	277ecaad-cbdf-5149-80f3-93d510ab5c0d
+survival	surv_236	Alive	5202											b0707cba-edb6-5c83-a521-8d3b2bcf53c6	65a4925b-1eb6-5b93-99aa-11ef7807531a
+survival	surv_367	Alive	9059											b088b3ea-fcff-5a94-b986-2b6ac2825d58	16c7651f-05b1-5313-8fa4-0b7fc9426d5e
+survival	surv_1237	Dead	4397	Relapse										b0b43e4c-271d-527a-a624-d05c25aa50cd	0c043244-66d2-5c99-88d0-01c62ed50c11
+survival	surv_1535	Not Reported	4554											b0d07104-4bea-5016-adaa-86e63568aa61	da3dc331-864a-5935-b678-5e30a356e4c7
+survival	surv_1150	Alive	7460											b1043ce3-c1ef-55ec-b097-0fd451b65418	66da59d9-df79-52bd-b50f-a9ca4fd70f19
+survival	surv_461	Alive	4382	Relapse										b1081b03-2fd7-5bfa-ab0d-7bea9ed98e7d	8e4dffb9-5690-5041-b1ab-ade08a7bdb12
+survival	surv_282	Alive	3386											b12d589b-3065-583c-ad11-00552ce14bda	826dba41-fa19-53b3-aacc-1615fe2f09e3
+survival	surv_394	Alive	10642											b1ebbf62-9d9e-5a9c-b927-64b7a0ed347c	1a87d7e9-9d63-5c7a-9b31-7b8c1a2e0cb2
+survival	surv_918	Alive	4326											b22c70df-5e9e-5fce-a513-1f9ea5868d2b	1983fbc2-475c-5db8-aa95-211b11c0b7f8
+survival	surv_69	Dead	4088	Relapse										b25b3bd0-6e12-5e00-8722-d419a05e09f3	a66e932f-e289-59e8-a42d-e5070c4713c5
+survival	surv_802	Dead	5161	Relapse										b270eb92-9b21-5178-8a82-d00c67b49ee9	b210677f-8a17-5197-bf21-5cde7027da37
+survival	surv_828	Dead	3179	Relapse										b27b5246-a5b7-55a1-8274-ceb1384eeb4d	d16d4caf-800d-5d55-80f4-0fad2ac7d8b2
+survival	surv_1279	Not Reported	5374											b305d282-42ef-5e1e-a509-ea17a6a266b2	c81f18fa-aa56-5ab0-a1bb-8690002193bf
+survival	surv_97	Alive	5562											b3405aa5-224f-5581-b1f4-dbee611bc1e5	7eb7e5b5-f5b0-5c2c-b970-7db03f48a0d7
+survival	surv_578	Alive	6101											b385b9a5-ad17-5507-817b-a7cd59e646e8	b1ec444c-7981-5234-a5ce-f836357cee80
+survival	surv_238	Alive	7472											b3d735f9-ea2c-54c9-b98e-4e4ccec32d56	a347ede4-a5f3-59d4-ac99-4dc466501929
+survival	surv_668	Alive	5353											b3ebd413-4fbc-52d4-a26b-b0b7d18d4b42	217e39c6-2d2f-515c-b576-15283beee1cf
+survival	surv_731	Dead	2968	Relapse										b43068b2-5529-596c-a272-90c1214475b3	292718e7-85be-54f2-aab6-286d6225eeec
+survival	surv_696	Alive	5875											b4360803-88df-596b-9cc6-e7f54a9112ed	b6e95251-9c81-5c5f-b282-6de1f575d310
+survival	surv_1050	Alive	4001											b4501b25-c3eb-5dfe-a9e4-7da236464219	99b3fa5d-b776-5a4e-9e5a-1469bed8f9f5
+survival	surv_1675	Alive	6761											b4593d46-69bc-5568-805a-8827c475ed63	f129a991-b1fb-568b-ac68-47718e3090b1
+survival	surv_615	Alive	9625											b491510a-3967-5843-b918-ea276381fb90	f2774b1c-0483-5e94-81bf-ab48ee4b7ff2
+survival	surv_491	Alive	4557											b4be29e8-b525-5b28-81b3-99e090a3ccdc	3db540e3-8bc9-59a6-8b38-b9ec399b0aad
+survival	surv_1511	Not Reported	7705											b4bee9a1-7214-56c5-8309-e1286b2a93c5	b33745fd-4481-5a87-b4ad-25bd67a38a94
+survival	surv_1149	Alive	5166											b4e74a1a-4a0b-57fd-a4f8-adc606f863be	c606cdaa-97fb-577b-83c7-355e4eac0223
+survival	surv_1690	Dead	342											b4ef39f2-f733-5565-b9e2-22031ed120b5	1c34632a-8bb1-5888-a88f-905340b8a2be
+survival	surv_212	Alive	4557											b5483dae-1d82-5657-9d4e-d43db1eedff0	36dc2632-1898-5dbf-90ae-46843992e419
+survival	surv_448	Alive	1523											b5517ee7-c260-5d65-9123-2f3eeee3b8cf	bd1d5cca-6a50-5d20-90e3-a5352bfa9cf8
+survival	surv_619	Dead	5925	Second Malignant Neoplasm										b57136f4-ad48-5b0b-85aa-1b1c9728b840	52def1d7-905a-5064-9654-be077f8a321d
+survival	surv_532	Alive	10232											b57440a4-d686-58a0-ae16-bb92c1b4714d	2b3b56e5-8493-501f-b676-b86b19c41379
+survival	surv_73	Alive	5606											b5dd6e0e-4334-5f6a-b4ee-127111844276	84215182-3883-52a5-97b7-72505e1c1faf
+survival	surv_1526	Not Reported	3002	Relapse										b608f8a7-b584-5288-be25-46d2dd83b324	715fac3e-50a7-5fb4-9569-df8f865ddd8c
+survival	surv_391	Alive	2587											b6147949-aaa6-5977-bbab-ec946f812640	f88beca1-62f4-5cec-b18b-adde598ab565
+survival	surv_1064	Alive	4477											b62d88d8-8006-564b-b168-7ca1ba5de9a3	0b680227-d2b6-5bb2-a278-ec1adf306aa9
+survival	surv_857	Alive	2135											b677ea9d-2528-55e9-9547-210c098ece2c	7374cc1a-dc72-5ab2-b665-f348e3cedbd2
+survival	surv_610	Alive	3929											b687c27a-6ba0-53f5-b52a-63bffe899f53	4bc1990c-6ce4-5484-aeee-6ed388d12c75
+survival	surv_585	Alive	8147											b706318b-fdc2-5a05-b739-6047be4a18e0	1164bd79-f4c4-5034-94c5-00ff276976c8
+survival	surv_776	Alive	6115	Relapse										b70d44ad-1f48-5ae8-8e83-a6491f6fa092	c24890e9-c400-5c5c-be71-0c2fa68c4a4f
+survival	surv_1339	Not Reported	4138											b71112f8-650b-5609-a02c-a8d9779c94c8	0319045a-b86c-5d7f-8679-49688b49cc29
+survival	surv_1683	Dead	2567	Relapse										b719f687-03f1-519f-bd2a-6dda2745fc3e	943e515b-2e8f-5b09-a3ba-f5c8ed4560c6
+survival	surv_691	Alive	7643											b71e087a-b5f0-54b9-a481-14a0cf9c4b87	1557f721-7a5d-5e12-bea9-78b95ef3eb68
+survival	surv_1297	Not Reported	7239											b75be9fd-2aad-5e7a-a7a6-24b4794b3b73	c12ce07d-3dec-52de-aa21-c27950a3daef
+survival	surv_842	Alive	5249											b7833324-af73-5ec6-a393-bef75a2fe1c2	babf7a51-28a9-57e7-9828-1b30f1bdff9b
+survival	surv_121	Alive	5547											b79fbe85-c48d-5127-9fd0-336497cff844	c1f442b0-be0b-52af-b103-13a66e6f9621
+survival	surv_1477	Not Reported	6657											b7bc5647-daec-5641-85a4-59be15b3c6b0	07bbaa6a-6088-5d9a-9268-a81931bd62a7
+survival	surv_1533	Not Reported	6529											b7de8a4b-6e1e-54de-8607-7f51f8bb213b	9c787e21-a2ec-5465-8910-7f78c117e24f
+survival	surv_1177	Alive	3884											b7eedea3-68bc-5f37-aaa6-d195476448f5	0574ef98-c6f7-53c9-a594-6a4d17fc7732
+survival	surv_1218	Alive	7392	Relapse										b819b014-044a-53f4-ad3a-656503e3108d	6aea12e5-3a6f-5c7f-9f9c-42c97dc011c4
+survival	surv_553	Alive	4976											b829ea97-a2fa-580a-8ed2-d889e7ba8ca0	b0cce245-13b0-55ec-8891-0b4358491537
+survival	surv_560	Alive	5487	Relapse										b848cef1-932c-50b7-bdd2-ec5e7bf66291	69cf596b-2f31-574c-9fee-fafed53fa065
+survival	surv_1618	Alive	-999											b8733ab2-4b5e-5cb5-85d0-d02c0113b59a	a2c840b6-71c7-5533-804e-7b7781cf38c5
+survival	surv_1283	Not Reported	10602											b88277e6-a45c-53d7-a997-ef408db55e69	ce3ffd33-561f-542e-ad6d-a9c563430e6e
+survival	surv_970	Alive	6180											b88533b4-f25f-5aa9-8f9f-c8b74c4e55f9	73f974a9-f402-5256-94c3-a8066f4ef8ad
+survival	surv_675	Alive	1681											b89ea7a0-aad6-5e05-9133-1c6e336e6360	1281d34c-0b97-59a6-ac09-b5428d6f8802
+survival	surv_1539	Not Reported	3853											b8a59220-cd45-58d0-af8b-0fa34b5ee423	63e70300-e3ad-5399-a034-757735f58352
+survival	surv_1324	Not Reported	5068											b8c67517-baa7-507d-8dc5-908480e73f7c	5e8bb54e-e424-5095-b865-5e4b21b21228
+survival	surv_386	Alive	8712											b8d74e44-335e-5d0d-afb4-98394695b6cc	9c9d3173-af07-5054-ae36-d523b65e21d2
+survival	surv_244	Alive	4858											b9016acc-82be-535d-92a3-ba079ef87d4c	0c3515f3-8fa0-50d1-a77c-de6fdce08d9b
+survival	surv_182	Alive	4960											b916c1f8-6f5d-525b-888e-662bee7e8146	a646088c-1cd2-530c-aff5-9f27918bca35
+survival	surv_662	Alive	7234											b923583a-c7e2-5c1d-9c8c-a815f41c8c05	5a55a2f3-fefb-5fa8-9224-0d677a346a49
+survival	surv_992	Alive	5848											b94eb8c7-a1d2-54cf-8f29-859b7c6f3ab6	aa7da492-f1a2-5599-ab56-8d7983de601a
+survival	surv_1206	Alive	4294											b955511d-dd94-56d9-83da-4e7a4d38654b	e3d2b143-d120-5975-85b1-e081514462f7
+survival	surv_416	Alive	9329											b9819416-a9d9-53e3-994a-5ae2f917dc18	9b0c68ad-fcaf-5c07-b0c9-71cdf06154cd
+survival	surv_323	Alive	5713											b991baca-93b6-56d7-9f1d-5dc67c91fe64	686e195a-6ca3-564a-97d7-41f4653bbb3b
+survival	surv_1111	Alive	7176											b9b5c5da-6f7f-5dc0-8f31-dac45b371794	d0f7fb9a-75c6-5110-af6d-ac9e4b120631
+survival	surv_1173	Alive	4811											b9c1ff40-79fd-540f-8d80-1f86c855c87a	2000e5b0-b257-5c7f-84c2-0206d446ccc3
+survival	surv_374	Alive	8618											b9fb7eb8-1f12-566f-bf76-3b6d4a78f710	83f1c7cd-a78c-573b-a0b4-632a527dd98d
+survival	surv_756	Dead	6120	Relapse										ba08972c-1e98-5402-bc07-0b0b3bc58167	f9e7743e-0f29-5f2f-8e85-b2a2a3fff4cc
+survival	surv_982	Alive	4861											ba117553-1fc3-5f52-a524-f3369774052d	b9ffb718-56d6-5131-ad5d-8f69a1a4450d
+survival	surv_705	Alive	7935											ba350c25-590b-592e-937e-67a6ccdcac44	b30c64ef-4a09-5fc8-a3b8-e081ed07a601
+survival	surv_1405	Not Reported	4019											ba763bb3-dc71-5311-8b89-35bb10735538	00269b90-5985-51dc-9a9a-3711f0242bac
+survival	surv_712	Dead	5900	Relapse										baa87b0b-6392-55e1-a430-09f76afb99a9	9b40e97a-c966-5a8f-9006-bdce8fcf8c25
+survival	surv_1	Alive	5619											baae9ed3-8238-5a00-933a-203e9ad02d98	38f5f0ce-4392-52f1-bfcb-91e16d61f0f4
+survival	surv_771	Dead	1106	Relapse										badb1fa1-f1bf-5ca0-af85-a8c93f0a2d1c	4ee1133c-9dc4-57fc-826a-01953e04a664
+survival	surv_1556	Not Reported	7424											bb04c223-ba68-5d43-b2a6-52ea25ac7d2f	8d7acffc-1c7c-5a89-bfef-c4db7f355dee
+survival	surv_1080	Alive	5651											bb1021a6-24e0-5268-9165-afd605e0bb26	63d62515-4fff-5d13-9a91-6b4afd37fc6a
+survival	surv_1203	Alive	4330											bb4147a2-07ea-57ef-8ff2-716d7ef874bf	b109645f-1e35-5040-a439-f943be6854bb
+survival	surv_686	Alive	3481											bb524085-d5f4-5073-9b60-b41f28f23314	d187be84-d1ef-5ac0-988f-8bafb7f410b2
+survival	surv_1052	Alive	6878											bb8ccb96-9ac1-50e8-b4fc-9555cb8c6179	1029b091-afcf-5a0f-815f-74f3c531ca7d
+survival	surv_990	Alive	5131											bb8e5adc-4695-549f-a990-374b157e5fd6	fe8d18f1-ef11-51d6-b218-3816a7992a94
+survival	surv_708	Alive	8820											bbb80ac0-082d-58ad-959b-06cea768b09a	e71bcc9e-7ffa-5852-90aa-93667f35a88e
+survival	surv_1601	Not Reported	-999											bbbccb44-e0f3-5ff6-ad27-fe6af5a8a6af	41ede723-a157-5208-881e-047e864d351e
+survival	surv_550	Dead	7045	Relapse										bbc4ab13-8914-59b4-82d5-3cbfa70b299a	42909418-b3e8-5164-8395-93b7d77b8201
+survival	surv_574	Alive	6477											bbd11c95-50c6-5271-9148-a8950ce7d609	af84602b-882c-5c81-a5e1-7c7a466323eb
+survival	surv_1544	Not Reported	3562											bbd215b2-bde1-5917-ab43-cf93aa7a1326	6989caeb-0bdf-551a-816a-4005517c4eeb
+survival	surv_689	Alive	9055											bbd9522e-9a86-5ad4-b73d-5657b2d4df4b	6784837d-2c0f-55d8-9c9e-e51cea9e7d75
+survival	surv_364	Alive	8005											bbfc5f8e-46c1-54a0-b8a1-83fd6608dafd	52f6699f-48dc-5cf7-b0bc-c3b008ad739f
+survival	surv_1418	Not Reported	4293											bc818daf-c2b7-52f8-9720-b38564c1d0f1	78d330e9-a86f-5494-b270-3d3e8eb2c095
+survival	surv_788	Dead	5921	Relapse										bc923727-8b9b-57a4-8660-07d1fd98986f	d756784e-9d73-51c8-b7e5-e657b6674010
+survival	surv_1628	Alive	5449											bd1c7e69-fff2-5518-a35e-bb64ec6aca19	e522ba9c-3abf-5cf4-b7d2-5f1a0108430a
+survival	surv_1352	Not Reported	4093	Relapse										bd37fd02-1c41-5c52-9f2c-703416cbf21b	c7c06534-3beb-5f82-a85c-f98a0f066ee3
+survival	surv_1308	Not Reported	3645											bd44ded2-ffa8-54d3-aba0-5579c6e8b534	26704b14-7250-5751-a093-17117b78a277
+survival	surv_305	Alive	7533											bd6d8b93-621d-56c3-b569-c1a146160b18	43841478-d0de-5b8b-9b86-1dcba337b42e
+survival	surv_198	Alive	4906											bdb5403d-ae6e-5a96-978e-39a39f74e1d6	ffd48a47-8b48-5165-8fbb-a13893e0ee1f
+survival	surv_595	Alive	6984											bdd2ba6e-40ef-5e3b-982b-6c52da67873d	857f8a42-ad08-5bb8-839f-485e4c909ac7
+survival	surv_234	Alive	6639											bdfb2f71-785d-59a5-a6db-0bd10abe282c	89597041-428e-5884-ad7c-9062b03b7aed
+survival	surv_531	Alive	5081	Relapse										bdff4ae8-a4a7-5c44-88f0-7413c6595f28	574c1fa0-1193-5b1c-8172-1d38b541985d
+survival	surv_1213	Alive	4262											be06a99e-a461-57c0-8b74-cf6d07b337fa	80a1c2c8-8041-5ae3-b39b-d442633af09c
+survival	surv_752	Alive	4993	Relapse										be36c86e-54ba-5e5c-b283-6a21dd30a8fd	bfea06a9-1815-5757-96e1-c06017ad5e98
+survival	surv_666	Alive	4340											be5a175a-ccc4-593b-9603-cc2e4ada8462	9ce28201-3b7e-5a1b-8541-283c3f64d885
+survival	surv_865	Alive	5991											be64bb96-849d-5dd8-8133-2ffc1fc09d09	51457de6-142d-5ed3-9544-60d868a0667a
+survival	surv_138	Alive	8597											be8e8971-1c51-574e-8294-00a3ca6d363c	2ba3320a-e303-50b4-b6cf-f93e257a4ac4
+survival	surv_1120	Alive	8542											bea5bb7c-129c-5fc6-a3fb-8d15bdfb9148	db550589-8a6d-5dc1-89d3-64c57eaa02db
+survival	surv_1157	Alive	1553											beecb59b-14d2-57d4-bf0b-2b122b6af4e0	d4f7fb9e-bff2-5bdb-a50a-3c4656895ebe
+survival	surv_1568	Not Reported	5560											beef2f2f-ac49-503c-8cdd-03a23da31513	aaf3d977-674b-5e6a-897e-0b73c348957b
+survival	surv_368	Dead	3800	Relapse										bef1a7a8-7174-5f15-b652-9fd57c5597fb	cb8e5569-48df-58b1-9d8e-6f26c72e6324
+survival	surv_592	Alive	7877											bf28f098-d96b-54d1-809a-91ecfdbee44b	992e737b-5748-5369-bf0f-3c19112a449c
+survival	surv_1589	Alive	6555											bf35108f-71d3-5488-b64b-8ca09cf64c5c	a90d5386-659f-5bf1-b729-7cd7c189199d
+survival	surv_445	Dead	5709	Relapse										bf358f25-3f8d-54b0-90a8-cd5c326cba89	8253d4b3-f2e5-5565-8670-767e9e97900b
+survival	surv_285	Alive	6378											bf4a186d-5b86-52c3-89f7-29fa40c93561	35704e2a-5f8b-5a7e-8f02-9bb538fc0526
+survival	surv_1459	Not Reported	8147											bf53870e-1b8f-595e-b144-84565a7c701e	1a1dbeb1-90dd-5b42-a2f6-0e74dff67248
+survival	surv_1333	Not Reported	5367											bf68cf14-7ea7-5988-97fa-b5d7708cd04a	058c9efa-7709-5819-a3a9-ecc391cc6f3b
+survival	surv_942	Alive	6094											bf863570-0263-52c8-9b98-d5d829838e5d	51fe59bf-dd94-5f48-a250-afee94f557ff
+survival	surv_878	Alive	5068	Relapse										bfa6eca7-f53d-58e7-82e1-b40c93175ff8	ead05c2d-6781-56ac-ada6-da76b78585f3
+survival	surv_1581	Not Reported	6056											bfc50ffd-6170-51c1-b1fd-3da7ddeb93b8	233e5503-1a26-50e7-9324-fd6f3ab0112e
+survival	surv_1454	Not Reported	7603											bfcf0d16-8c16-5e12-a4f9-9f0f69913f05	e6d27830-3a19-5ba7-86da-a169deeeaecd
+survival	surv_1472	Not Reported	5885											bfff7fce-843a-512b-992e-08ebc2dc94e8	0bdb475f-7f55-59e3-815b-8414e29b46b1
+survival	surv_820	Dead	2903	Relapse										c00377b1-c6a4-551d-bf76-13c5f46afdf7	c7f51b31-9129-52c2-9871-a113931e2dcc
+survival	surv_1679	Not Reported	-999											c0276498-a6df-55b6-9322-643b745c92e8	63d57fd9-cc64-5cdd-a635-11e27730ea69
+survival	surv_1219	Alive	7152	Relapse										c0a81b27-1d72-5c1c-b435-1346842d4e82	13b495db-38c0-5a6b-a902-b4156f751a88
+survival	surv_533	Alive	8040											c0eed4e8-3354-53b0-a53f-d27888107827	60f68140-c9bb-5e13-b6b7-dcedf4d38e3b
+survival	surv_1072	Alive	4341											c10139f1-9658-579c-9e09-76b3bdad8b86	a1b99942-64f7-5003-875f-56898ab92cff
+survival	surv_742	Dead	1598	Relapse										c107c64a-11a3-5650-8112-bf8550b7c918	abd91dfe-45d4-5fa9-b001-2227b4fdcdec
+survival	surv_671	Alive	7733											c12e97ea-552e-5ad7-8e96-fe472f0dd485	143ec255-4638-589c-94d3-abfa4e1739df
+survival	surv_213	Alive	7208											c142f99c-ee49-5ddc-84d1-501f97805ea0	43c2d25a-4c78-56ad-8cda-02de3e0f4781
+survival	surv_306	Alive	6704											c15395e9-b972-5aef-9826-b2c55c8b3eea	9122720e-4295-58ab-86fa-201a4e85a8e6
+survival	surv_587	Alive	9646	Relapse										c18a3eb1-0814-5385-be01-d5f073924030	5e6f7bab-17c5-5755-9b95-48d64f4416e9
+survival	surv_273	Alive	8977											c1c90bc4-5156-5ea2-be67-b5f272405987	0d2c11d5-720e-50bb-aede-9d173b2924d6
+survival	surv_838	Alive	5123											c1faaa63-5ffa-5a35-a313-a78eeb0e3986	57e0fc00-532c-53f9-8d35-0dea4c6f8fa2
+survival	surv_469	Alive	8199											c22963e1-99d3-5e4b-b1d2-009d48e323cc	79e7bae8-b058-57d1-9c2e-8027d95d215a
+survival	surv_651	Alive	4393											c2874a99-4be7-52e8-a101-7318bdff9f55	4e8c4b79-0716-5f87-8c02-bbb57a1a0986
+survival	surv_702	Alive	5182											c2a00887-397d-5942-82a5-900a56dd5124	3f0563ad-584a-540e-8795-1f98f833a536
+survival	surv_1060	Alive	5387											c2a16d5d-e550-5453-a3b3-02a7dcc0a3ae	98889ecd-564d-5b5c-91ec-2626618c5b91
+survival	surv_31	Alive	3310											c34092fc-80f8-55c0-8b56-b4368c3a3580	1e6d9d7c-3aef-51dc-8735-bfc397a8a624
+survival	surv_1421	Not Reported	2874											c34f9b37-5f60-5e53-8e97-7dffb14b087f	9ce0c42e-1cbf-5407-98fe-72dfcc30cc76
+survival	surv_1686	Alive	1537											c350f700-622d-5f1a-9fdd-0c1ff4e6c798	cd6c1965-83cd-5c73-a92d-b5b247119ae7
+survival	surv_256	Alive	4343											c35ce201-7137-586c-8439-a03267d6ce9a	00d63e5f-ceb4-502c-997d-11e4d1651c1b
+survival	surv_1632	Dead	4997											c36ad248-45ee-5b47-bf75-3af19c8af7ae	cbb5be09-754a-54ba-8129-c8ce7e2b90d3
+survival	surv_1439	Not Reported	4311											c36ffd83-6f9b-5c0a-8caa-fc3a037a211d	c037c530-6cb4-50c2-a597-a1692e17abd6
+survival	surv_80	Alive	6757											c3783a6f-1d00-57e1-9d99-ddbb1e94038a	9a73e681-36bd-5fcf-a7b1-7cd5571b74c3
+survival	surv_709	Alive	3634	Relapse										c3c9a343-8e9d-5511-83e0-7a43226daa47	313b2197-e2ab-5fd8-9d5d-104ceba03e7c
+survival	surv_588	Alive	4561											c432cfa7-35fa-59a2-8048-4a0fdc34122c	f146d5c1-5a31-5432-8656-47cfd56c6f4e
+survival	surv_38	Alive	3084											c4cad1c6-5ee6-529b-963f-40ab7c215fa8	93abedba-9fe3-5743-be23-1d53b6a8bca0
+survival	surv_681	Alive	6879											c4d926c7-e117-54c3-b4b6-c27147b8a315	49abcf88-c6d0-5c62-9c9d-6bb04c4e4cb6
+survival	surv_1039	Alive	4632											c4e444c9-53da-5f26-8e19-fd033e095227	cba20606-b787-546d-967c-d2f30fa1e7e0
+survival	surv_1401	Not Reported	6802											c4ed58d7-4cc6-5305-b276-ea3ad83a9b4d	ad092c7e-86de-5a67-8219-dc505a8f88fb
+survival	surv_713	Alive	8694	Relapse										c4f5a793-ab0d-5a4e-8f21-ce7bc50127b8	ce20c832-fb82-5dda-b051-fc00895bb558
+survival	surv_112	Dead	6336	Relapse										c522fb5e-3fba-5e7b-a34e-243c8375e947	97521d74-4b21-5b58-add5-d9426ee9576c
+survival	surv_1002	Alive	6315											c56d7d9f-9e48-5faa-8b46-0d53746bf29b	cb97c281-52ad-5aba-8287-7a506ce6f074
+survival	surv_497	Alive	4035											c570a7b7-3033-5d93-8bb9-bcfb8f45660b	b7d4a70a-c346-51f8-9226-ab1dc9609fb6
+survival	surv_887	Alive	4865	Relapse										c5af07d8-2cd8-5f00-8ce3-e15fd2bb9a57	c9eb1b61-ad9a-59ef-bb6c-73e3fccf2827
+survival	surv_1395	Not Reported	6653											c5bb4ba0-4ba9-5da9-b47f-4f8c18cde543	e5de4ca9-00f0-5e81-a39c-3caeb623f84f
+survival	surv_969	Dead	6102	Death										c5ccc3d8-7282-5371-b3d2-3983589364a9	8e4a1c3b-a722-53b6-ab45-6ad24f0056d0
+survival	surv_755	Dead	2735											c5f2488e-587b-5f1f-a0b3-0e513a60239a	6c2ea8df-54c6-51c1-bb0d-2985364016c3
+survival	surv_1299	Not Reported	6786	Death										c601b919-169e-57df-af87-5aa68b66dd9d	4ff0d3b1-7868-5dae-b2a2-8d92d9e2ca45
+survival	surv_1600	Dead	4161											c61d2243-5eb9-5121-b9c7-d3cf4e53dd5b	0f7dd268-a977-5290-850b-5adbe6498a27
+survival	surv_418	Alive	8130											c6253bd0-9f7a-51a0-9f80-0d167e2affe2	2a80b3b1-6fd9-5b05-9118-be6611ecfe2e
+survival	surv_928	Dead	1997	Death										c6318a39-fb1c-5631-8b24-7eada14ae930	be1705f7-51bf-5708-94d0-7cf42368df10
+survival	surv_1025	Alive	4948											c633c324-55b8-5534-b0b6-52b7085d29d2	4604a173-fcb9-5055-96b8-58e9490841f5
+survival	surv_564	Alive	5616	Relapse										c654b5aa-88ab-5672-b15d-07eac8af4d50	9a73f4cd-8185-5b9e-9345-3ba3427061b2
+survival	surv_1625	Alive	7314	Relapse										c67f27f2-7c6b-5dbd-b62d-3061838dd93e	2a2cd99d-0496-5854-a8cf-9bef0c663175
+survival	surv_1392	Not Reported	6199	Relapse										c6f8c1a6-fd85-5f42-b204-3fd625991066	2a994835-8708-536e-9bba-b047d8fc4c55
+survival	surv_1249	Alive	5423											c713612c-d29f-54a0-bc67-0cfda5159f8a	c2075b38-14af-5ab9-bf16-de1fd20f8fed
+survival	surv_1201	Alive	3024											c72bb389-4a49-51aa-beb5-4581f20158bc	487ae879-8116-5990-ad82-006d1f4cfbc4
+survival	surv_1564	Not Reported	6406											c7946a20-d191-5afa-9144-b4420a8dd4f6	35e48fbf-95e1-5f51-9977-2f27f59ebaf0
+survival	surv_1409	Not Reported	7416											c7ae3175-b230-5544-b068-437388600255	98227f25-c295-5aca-bfbe-57638177818d
+survival	surv_343	Alive	9736	Second Malignant Neoplasm										c7afe9f3-eeae-5cc1-92a1-15df4f5c4658	9143b437-c792-5955-9da4-70eeee04a8a1
+survival	surv_566	Dead	3928	Death										c7ba8812-4519-55e7-97e7-bcf27aef2f8c	f842d0b6-5cdd-5709-b7d4-1b456216418d
+survival	surv_1097	Alive	4664											c7d9f94f-b2a0-5cfe-b239-74cd3c3cb3d1	72edad9d-22e8-50d5-ad1e-7a4a49b656ce
+survival	surv_21	Alive	3876	Relapse										c82c79c7-baab-5b21-aedc-159a40dc032d	494155d1-507e-5b29-acf8-1049455343ae
+survival	surv_949	Alive	5199											c849b5ce-3af7-5c41-9039-113666b503c9	2706b24f-a40c-5f2d-a76c-95396d34c67b
+survival	surv_1638	Not Reported	-999											c87547b4-ba22-5dca-80f5-2ac30945d159	edcce9df-3683-5f1d-be7a-9b93573b93db
+survival	surv_1413	Not Reported	8020											c890513c-f38f-57c4-8f28-5a34faa00c1c	ece16444-80f2-5bed-97fb-c95a0cda4efa
+survival	surv_879	Alive	3956											c8ab40d8-dd38-58cc-b1e3-33c4b21d3ffc	51b43212-3db8-5b51-b2e8-7883167f3c1b
+survival	surv_1376	Not Reported	7758											c8e002d5-a2d7-5ad2-8ca0-3f21c4855985	b843c070-e05a-5ff4-9179-33cc1d4d7d9b
+survival	surv_370	Alive	4382											c8e28e44-c13c-5ee1-9e2f-e8655c563731	40048d3a-bc86-5b30-80c6-98f298dd6f02
+survival	surv_1548	Not Reported	2631											c8feb55e-8b26-5939-9919-406d99687362	677f1eac-dc8e-5cb5-9c45-180e1b8947ff
+survival	surv_841	Alive	4369											c926fe89-90a1-5880-9e1e-75708738b0a0	4909ee43-4dff-5beb-97b6-ab882e482996
+survival	surv_1107	Alive	4212											c9365f85-dedd-5cb3-85b3-4977be6aa6e5	ac553bcd-0e66-56ae-9d9f-4cc452567e4f
+survival	surv_598	Alive	2295											c959f421-e512-51b9-b477-45adab950fdb	f794221d-2575-5997-b4f2-fe61048f4904
+survival	surv_398	Alive	6826											c97b4144-b7c3-522b-87e5-90c9192a406f	d2d3a5c9-7378-5238-9a2e-ec5f3ab107a3
+survival	surv_1088	Alive	2884											c97c620c-21de-5aad-85a0-57abcd0181b1	2284f323-2bc5-5126-91c2-ed77d3ea7f38
+survival	surv_414	Alive	8365	Relapse										c98dfd9f-babd-5ed8-b977-f050dffeab8b	c6f1d1d0-9956-5ee0-8e5d-23fb0af0c3f5
+survival	surv_425	Dead	7009	Relapse										c9eeb02a-d51e-515b-9c31-58181b38d4e4	f92c386c-42aa-5746-b5be-c1dcd338feba
+survival	surv_243	Alive	4419											ca91b108-f2cc-59f8-b093-91c02eb205fb	d8973b76-bc19-55aa-b366-ebd769922f92
+survival	surv_1320	Not Reported	6225	Relapse										caab608e-b35b-5879-932c-8349d81d42c4	963fffef-9c34-5824-afff-d033c9888ef5
+survival	surv_34	Alive	2686	Relapse										cb45b243-9f75-5e71-a037-71cacbb5c1b0	ebf92b46-4be9-5743-a7e8-6e5a6cc40e06
+survival	surv_1428	Not Reported	6713											cb467d78-2974-5091-84e8-fb39b7122ca9	0f02f170-b2f0-55ca-99fd-db77c75a4215
+survival	surv_396	Dead	4476	Death										cb5aee07-f407-5dd0-add4-fe8cd1c889ac	341ef6a8-ba19-54d6-bc85-a9d38921e0ae
+survival	surv_978	Alive	5821	Relapse										cbea698e-8623-590a-bda0-779a5f3d6eb7	e73bacc2-6e9a-5908-a577-0cf91bd64a03
+survival	surv_223	Alive	7082											cc2a827b-ac65-53cf-bef9-db62bf9393cb	5b8fff95-0398-5150-979b-74853da5be18
+survival	surv_235	Alive	3750											cc2d1c74-59c5-568e-ae5d-057d714880ba	b46f8c5e-08b7-5e01-8755-a27da3f5a85d
+survival	surv_1253	Alive	3672											cc315390-725c-5858-9498-6d97374473da	d73792a7-b1b1-591b-a5e4-8c7380bce3c6
+survival	surv_1322	Not Reported	7434											cc408dfc-3186-5578-b65c-7e8801979156	85ae6674-ce27-52b0-afd4-83a32c29a470
+survival	surv_558	Alive	3711											cc9f1cae-60c2-5a59-966d-abfded875df5	f34697b3-a120-5e57-b53f-e8416e70e767
+survival	surv_1110	Alive	7056											ccae9290-af07-59b5-a64a-af2bb2e5ea44	9c16df95-8fde-544f-87e1-2cf58c40a996
+survival	surv_1119	Alive	6467											cce90086-65c1-5b16-b45e-2162e946bbf7	5ed646cb-5304-53fa-bd24-597bf5578e41
+survival	surv_758	Alive	3834	Relapse										cd01819b-f473-5e8f-a00e-664b7333405b	4bb68284-94d8-5fff-bd50-f72990498b4d
+survival	surv_1577	Not Reported	4846											cd276ca2-e314-546c-8136-235e8121d7e8	ceb541ae-23d0-5e11-8a39-f777b30aa1fe
+survival	surv_1649	Dead	5001											cd9d9896-cf10-5f28-8c27-fae070291dd5	9b1731ee-58b6-5934-9a74-e349d0af3920
+survival	surv_176	Alive	8959											cdb464ff-ddcb-5305-a50f-e9a244858c46	94bbd9be-f232-5ba9-a888-75b5c86783cb
+survival	surv_210	Alive	7003											cdd4410d-2fdf-5323-99ab-721272e07bee	d8b6dbea-11a5-5ad7-9eca-2d178fad75e8
+survival	surv_47	Alive	3427											cdec6d7b-638e-5262-887d-314f4b1c63d8	cfd6c9c0-a956-5263-ab54-189d218f249e
+survival	surv_1116	Dead	5656	Relapse										ce02c445-a6d7-5aee-ad57-c24e94ed4e9c	41667f92-4526-56d1-ae34-825080049531
+survival	surv_1042	Alive	6009											ce263959-f3bd-5b7d-b6ff-ceb00385a4bb	fb7a287e-27db-5a39-8531-2071fa4c2337
+survival	surv_602	Alive	7703											ce2c57fb-9373-503b-9fea-c5c8733c6e70	2260d351-74fa-514e-b3c4-e75e62df8e91
+survival	surv_697	Alive	8914											ce808839-054f-5e0c-bb38-807214f38d7a	51741dd7-b038-5f1e-b5a0-02b30c2b1a96
+survival	surv_1400	Not Reported	5715											ce8d683c-db44-5ff2-9808-1cee058f32e1	4ddf2891-839f-57be-a43c-5c40af7d381b
+survival	surv_478	Dead	4421	Death										ceae0972-691b-5ca4-857c-a76db9d08bd4	9ece4511-261b-5ac2-b65d-ae0287b77955
+survival	surv_314	Dead	5953											cf0db6f9-4d13-5d94-aab3-cac51ac56949	bbe8a280-113f-5868-9afb-fd2b2b487458
+survival	surv_542	Alive	8681											cf34f111-83dd-5c3a-8ab8-d1fcfa93bd8c	08b3fdec-247e-5817-afe9-6716ab69e3b8
+survival	surv_819	Dead	5278	Relapse										cf99b6bf-244e-533f-984e-e3ab55aca192	c33e935c-cad9-5a2b-a9cd-77faea4323cb
+survival	surv_185	Dead	1017	Relapse										cfb6c181-cd71-5af2-a472-646cb162e8f9	3d5ae954-0c85-5375-8f62-c0eb663e9733
+survival	surv_974	Alive	4651	Relapse										d0387e74-d4f0-5a8a-b50c-6cc912740bb4	c1a6aa8a-5ef7-5d19-b548-6392085435ef
+survival	surv_1422	Not Reported	5341											d0bd577c-b2f6-5719-8a6d-0aa89ac28628	1a3aba52-d5cd-59a6-af6a-4bc92194e752
+survival	surv_1522	Not Reported	5557											d0e34c62-967e-5b9e-9692-8487337f851e	c60530c1-b124-51a3-83c9-2ba8a08150d7
+survival	surv_1327	Not Reported	8784											d10b4994-a680-512c-96b9-d60e2a5c146a	ba94831b-c634-5382-9b7a-4082fc981c11
+survival	surv_904	Alive	4420											d1459c2f-4a5f-557a-87b2-7cdc50a5ef3e	55c4c550-07c7-5052-b914-b9842bd87dbe
+survival	surv_1549	Not Reported	7958											d162cce9-cb86-5ca8-b4e1-ad08c2bc229b	ea0cebaf-5089-5290-873e-19c4ba3a15c7
+survival	surv_1672	Alive	8937	Relapse										d194e512-d9d9-547b-80d8-bb2e234048f1	c465300e-7e85-5c0c-ad33-338a2e212a71
+survival	surv_751	Dead	1778	Relapse										d1d86312-e88e-5864-afa9-fa9cd22a5518	f06b8178-877d-5f95-afe5-cab3ae0e8371
+survival	surv_645	Alive	7074											d1e70451-08e2-50f7-9ff6-703922be05ff	b7bb98dd-b755-5f9f-a942-821b42a6ec3c
+survival	surv_1124	Alive	7378											d1f753b4-6bc4-51e5-94bc-f88adc3b0521	23189a49-9c3e-50a4-b4d8-863cf326c68e
+survival	surv_221	Alive	8862											d2045543-45c3-55dc-a2e4-d27036ad2839	109f06a8-1867-5a31-85db-9214f3c1c33a
+survival	surv_1084	Alive	4651											d2116d69-64a3-52a4-a5a0-cd984147b745	9452aca2-009d-5b68-a3c4-d6def8d0d5c0
+survival	surv_1065	Alive	4448											d21651d0-111c-5f62-9a3f-4dd67c3b6a79	0a36b1e9-8759-5ebb-b34b-42a7f9b93a59
+survival	surv_869	Alive	933											d21e45b3-a9dd-5f72-8087-a911b64e13c8	0d2ccfc7-3e21-528a-bfb4-e8210495757b
+survival	surv_110	Alive	5087											d233bb2f-b1a6-5d8c-bb88-e054851b8659	82b2840b-22f9-5dba-9e02-1c7acd7d83ce
+survival	surv_322	Alive	12471	Relapse										d248a2e1-d324-5835-bdcc-17d6e635bf4f	d711297d-745b-5820-9a89-fe64115a8ecb
+survival	surv_1168	Alive	4153											d32f7578-9abb-59bf-9515-952cb6b2fd8f	181ff522-e036-5b9b-b0d0-26830ea69da1
+survival	surv_252	Alive	5398											d3362bf4-1af6-59c6-a6d0-c18a61dbda6c	62b7d38d-eac2-5e4c-be4a-68e42b00c662
+survival	surv_1331	Not Reported	6992											d356ff0b-ad06-5523-b39d-de19086b7fe1	9680fd43-2ca7-5704-9170-f0543bf17b93
+survival	surv_54	Alive	7407											d37723c8-9637-58d5-aabf-d5300bdd2b18	d85e6b93-3f81-58fb-bfe2-9f2fb81a3c2b
+survival	surv_458	Alive	8433											d382fdec-121d-55de-950f-5d08fdfc7a36	9cb2bc09-a024-524b-9139-39d7bae615f2
+survival	surv_1487	Not Reported	3844											d3a9d14d-4dcb-5229-8210-5c194032d8ab	6e97178d-c0f5-5e00-8284-01a113ca9db7
+survival	surv_629	Alive	5404											d3de5674-e0ea-517f-aa24-158806fe848a	623161ee-9864-55cc-9741-e36683b54ab1
+survival	surv_1024	Alive	4425											d40d038c-279d-56aa-9d08-ea9553699f94	e9529370-e26c-539e-8c97-a62b20a9676e
+survival	surv_1635	Dead	6900											d43c13e8-57bb-5061-aa4c-523a47e02b9d	c02a6b75-62e0-5455-bf78-88b7540ae072
+survival	surv_932	Alive	5331											d4405afc-9fd3-5cc2-aaa7-0e89ef1b998b	b425bf39-331b-58cd-93a5-22214f6ee1be
+survival	surv_286	Alive	6605											d46d0b6e-ecb1-5b49-8712-5c76039de48c	949e043f-5fbc-5b0c-8156-8465f0a0dc86
+survival	surv_791	Alive	3067	Relapse										d4974984-bdcf-57e6-9bd1-276239f77b22	4bcdf3f8-1ded-58be-854e-9a6ae5463281
+survival	surv_730	Dead	6332	Relapse										d49e3e86-e8b0-56f9-a912-22f1943e29a3	6d2b44d5-f67f-57fa-a55c-011d4c751472
+survival	surv_149	Alive	8580											d4b1b717-be12-5369-a012-d2f662b59fcb	2f0ffb11-c87b-519a-a7ae-b624e42ed64b
+survival	surv_1238	Alive	8541											d4d849be-e453-5618-84ac-ee6e40f23fac	cfd1180b-94e4-5048-b11d-927b2576b3e4
+survival	surv_1117	Alive	4624											d4e1f9af-8a73-5e7e-95f8-74ecad38169c	23769fe0-2bbe-5b4a-8161-4897d4dab9c1
+survival	surv_453	Alive	5161											d52efee4-e378-5bd4-82c0-9ed93b486713	ac38d266-3aed-5091-8459-d1a8c96399b7
+survival	surv_480	Alive	4282											d54113c5-359a-5cc3-9357-9edd5859ccc3	cd683a51-ef41-500b-8727-d0769f538b8b
+survival	surv_1145	Alive	6314											d5647f27-97d3-519f-9580-f7bc892888ba	9db63add-9698-52ea-a743-e41ee29dc00e
+survival	surv_1288	Not Reported	6506											d5ab63db-c604-5fee-81cd-c4378a3604fb	a95ccc4c-fc17-5b04-bdbe-98a29778e999
+survival	surv_1251	Alive	7433											d6018d50-f3b5-599c-bd78-3eec283ae39c	506ac2e1-6bbd-52e0-9691-9336ef15caf3
+survival	surv_1267	Not Reported	7242											d6251fe7-19f6-5bd9-983d-3c353a057a9e	4ab301e4-81e8-5667-b8b1-c0d0d3173249
+survival	surv_492	Alive	2833											d633ed3b-fc15-541b-9f67-54eec524139e	b54238bc-6929-548e-8ebb-dd332d163b8e
+survival	surv_1200	Alive	5289											d63ca944-2672-5593-9ac6-0e89105ead34	29751c30-3757-5987-9de1-811cd38629a7
+survival	surv_261	Dead	10159	Relapse										d6a4d1b5-0b99-57d5-8979-04b4dd3ac1c2	a645c32f-cc9a-5e8c-8c3f-19ade09d1766
+survival	surv_52	Dead	5686	Relapse										d6c36a6b-cdf3-5b56-bb30-32f3ea1a734e	9694a053-7d17-57f1-988d-bae038fb056f
+survival	surv_170	Alive	4631											d6e95e3c-0461-5e92-807c-695389422279	43553169-5b1c-56e1-a468-ed9c75d96657
+survival	surv_227	Alive	7774											d6eff218-6082-5084-8ea9-40c7b909cf58	f49ff3ad-5bf1-50db-8742-302ee080c6a4
+survival	surv_382	Alive	8256											d7081daf-53ed-5c4d-8697-6615fa3c3031	33069c27-7fa6-5f5d-97ab-dadd7e43f44e
+survival	surv_14	Alive	4190											d72df095-52f1-5dc7-80ca-abd05f86fc02	a0020c77-453a-5e1e-b985-288ebeb6d903
+survival	surv_1455	Not Reported	13271											d7534d94-a381-51a6-a952-428bba89cac7	4d3c14da-0dfe-573d-8a43-cda77e0921dd
+survival	surv_1183	Alive	5075											d7b5d840-8ebf-5b5f-9fda-73b32b77bb83	ea79c5c1-4eee-579b-91da-2413d7cc021c
+survival	surv_1216	Alive	9769											d7d69d5d-92dd-5688-8d7f-7a3a7cf9a5ec	c641d7b4-5adc-5904-ab18-2f4d14acf9c4
+survival	surv_1058	Alive	3678											d7ea41c5-1a04-5793-af8d-4a1c12f765a1	7857d3e8-e25f-5241-837a-017f074db3c5
+survival	surv_726	Dead	2112	Relapse										d818eb6a-2ca0-53ff-ab76-33067e9d0f1f	170621a5-5635-5ef6-b421-72d6b0a0863b
+survival	surv_648	Dead	5318											d8213cc2-bc4b-5d96-ae12-1ad0626f6be8	21bf0dcd-380f-502e-822e-e05f54e9c60d
+survival	surv_836	Alive	5264											d82c1b6c-8fca-50ef-8d6f-72c8364e6c1c	caa228b2-2d8b-58b4-9854-007637579e1b
+survival	surv_679	Alive	4221	Relapse										d84c77e9-9234-5e37-a7b4-f2afcb4b332b	85dc4097-b3ec-55df-97b5-56ca487daa07
+survival	surv_512	Alive	4108	Relapse										d87c4fe6-e06c-51f3-885f-bb524670c1e1	6d6ced80-abc9-5956-a4a5-8529abfefe0d
+survival	surv_344	Alive	6129											d87d6f33-f4a6-5cf0-9350-85934cc4f03b	16494c95-1071-5262-ba77-ff0375f2cc3e
+survival	surv_961	Alive	4570											d8a39939-4a39-53a8-8422-71c6543fe9e8	ef1462dc-084a-5a03-81ab-6464e78765ec
+survival	surv_295	Alive	7498											d8eb296e-4a8a-5fae-abe1-043ef52b2cb7	63b61f73-dbe4-53b3-af24-82f997c1a995
+survival	surv_318	Alive	7522											d8ff0ab5-f143-58c2-bd33-a764ca198f50	610ccf87-90ab-5731-a270-ec1f8f225622
+survival	surv_1175	Alive	4032											d911f19a-69bd-54d1-8592-10cd0fc1c56a	2be282c0-1f73-566c-a66d-f60695bbe5dd
+survival	surv_324	Alive	4229											d92d3c30-7119-54a1-952c-3499fd861ec8	f4fe9e59-e26f-574a-aa1d-76db5f6f4695
+survival	surv_976	Alive	4197											d967d070-4be4-51fd-8160-73b1b58fe014	cf188ae4-c249-5171-bcb8-b07e00613b17
+survival	surv_1077	Alive	4079											d96e1e0f-5c98-5d26-a40a-397cbfe2f6f6	1fea5e1f-4d4d-5b06-b6c0-f537ca23e366
+survival	surv_410	Alive	8053	Relapse										d9879848-7bdb-54ab-9638-fceaa5c6ebce	de50f3ad-1a06-59e7-9087-657826dc8199
+survival	surv_1341	Not Reported	3845											d98c7b77-c927-5544-92bd-ff36a31c30ad	47d63f12-f63c-57a1-8f22-415ff440e239
+survival	surv_269	Dead	3284	Relapse										d9aea531-d789-50ba-805e-4fb8c8278341	bec084d5-6889-5ad8-8b8e-0922e787b300
+survival	surv_8	Alive	7281											d9ba8c43-8b58-52cd-b141-95c33a88671e	6df3c6cb-0ca8-58fa-a375-ce8b9a13c57c
+survival	surv_608	Alive	7697											d9cbb653-08cd-5a56-b731-fd081bfb6c8f	e122a774-c4d5-502a-b7f1-7f22720e9fab
+survival	surv_439	Alive	4286											d9f78e1d-7172-5c16-a17b-fd5d95c5ec82	8e1dda29-4253-58a1-8b2a-a4292a95d2aa
+survival	surv_971	Alive	4803											da16aef7-b834-5753-85dc-8690ba5a63c6	776c6fe1-b6e5-5fc3-8da7-9c5635b66bfc
+survival	surv_134	Alive	8370											da16ee2b-a666-5684-a1ac-04e31b8520ff	35746525-a3d7-5b46-ac2e-ddc020920065
+survival	surv_523	Alive	5668											da19a6a6-d52b-5360-b86a-8b3d2ffdc7dc	53581c92-43e2-5d18-961e-a2cd64aef0ba
+survival	surv_1619	Alive	9454											da2677cd-ec85-5250-9cf9-be66cc44f629	aee1f725-c3bb-55be-a8c5-0a9d93b611ae
+survival	surv_1402	Not Reported	4375											da4dfa0a-6fec-5d73-bc3e-bdce1815a2ac	bacce417-7181-5d8e-9fcf-f01c5aec9f49
+survival	surv_544	Alive	7251											da6b25ea-669e-5797-9011-402f1da4e82c	4df9d529-c19f-5cd6-9132-6632e47d5343
+survival	surv_580	Dead	2063	Relapse										da95c139-2e18-5d22-a5cd-7d08ea36c723	eae94fba-a091-5e51-b3c4-963da6a208e7
+survival	surv_1244	Dead	6724	Relapse										dabbbe2f-804b-5725-9b29-5eb583a2060d	eee5c318-d1bc-56d7-82be-6e2d4f380553
+survival	surv_1647	Alive	2775											dacb082e-53ac-56ba-b47b-b8a273cb9ad2	fc8e8b24-7c61-50fc-b09c-58b19f4118eb
+survival	surv_1355	Not Reported	8395											daef6dc4-9515-5009-9570-99ff3b3a9844	423735d2-ce2a-5ee8-a460-eaa3e59d8d60
+survival	surv_77	Alive	7413											db42ef6e-0603-58e8-9aa0-0ac32117ffdb	023e5ce5-9f8c-5f35-9959-b25b12048c19
+survival	surv_214	Dead	5985											db5b0c42-ea42-5380-8521-4ed9eb66ff96	a8b6856c-dd46-5e46-ba53-82f4e92bf36e
+survival	surv_313	Alive	7335											dbc10247-376b-592d-a136-98cb3ec5ad95	632c90c8-7356-5d74-bca1-8a914ab4bb8b
+survival	surv_854	Alive	3813											dbc91908-947e-50f0-8bb4-9afecc5fab4b	f9a04693-0edb-54e5-ac55-4299d28001c6
+survival	surv_1318	Not Reported	10927											dbf3957c-6150-5135-a0ea-eb6b3666d0e9	4b306190-d44d-5ecf-993d-6da6c773474c
+survival	surv_921	Alive	6753											dc28866f-4405-5922-a3bd-00f4819bf44e	f37bfa25-39fe-5337-a420-e7770a374901
+survival	surv_723	Dead	4615	Relapse										dc329354-0f66-5f3a-a2cf-7602d6ebff28	836ac473-e4c7-5da5-9303-5135d77eb88e
+survival	surv_1590	Alive	773											dc528df5-0949-5658-b1cc-791411326e61	429796aa-ac3a-5b3f-8541-53f981e157c9
+survival	surv_406	Alive	4554											dcaa1f3c-00d3-519b-8766-4aafbed5fb50	ef54a79f-7278-57e4-b382-521a79f3ccce
+survival	surv_1215	Alive	3600											dcc3d004-01a0-582e-8e33-44ef51f1471f	aeec05ae-e212-5899-9deb-b4585272914d
+survival	surv_888	Alive	5225											dcd60608-c2a6-5ad1-8a94-3f20b43d17ae	5fd5a3cb-6d1f-524d-83a6-428b8419133c
+survival	surv_462	Alive	8519											dcecce42-760a-544e-bca2-c3c26c657d7d	3b3b0af7-f7dc-5c5e-95e3-8b90628e9492
+survival	surv_1524	Not Reported	2909											dd0dbb7f-1994-5475-9c6b-b64470849967	45c78121-18c9-56c2-91e3-32e0f457fc18
+survival	surv_1498	Not Reported	4973											dd2e02c5-1eb9-5ff8-b6a4-09fa477b8768	4cf72534-3971-53eb-a762-40e022a1dab2
+survival	surv_694	Alive	8462											de00c01f-3b75-554d-a702-ac5d2c9f8bdd	d5f7dfa0-5d56-50d2-818b-b0632b679f7f
+survival	surv_1252	Alive	8883											de2574cc-59b1-5605-a29d-939b113f44dd	1d18d4be-45be-5efc-8c98-f2811e8633e2
+survival	surv_1699	Alive	1094											de3003e4-f611-5d2d-9a63-ad93c886f765	4a7801ba-eca1-53ac-96f2-109e4257711c
+survival	surv_1375	Not Reported	6690											de31a9a4-4e02-5189-af52-935d099131f4	d7c8ebfa-eebb-5e52-b370-8d8b93c64205
+survival	surv_28	Dead	3122	Relapse										de460a3d-e6b7-5f7c-aee1-5aae32806962	e55514e0-21a6-5076-a1c3-93e07bb60876
+survival	surv_151	Alive	8965											de771adc-fd36-5158-b94e-b58861881b70	672d8039-8b0c-553f-8a75-64b522e1d156
+survival	surv_1447	Not Reported	3539											ded9858f-89bd-5c74-b62e-0da87c1daf9a	de7ae05d-396b-5463-98cb-8beac733efa7
+survival	surv_276	Alive	7941											deeb5809-7b35-579a-b0a7-2c255d861eef	83c3e795-0abc-58a9-a00b-4d797a57c342
+survival	surv_823	Dead	3654	Relapse										defa6382-ae1c-5b2d-a1cf-af399de3dd89	7fae629e-62c6-5b44-b0fa-2c46565bec03
+survival	surv_1443	Not Reported	6174											df770ce7-6808-52b2-9195-117dfa11d7a8	5c9846f9-e1fa-5e82-8f61-96e0a16eecd1
+survival	surv_1246	Alive	4137											dfae212c-01c7-523e-81cc-e2d4c66913fa	94ed2676-6d11-56e7-8404-bdb17ac94374
+survival	surv_803	Dead	1048	Relapse										dfbcf14f-7a35-5dd9-8037-0ce95676b603	f3a33843-f19b-5923-94b5-576f24199e72
+survival	surv_1367	Not Reported	4998	Relapse										dfdeae10-bb5a-5aa6-9cbf-9d12f1cc2c5c	06cb820b-4956-5872-bec0-2f44448956d7
+survival	surv_537	Alive	8595											e03fae52-d824-50a2-b8e8-517f7283b34f	c912c5df-0fae-5e78-aa09-94e654e547b6
+survival	surv_129	Dead	7331	Relapse										e0460662-9844-5775-a84f-9bfba5010c7a	c9264806-d815-5975-bc8c-fb876ccc9192
+survival	surv_635	Alive	6975											e0b505ec-2c4d-5c71-8b22-ba743a0b9830	994ec648-7e41-5173-87ab-7b4de9c266e9
+survival	surv_2	Dead	3117	Relapse										e0e55b2e-cbed-51e2-be02-f99d5e021884	986e1e5f-6b5a-5c71-aba3-fd8c633315c5
+survival	surv_1354	Not Reported	3328											e10d9573-6448-56b4-892a-2d99f585c5c1	e97157ba-5ee3-54ee-b311-b7c73967252c
+survival	surv_249	Alive	4735											e13bae6f-b153-5e2e-a856-396b6c86000c	1864d38c-b2b3-571e-9312-6111b19596d3
+survival	surv_477	Alive	8455											e16ad1dd-1a6e-5dcb-9ed3-3be4bb805d09	ae0faab9-9eb3-533b-b566-cabc6c988c2d
+survival	surv_1530	Not Reported	6224											e18c11e3-3b56-5ceb-9fe6-7f6eac12c20d	5dee5273-9278-57bd-9685-702219f8c562
+survival	surv_482	Alive	5148											e1c817ce-6184-512c-a8a4-1a137d164710	84658bd8-f752-54a6-b827-0eabace154d7
+survival	surv_1470	Not Reported	6641											e2082847-e966-5286-a326-04fabeb0a885	bc14c0db-ea17-5e2a-bc19-500e4238e334
+survival	surv_1243	Dead	7831	Relapse										e22aa7cb-d8e9-51cd-960d-23e1290f1db7	9c231b3c-3327-5c67-b794-56cf1c2aadd5
+survival	surv_1012	Alive	5473											e23a41ba-227f-5ac3-920e-fcd66a7ef89a	5b62d782-055e-50b5-8576-6cfafdd7876d
+survival	surv_289	Alive	2803											e297bf72-f275-5e62-ad0f-0f15e9a42484	34c45840-f882-5126-9ab7-313742402cc3
+survival	surv_589	Dead	6271	Death										e29987ca-113b-5e48-a9bc-a6b9f4bbca5c	e6bb0642-a490-50b8-9118-2deed85470b0
+survival	surv_1567	Not Reported	5738											e2af6b21-b253-5ba0-96a3-747c3539d8f5	5c374404-bd9f-54e5-a1f9-e87146497fbd
+survival	surv_102	Alive	6614											e32b0a3e-aea6-5cd0-a1a7-475e2de51195	9f41f3e3-dfec-5f65-b096-3d6bbc646ba6
+survival	surv_253	Alive	7158	Relapse										e3693751-286e-541d-b8c4-8db288a54343	6664aec1-721e-5219-aea7-ac58d06380a3
+survival	surv_673	Alive	7950											e39e1012-e338-5a43-8f29-b8ee8a11fe67	25be57ec-3082-54ff-997a-06eece148e55
+survival	surv_642	Alive	7780											e3b25a76-bd78-56f9-8285-41e0d647e79f	2efdfc66-4816-59b3-b6d6-b7d0f545c1e2
+survival	surv_1456	Not Reported	6571											e3cf6322-9a28-59a4-b9a0-90db3c0236c3	6d98a7f4-c9f4-5146-b707-aa8ea221035c
+survival	surv_844	Alive	5130											e4594006-616c-5551-8cef-340ac2412fa7	6c29d6f8-0738-5e05-a907-1edda78a9481
+survival	surv_1396	Not Reported	4946											e4969f28-64f6-59aa-a672-428bef7c7dd7	ac1079c7-e77f-5faa-9f59-9797a60d4449
+survival	surv_1519	Not Reported	9623											e4993aee-c8f4-5f99-8092-93c1cd5f399d	166686f3-fca6-5d7d-ab80-2265a626fcaf
+survival	surv_621	Alive	7475											e49ebc19-8671-5c8d-bf0b-59b9b1e5463b	7467a8d8-e568-57a9-b3ff-b1d52c99292d
+survival	surv_1139	Dead	5721	Death										e4bbfa91-b835-5331-9db3-a4f6bf68142e	9bd547ba-0a7c-5525-a869-792c70739e42
+survival	surv_1037	Alive	4948											e4e13676-ea1a-556e-918f-550dab6af661	21e22bd7-9ce1-59e2-bbfc-6d520508b884
+survival	surv_1321	Not Reported	6645	Death										e501e543-017c-5db2-adb0-0b81d190076b	0d0299fd-5d85-5b22-90d7-93e63080a13c
+survival	surv_540	Alive	9862											e5a88c02-5393-5a70-a0fe-84466c1c4c5c	59e16eee-69a7-5afb-bec0-c310929d0246
+survival	surv_437	Alive	1021											e5c9c345-310d-54af-ba9e-9dee4a2f438f	3473348b-c866-5236-bb0f-3d4fddf2d217
+survival	surv_487	Alive	8028											e5e1a4ee-d946-579f-9dd9-392c056b6810	dd4acf0b-5279-5c53-a435-7f3ab5b35912
+survival	surv_1073	Alive	3055											e5eaa3c4-a9a1-52e0-ae59-ce520c7fd63f	a93bf635-3330-5b24-a8dc-c8cc885b81a5
+survival	surv_1584	Not Reported	4782											e5ef1120-1570-5daf-a1f8-949a47d4a97c	2f212158-789c-5632-be6e-615c525b9000
+survival	surv_84	Alive	2360											e63a3ce1-9dc3-5101-b0b0-a742d621719e	cfc7bde3-007c-5ebc-b6ca-2363c4f4225c
+survival	surv_5	Alive	4590											e64acabb-582d-504d-9d1d-2b6e3ae1479f	f44ba188-6309-5da7-9bb6-09b68b7ba968
+survival	surv_815	Dead	3019	Relapse										e6aaa1b3-ade3-51b9-8fcc-5704bed72a22	2b94ad89-af82-5775-93dd-165b61efd45e
+survival	surv_115	Dead	8038	Relapse										e6b56fb1-02d5-515c-9dbe-3c8fe46cb3f1	e408ea44-4a35-530b-be1a-5fde530197f8
+survival	surv_1503	Not Reported	3257											e6ca765b-213c-519c-8381-d5c6eb69509b	d5ccf67c-3363-513c-80c1-1269e927d852
+survival	surv_1085	Alive	4384											e6d76f04-d43b-565f-a265-e727a8d49940	a40cc823-1a28-5fa9-bc7a-17be656dce1f
+survival	surv_958	Alive	5211											e6dda59e-bc18-5b6a-a285-fd44a8758649	6e5d8b62-ead9-542c-b4f5-093635062725
+survival	surv_1338	Not Reported	5140											e728a916-3d38-5a1f-9adc-bf540352f2a0	c9dfe9f7-2c91-5b0a-8679-fd1db4c7b831
+survival	surv_605	Alive	4095											e73a632c-24be-5e0d-8c34-6c903fe96e5a	8c1cbd04-1adc-5f38-b71e-2aa4ac885d32
+survival	surv_209	Alive	5390											e755a100-0a4e-52e0-88ef-58f3e9fd10fd	febf84f6-af0c-5c4f-8400-c737b93add2d
+survival	surv_366	Alive	4644											e76a651e-2d0f-525e-b831-d60e8eff1c1b	c94bd423-ec30-5c3e-ac5a-51df7eb658e2
+survival	surv_430	Dead	7530	Relapse										e773f4e0-2c83-56ed-a97b-a03f3ee64b95	08f21977-a7bd-5ed4-934e-901aa4141cd5
+survival	surv_706	Alive	5517											e7abf678-c678-5aba-a1ed-8c16670941f9	c4278b8d-ea48-50d6-849d-7746cef73762
+survival	surv_1408	Not Reported	6941											e85101af-16fa-5e2c-9492-03be3f7570a7	0a41b6ab-bbc1-5a36-9055-8e33c5e2576c
+survival	surv_119	Dead	7736	Relapse										e8befd91-986b-58fb-8704-82d5812c3be8	fd791dc5-b341-5684-9594-df5568671fbb
+survival	surv_1092	Alive	4930											e8ed7d03-6f43-56a9-8a53-394f1c8b2dff	3c671313-ced3-5563-a0bf-94765472f924
+survival	surv_986	Alive	3062											e92b1d0a-1423-5224-9e6a-f1b8f0073c35	9c72b400-ff41-5e77-88c7-85efc75fc151
+survival	surv_67	Alive	7894											e9c839e0-7f6d-50cb-a801-0c927818a593	461d97ee-f085-5e79-b577-f328106a7af9
+survival	surv_1652	Alive	5719											ea0cd860-8199-58d4-bad4-20762f368b9e	345077c5-acf1-562d-b524-d6f979b6d87c
+survival	surv_1332	Not Reported	8356	Relapse										ea17cc2e-75b5-5cfa-a4cb-c8c7406cd41f	7da90a0e-89bf-565b-8911-db3d41079868
+survival	surv_1018	Alive	1353											ea466815-63c4-5424-bb7a-753c636fbcf8	f37500cd-4ce8-5fd5-a345-8906a4725c45
+survival	surv_230	Alive	10079											ea7a5daa-3b4e-5f0e-8949-f38d7a56dd74	3ffb730d-4ca3-54d4-bca3-3f481c4b1e31
+survival	surv_1007	Alive	4495											ea8453ad-10a3-5958-b188-17aec23d5769	f769b7cd-b877-509d-9723-d6fde6d26766
+survival	surv_579	Alive	5644											ea8fdaa7-a75b-5310-b643-9e85f460ecb7	2a390959-20ff-5312-9767-aa29666b56cc
+survival	surv_1240	Alive	7087											ea907e07-e220-50f6-b515-c9b6cad2080a	4509ab0d-5eaf-524c-a9df-706e82589cbf
+survival	surv_1695	Dead	3880											eaa21a9b-6bea-5522-996a-9c9d05956946	5e1770e1-5870-5f44-a1de-5010759e1518
+survival	surv_789	Alive	3418	Relapse										eab3633b-b506-5eb7-b123-e78b49590471	48ebc046-540e-54c2-b40d-d04bd2839b6f
+survival	surv_294	Alive	9135											ebd9b1fb-4208-50d0-bed0-e9456c601ef7	14f017e3-e608-5132-9387-73e7d2c4a7d5
+survival	surv_808	Alive	3662	Relapse										ec063324-eec8-56c2-b8ae-c7b13f442f76	6e6bb926-965a-59f0-89c7-5c8f1b7c8df8
+survival	surv_195	Alive	9436											ec0aac99-c18b-5295-9728-3da59e7aacf6	bbf605ba-1b60-51fd-9c4a-f164c14ba069
+survival	surv_805	Alive	5999											ec1975e7-d9d3-5e6d-8a31-7651bc8cd534	a82e0998-cab7-5e13-8baa-f98806e05222
+survival	surv_822	Dead	1928	Relapse										ec555a3e-10fb-5131-9880-2975a5b6c585	8dc67766-bd7b-51bb-bf14-7121e50675ba
+survival	surv_674	Dead	11343	Relapse										ec6412d3-902d-5f28-8046-f6a34744d518	3adce36c-6b3b-5bec-854e-c94b30b25af9
+survival	surv_435	Alive	8270											ecaa6f29-315f-5394-8c79-94b42f545af1	e55157c4-61ec-5fdc-b9bb-2cd2c28a1968
+survival	surv_96	Alive	4560											ecc2f789-da15-5381-8e4f-b0d4d85cce1f	cf90d3ae-a7ba-5d39-be16-56bbe0165891
+survival	surv_1192	Alive	3941											eced30b0-aeed-52ae-ab62-84537f768a5b	7b179aab-1ca2-537a-9ec7-54c0da84b61e
+survival	surv_92	Alive	6965											ed233759-d548-5f43-be16-785a8fc840f3	1ce83b3f-4298-5951-a541-bca56242eca7
+survival	surv_141	Alive	2873											ed479834-c6b2-599c-849e-3fce7d216141	1680407d-e06c-5fd0-88b2-c569b26def47
+survival	surv_1298	Not Reported	4600	Relapse										ed4d866c-89fc-5222-bdb3-e31595e86884	1aed8fdd-f119-5d18-88be-c9bb7b51c3ec
+survival	surv_33	Unknown	2268											ed59d0a3-0851-5d9f-9472-622afa68dbea	62ea1b22-e293-5552-abbc-67f47b52f281
+survival	surv_938	Alive	4572											ed7a016d-7407-516b-9fed-f5d6c6d3fec6	d44609ce-2177-5632-9029-8647c302ea19
+survival	surv_434	Dead	2985	Relapse										ed7dfb69-3c5b-5084-a218-08d46873af84	40963010-647f-5b54-a6e0-d28f9162ccf4
+survival	surv_287	Alive	10572											ed86e579-7a9e-5048-9a39-b3f4d08b7364	f0c29f07-0edf-583f-ae4c-f8c55dc25b83
+survival	surv_975	Alive	5419											edcb9675-8a73-57f4-88b7-c67302868cc9	8e162234-3316-5f09-9ac2-98b7de50d553
+survival	surv_1163	Alive	5427											ede3f8d4-8490-5426-a260-840227592da0	01956fdb-664e-5a62-ac8e-74c95af648ff
+survival	surv_840	Alive	4462											edef6a53-c8b2-5395-b5cd-ce7af60496aa	6f07a8e0-d6a7-5769-b5cd-86325dae795f
+survival	surv_1410	Not Reported	7157											ee0cb2b3-596e-56b0-bd08-2645810dd194	125a7a8c-07f8-58de-aa6e-9ce406c94bb7
+survival	surv_35	Alive	4542	Relapse										ee2cfaf9-8eb7-5cc9-82d3-1b20ed5700b2	6d5a2b39-9405-5abe-b66f-72a698877729
+survival	surv_387	Alive	2608											ee2f3ce9-f0ae-50cc-b4b4-82945c48f927	ecf16ed7-b405-58ea-9cc3-9c3f649de9a1
+survival	surv_825	Dead	5572	Relapse										ee3565c9-4126-5248-baca-9134fa9aea01	b8cc5a90-f30f-57d6-84e0-9620a5602fdb
+survival	surv_1151	Alive	8941											ee3d1b3c-3dbe-5cb3-ba3a-7081c114950f	238402d2-4cb9-53e2-868f-ea8b65b8b971
+survival	surv_1510	Not Reported	2838											ee646758-fef6-502d-aeaf-2e2540f718f0	78afb132-12fa-5608-9d43-900b2e301081
+survival	surv_339	Alive	8609											eeced5ad-b7b5-5f8b-8308-4304c8d91256	106c33a7-3509-5875-8a61-4af1e2ae6f6d
+survival	surv_61	Alive	3451	Relapse										ef63b130-95a4-51a0-b0bf-1c806c8ae4fc	066f0bcc-c368-5608-947f-7c414b972bcd
+survival	surv_701	Dead	7152	Relapse										ef93d883-9f94-5a54-804d-26969427b695	767db48d-f2f6-5a8b-b904-aa72f21e08c4
+survival	surv_442	Alive	6613	Relapse										efb74739-f653-51ee-b90f-1f0793b2f2ff	2c7c1d23-5395-5d26-9d7a-e794288efdf2
+survival	surv_1534	Not Reported	2970											efe4e28a-b5d1-5217-9b08-3ba65f57b4bd	5558dc1c-3ddd-5029-8453-50c54edff938
+survival	surv_581	Dead	5299	Relapse										f004f51c-f973-599c-80b8-5585553899d8	1a314534-9863-562e-9d4f-264374f46672
+survival	surv_1091	Alive	6880											f00872c3-8ceb-5636-8062-8c1eb878fec3	8d87296f-fca6-5cdc-b990-10dbb9d10146
+survival	surv_814	Alive	3964											f014769a-5da7-500f-a0f6-6de6b033772c	0b1df5d9-4f06-551d-b145-919e6c597b4f
+survival	surv_1001	Alive	4922											f03bdaa8-db46-5038-906e-47fe445be8de	f4c0e3df-267b-5d26-afcd-c6453eaedbcd
+survival	surv_1347	Not Reported	5954											f06e6e1b-6fee-502a-8dbe-0a150088c5de	fb26fcb6-7295-5ea4-ae71-842924d500ff
+survival	surv_570	Alive	2075	Relapse										f0951ec0-347e-5724-a0c9-f752442d7e74	2f8b3f79-b5ea-5a26-98f5-49f119f6114e
+survival	surv_184	Alive	6689											f0e09cdc-dee1-558a-ba12-c0e9d67824a4	3645c3b2-5313-5c02-81b8-b1fd4d9ce1fd
+survival	surv_1626	Alive	8609											f0f271a0-64de-5df8-9cec-6ceb9d342326	4878c5af-2631-5bcd-9e2b-cbf865031e3e
+survival	surv_1164	Alive	6215											f114252d-4cf7-5f01-bc11-d6620c4b91b7	66a89f20-d4db-5cad-8d2e-90e7c6ca383f
+survival	surv_260	Alive	2527											f11d233d-87ed-5aad-a0a9-59ae4933f1ed	fb9e92ed-d7a8-5277-8e6f-54964f4e0424
+survival	surv_901	Alive	5528											f1313345-48da-5d5f-8e1a-e9b4cbb5ffc3	46274070-f4fc-545e-8ae3-ac58295586a8
+survival	surv_1414	Not Reported	6616											f1453dd7-2755-5c55-b49c-c4f65df1ac41	25a0a9a7-8ddd-5198-819e-2db6722a8d31
+survival	surv_882	Alive	5682											f185a3f7-3324-5e0c-afb6-a1673e21d1c6	9e51d1b4-7752-59b2-9874-d019dbc7171e
+survival	surv_155	Alive	5245											f1900d0f-9ca4-5821-9bbf-4e1df23d9a02	2e1623f9-1766-54de-a5d4-c05ad4dc4188
+survival	surv_728	Dead	5368	Relapse										f1a0e780-4845-5c41-94cc-8498b6e1e1f1	8e3872f4-e84c-5cd5-be53-41009c2e9949
+survival	surv_208	Alive	7603											f1a57ae8-ef8e-5ca0-af54-6bb030c88b0e	34ed6571-c33b-5bba-9174-2578ff39f16f
+survival	surv_160	Alive	8373											f1a69a18-ca97-5efb-ae66-8a68bba336d5	c01c270e-0c81-5b8e-ba5d-dfc1568e2848
+survival	surv_1094	Alive	5657											f1b88733-46cc-5809-ab7d-0b14ed52b493	ffe4f2c8-3e21-58c0-90df-7ec5146100f1
+survival	surv_1655	Dead	5566											f1bb394d-ce54-5547-b998-0184c752b092	73659580-b71f-5bda-8125-709f4d47550e
+survival	surv_392	Alive	4723	Relapse										f1c380dd-289b-522b-a5f0-818dcac2f55d	22f2b9a8-bb4f-5b92-acfd-d6ace2b38f37
+survival	surv_27	Alive	6573											f1ccd854-13ab-5da6-80d2-8328c658205d	2d116842-8d3e-5ce8-b45b-04435e91f46e
+survival	surv_1350	Not Reported	2677											f1dc7640-db54-5abb-94ce-97df6f6341d8	09a5cd7f-0907-56b0-9b23-2f508703963f
+survival	surv_1285	Not Reported	5165											f1de2ffe-5c07-54aa-9697-57c99b02a397	5f5f87d9-7071-5646-a7fd-d4336e2a6b14
+survival	surv_467	Alive	10467											f1f48225-fcd6-51fa-8bf4-df9d91b1e3aa	93e08b29-3b05-520d-a48e-948befb2c06e
+survival	surv_1615	Alive	3478											f2207f96-a47d-52d0-998e-66208fcc9e59	f2839747-4e91-5fff-890d-5a1aab7eaed0
+survival	surv_861	Alive	5708											f24ab4dc-5518-57da-a021-b67a556ec3de	ec3507d8-8a34-5e24-a5a2-9b58477389bb
+survival	surv_647	Alive	7892											f2cb4897-beb3-5d03-8df7-b0a67f64f2ee	933c9fd6-e51a-547c-9df8-757740ba47b3
+survival	surv_850	Alive	5118											f3256bc6-8a5e-5e11-a746-0e6f2f54db2d	74c7a425-abfd-5071-9b3e-870794acb340
+survival	surv_426	Alive	4346	Relapse										f32e1bfe-706b-5bdf-924d-ad74b8255326	b9157cc6-941c-5396-bb86-c8a0c401b4b5
+survival	surv_1677	Dead	2434											f335bc23-95f1-5986-9144-b32b8427e24d	84e4ed24-7487-5db6-9aea-fe446373ae3b
+survival	surv_117	Alive	4790											f3a327e8-5340-5e1a-a7a7-82839352a4a9	11cedc1b-c072-5a7d-94bb-93bc081286ec
+survival	surv_1532	Not Reported	6641											f3b7bb5d-ef25-57c2-99eb-a76c464dba6b	3628f112-c91d-5557-b502-c32f26e10886
+survival	surv_870	Alive	5407											f3dce653-5c4e-5f24-892d-f1c0f09e5498	e7ac633f-e0c2-543c-9c47-ae0af7d98a69
+survival	surv_1265	Not Reported	6083											f3efb124-d84f-53e0-8714-7c98786be2fc	249b219c-9749-5afb-93db-f7510da96af9
+survival	surv_393	Alive	6449											f40e56b9-84ae-51c6-91bb-593bfb23d900	bd724959-5bd2-52a5-b8e3-29399d65968a
+survival	surv_196	Alive	7991											f4353772-79b7-5eda-a1f3-cfe088930a59	e2533938-b5fb-5b78-bbd4-0539f20089f8
+survival	surv_1614	Alive	3259											f455d4f5-6a8b-5a94-b6bc-8e33aed2033e	e53605be-c5ab-5b91-a0f7-8082c59c978a
+survival	surv_161	Dead	3349	Death										f47a9ad7-4a4b-51d3-997e-c5b76464566c	d648ee88-fdca-5ec1-a25c-c387a339fc67
+survival	surv_1255	Alive	1583											f49f55e8-885d-5655-bc64-50e6f2d92815	a1eb2e1f-638f-5721-9625-122b5c06b182
+survival	surv_455	Alive	4986	Second Malignant Neoplasm										f4a3aafe-83fb-54ab-acc6-eac179fe9a40	2713fbae-2309-5b79-91d7-09617392e41d
+survival	surv_63	Alive	5917											f4d31d40-4c5c-59d5-8cd8-db59eb348c96	c483a90c-6022-58e7-9c6b-20c3a9b51d70
+survival	surv_935	Alive	3897											f4dc7e45-0eb0-5af6-8644-d1327c9fae60	ed16fb83-60dd-5b47-bccb-d1e8e40fb664
+survival	surv_851	Alive	4106	Relapse										f515b801-96a5-5614-ac58-00e770768234	8e3e7c92-4358-54b7-9eb9-28ad78645558
+survival	surv_1029	Alive	3192											f535cf08-5b61-5d51-8af0-cbdaceb6a8cc	e4749ab4-64c9-5bf8-86c5-2e350cd3d687
+survival	surv_1211	Alive	6971											f53ea20c-b1e5-5575-80dd-e921530c24f2	80cfe57f-1aa5-56d9-a9ea-af3b2ac347fc
+survival	surv_920	Alive	4285											f55366c2-c0d6-51ff-bd27-99c81f24f8bc	95d97ba6-62e8-539c-93b1-2a260031fd68
+survival	surv_620	Alive	6756											f589557d-8763-5bc2-842c-f5298be8e31b	fbd04d54-20ee-5692-ae89-d00d053b720c
+survival	surv_1671	Dead	5311											f5b43b2d-b35b-5843-8a12-b8b3c6890aae	bc350053-b65d-57c1-bde3-40912f995090
+survival	surv_649	Dead	7566	Relapse										f5bb7f23-5bb2-5e78-8de4-294cc6113090	de1a64ed-08a9-570e-9e07-3cb3ef2214b9
+survival	surv_1389	Not Reported	5977											f5ca30a2-3fd1-5c93-903c-fd53f828a468	08943b85-f51d-546d-9411-689f48deb7b5
+survival	surv_937	Alive	6372											f5e360b7-d8f1-5ae5-8f6c-b4aad914da46	c754551a-73ba-55b0-ae18-e13c2780066a
+survival	surv_1348	Not Reported	7283											f63548c0-798a-5cb4-9c2c-05fb4e6308ba	acf6e1b4-aa83-59ed-b914-8281417fce04
+survival	surv_1316	Not Reported	5996											f6553e4d-74b5-5343-8bd1-a3f2df2c5a1a	1d1dcd79-f1b1-5eef-a32c-3c61df7f8e58
+survival	surv_1662	Alive	3132											f661f4c7-f913-594d-a146-d7a61400ce2f	b740bad9-2290-54ce-8e38-d2794af36f88
+survival	surv_885	Alive	4867											f6cac154-4472-572a-8437-72867d253891	faaf6fd3-5204-5e81-ad61-50d1987f4b7c
+survival	surv_15	Alive	4167											f6d1c888-3466-56aa-9373-c2cdf3e50a2f	2e9e8c0f-b1ea-5a6d-9d97-ca02aaa8f7ad
+survival	surv_876	Alive	5393											f6e13694-13c9-5ce6-a4bd-f0332ee64d87	5e041212-124e-5af7-b427-3e880fe8744c
+survival	surv_760	Dead	4128	Relapse										f713ec75-b17d-53ab-8fdb-64d8e2f30297	9197e4be-cbd5-51fa-8f0d-9387d78d52e5
+survival	surv_1194	Alive	8623											f718b187-31e0-5ba3-818f-0096ad3996d0	1536d194-f572-52ce-879a-5d6caedb43ae
+survival	surv_1448	Not Reported	6322											f72b713d-26c3-54a8-8442-1f33eb2c8c6e	3a8f1975-ea38-569d-bb6a-ccefaec1e703
+survival	surv_290	Alive	7738											f72fa5c7-2e7e-5747-86b7-454aad1e2fb7	c5d7675c-cb27-5555-b712-3227811eda5c
+survival	surv_228	Alive	3951											f7533725-d5a6-5172-b183-8e67e7135efe	8cece50d-cd7f-5352-ac99-9cdd1327dd09
+survival	surv_727	Dead	5795	Relapse										f75d9d45-9b61-5ac5-9f63-53630d508713	278fabaf-d024-57fa-9286-ffbe63663613
+survival	surv_220	Alive	6221	Relapse										f765d5e8-740c-591c-bc05-a9c70dede79c	501a7827-ad74-5c34-8dbd-0072dab32aab
+survival	surv_1388	Not Reported	4994											f77de390-5527-5033-8035-b345b848c56d	2c8d75bd-6d6a-514a-8d3c-d8f06c223dc5
+survival	surv_1527	Not Reported	7130											f7866404-6e15-52e2-9993-ae571927f309	18922501-e26a-58a7-9a7f-d4ab7719292c
+survival	surv_1639	Alive	6557											f7e744f3-5719-5f6b-8e00-fee291875f26	439e3528-5989-5046-88f5-ea984041bb48
+survival	surv_59	Dead	5530	Relapse										f80a5339-f310-5c75-9d34-df1458b7827a	8fbad3bf-68e4-56ee-8f37-273eaff9570e
+survival	surv_1292	Not Reported	3534											f81661fb-fa6e-5afd-9072-51bf08e8e2fc	e0baeec6-9280-5ae3-b5f1-009b51d27c34
+survival	surv_634	Alive	8591											f818adb0-858e-52ce-bd8d-aab07211f46e	1fc62f55-8b5b-51c7-a6cc-4f87816fec12
+survival	surv_71	Alive	5811											f846e477-fde1-57db-8b9f-cf5eaa263899	d32199e7-649b-5168-980c-6523dd521081
+survival	surv_1420	Not Reported	6028											f87e3574-cc90-5e60-a782-5765af826e61	a1615897-fbfa-5a1a-9bce-822ac4a67a9a
+survival	surv_778	Dead	7139	Relapse										f89240d6-df36-56f1-baf0-09761baf905f	f725a558-d9f3-5999-b07b-4782dc7add97
+survival	surv_193	Alive	5461	Relapse										f8fc8db6-5641-5a91-a97d-ce532345f985	d0219fac-58b9-554b-beea-dc952b54642f
+survival	surv_759	Alive	4808	Relapse										f8fd6b26-e5be-58ab-bb75-1b37954721f0	1adb5b32-c737-5512-ae6c-722851ac9a73
+survival	surv_846	Alive	4077											f92de1b7-6049-5cbd-9d6e-df4fcacf00ba	f6a17d17-e8c0-53ab-a83f-26e85c513cb2
+survival	surv_1605	Alive	4623											f9334d7f-c6a4-5d1d-be0e-e9788392832a	65b09e69-21e3-5d47-bec7-1b419af1ea31
+survival	surv_685	Alive	8248											f95c4487-13e7-54b9-8f13-8dc6dc3e9e81	36a5e5ee-a0d3-5761-93f6-62c115effbbc
+survival	surv_173	Alive	8226											f9b372f1-8bd3-5df7-9ba3-208e061ab411	6540e485-9c42-5cfe-94ab-e0a4f5b0821f
+survival	surv_1565	Not Reported	8501											f9bcd9d4-3a5e-5159-9147-e9312c9f2059	d8a03620-e3c7-5df7-a68a-c75eedaba6a8
+survival	surv_501	Alive	7836											f9de2576-71d5-5b05-b02d-d25e7a672e3a	4f06e781-ef45-54f2-b6e1-745a543b067d
+survival	surv_1528	Not Reported	7480											fa1a6b4f-dd43-5c11-bbdb-5e2ed699f614	ed179c20-1e8d-5e5b-ad81-0b5b0520d545
+survival	surv_583	Alive	8266											fa29e780-4a24-56ea-ab51-b6e1679b5fdf	49432541-a39e-51a3-a817-ee1af8b8acd9
+survival	surv_919	Alive	5160											fa2fa131-4396-5b4f-9ed7-14ffdda62ec0	b6369571-802f-5205-b38c-dfc2132ad84f
+survival	surv_1131	Alive	5097											fa34b876-a6d8-5e35-86f8-4490bee0119f	25d34062-76c0-54ce-a0c4-7556d510a39a
+survival	surv_1312	Not Reported	5383	Relapse										fa72c76d-44b3-58f5-b5fb-1c6dc14dfca7	8c0f20fd-59a3-5a32-a3af-3cfa97da7091
+survival	surv_101	Alive	4299											fad91cf5-7d4b-5ab1-9d63-da7c1f26d068	54a0ef89-6f5b-5445-b990-ffd66d037e94
+survival	surv_16	Alive	4433	Relapse										faf8341f-31e7-5872-9408-ef3a20656505	1768c268-7609-5ca8-93cd-f27c586604a9
+survival	surv_1513	Not Reported	4151											fb39d8ff-b29d-5bf8-93a2-2e8e7c112ffd	5bd4a125-56c2-5390-a951-605f0e514265
+survival	surv_1178	Alive	5018											fb5aa27d-21c6-53dd-87c2-901c74af88c5	6ecf9212-a7e9-50f0-ab10-2d1ed6141625
+survival	surv_354	Alive	4901	Relapse										fb6cc045-ac93-56d6-ba18-e6743f34ea3e	25b81658-a853-58ed-b38e-a3ca145598e0
+survival	surv_1315	Not Reported	3017											fb847325-b32e-5614-b76d-b136e236cfcf	d362edc4-6db8-5fdd-a4fb-31aa004aa6b5
+survival	surv_569	Alive	4708	Relapse										fb9e71cc-d839-55d6-9dbe-3ac898425459	d9928314-7989-5373-abd4-f50cf986fc87
+survival	surv_1611	Alive	3751											fbcda507-86aa-56b4-bbbd-5998635a488a	645f73fc-b2b9-54b7-8452-69f703bcb8b6
+survival	surv_613	Alive	8232											fbe0dad8-53e4-55bd-a852-d1423d5c92e7	4c274f5d-2a7c-5284-841e-979991ca2038
+survival	surv_72	Alive	6308											fc49bd40-9e8f-5cda-b596-aff9ff9b17b6	d6a0698a-8780-5c62-b6e5-438fd7903f40
+survival	surv_1365	Not Reported	6894											fc7eb486-b192-5191-bd24-a83a00aaf0c2	8935c925-a6aa-5a12-95fc-c028b7941391
+survival	surv_715	Dead	5202	Relapse										fc80f698-34e2-58a5-aa42-5d0990378d9d	c04d0dff-d338-5042-a026-5522cb06512e
+survival	surv_1070	Alive	4183											fcc1d969-014c-555e-9e47-3d8c775aa77a	2fb13e58-0a05-5aa2-970e-130ee09addfb
+survival	surv_584	Alive	4184											fd133de1-0195-57b6-983e-45cb1e8a6c24	39d307a5-f8a0-5a8f-81e8-811a39e690f7
+survival	surv_740	Alive	5065	Relapse										fd21f0a2-bd98-5372-b327-acbeb146450e	f762e442-2b4c-5440-b2a1-73afd67cf5ed
+survival	surv_163	Alive	4817											fd2ba6af-cf94-522d-a6aa-3f4ac684197d	3db08b82-6474-50dc-8d2b-81a6691968b5
+survival	surv_543	Dead	4913	Relapse										fd7ec73a-1ebc-5429-9047-187a3b837c24	4f4c5e6f-5c07-5d39-8189-8d6e85e4cf71
+survival	surv_470	Alive	6522	Relapse										fd808b70-fb6a-5718-86ce-1f9a026e9fee	55bc7551-a8ee-5827-8119-28a0f35b7529
+survival	surv_48	Alive	8765											fd8f8435-7a7d-580e-b200-98297a6a0463	0d8c27f8-411c-526d-bd91-96242a4ce573
+survival	surv_1551	Not Reported	5818											fdca16d3-58e7-5a50-94f1-8a0702ffa1c0	a3cb7771-4eca-5323-8b68-b088218cb63b
+survival	surv_656	Unspecified	-999											fde6dda8-3071-5626-9c8c-7f04dc88b5c1	3f034224-59cb-5b8d-93b5-bcd1e4775df5
+survival	surv_912	Alive	3485											fe08ad00-7fcc-5d09-a346-c8d0020e541c	de0c9686-a7e4-56ad-9b11-1bbf32c27ef3
+survival	surv_89	Alive	8695											fe0fe23d-e88c-500d-a57c-742a6c1011f5	b43f89ec-5468-528c-a7e8-f358fade6d44
+survival	surv_526	Dead	3378	Relapse										fe281c1e-38a3-5f3b-ae77-92e14ae5e7c1	7f0b30c9-fe68-5696-9a30-19da0c1a4cfe
+survival	surv_1047	Alive	3843											fe3d174a-a480-58a5-a54f-c422d0851719	4315c518-d271-56c7-8b29-2d0d6e5ed045
+survival	surv_500	Alive	8101											fe6b6223-c7cd-54a1-b2cd-4991b3378902	decda46f-7b52-50a2-b95d-aa2d01f2678f
+survival	surv_1645	Dead	1574											fea97b42-6637-5606-ab0d-8062ee4bc7f1	fc26a599-0b90-5394-9f08-4c6f2676dd67
+survival	surv_1363	Not Reported	3941											fef52379-bca1-540d-87d9-890e1174e0fe	74e0345c-bc37-50f9-9640-dca687f5ce0c
+survival	surv_1646	Dead	6287											ff2a927c-7951-5afe-b2e7-cae5d701f063	44fb7ce1-5c8b-5577-a4fd-e2a164e05b33
+survival	surv_55	Alive	3851											ff336db0-b06a-5d1b-81ba-e9bddece4273	b8681090-ac06-51f9-a2e9-03d36ad9bcf6
+survival	surv_900	Alive	5042											ff3d034e-78e5-5545-8ece-d76a61fcfef4	2e5e8617-0e7b-5a24-91fa-e76c839f56ad
+survival	surv_108	Alive	9123											ff4aefc1-1fd9-57b0-834a-5ced8a0c2754	e7d53d93-662b-5177-9f75-439f4a1145db
+survival	surv_17	Alive	3729											ff657a92-b520-5304-8527-3fe7e5ef792c	ea4d43de-523d-5ca2-89bb-9b7c463c042c
+survival	surv_1700	Alive	7358											ff6e64d4-986e-5377-95dd-40af97ddf529	d5783b36-a630-52d7-8d7a-d37ad81e9904
+survival	surv_331	Alive	5449											ffc4ba14-03a3-516e-83c5-9d6937ed291f	b0a584bc-958c-54f0-8d86-1d847a8666f7
+survival	surv_680	Alive	10599	Relapse										ffdb6a76-4b3b-5f7b-bc94-82e3fa42faf9	8b870146-47e9-5a68-9d08-7bb8ec5f88dc

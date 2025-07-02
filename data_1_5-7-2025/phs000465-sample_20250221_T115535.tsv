@@ -1,0 +1,125 @@
+type	sample_id	tumor_classification	anatomic_site	participant_age_at_collection	sample_tumor_status	sample_description	crdc_id	id	participant.id	pdx.id	cell_line.id
+sample	TARGET-20-PATGTL-03A-01R	Primary	C42.0 : Blood	-999	Tumor			01065ca7-b85e-5fb2-8324-1183db294104	d62dd155-1e61-5e9b-9d84-0ae5fe438a90		
+sample	TARGET-20-PARSGS-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			0583c51b-d1b4-5289-bf96-1869b94c0eff	2e143283-2676-5600-a59e-56cd32c23f1a		
+sample	TARGET-20-PARVLP-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			07ffa6e6-fe50-57af-8257-8c81f6b0f0d7	ba5939c8-f110-58b7-a00c-32de48102c20		
+sample	TARGET-20-PANJFJ-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			0bed6894-ff0a-52e6-87aa-f7b74cc2a3cd	87d97a9d-e67e-52e5-b64a-9532e7a79b2c		
+sample	TARGET-20-PARMGH-03A-01R	Primary	C42.0 : Blood	-999	Tumor			0bf78320-2135-5b20-b920-1a6c250150a7	4c325d06-7d37-5d02-927d-1cafd1f9caa6		
+sample	TARGET-20-PARKGB-03A-01R	Primary	C42.0 : Blood	-999	Tumor			0d440235-f0e2-5fae-86c2-28cf92a6fcf0	2cfb6016-8fa5-5c99-be56-eeef2a4ad078		
+sample	TARGET-20-PARBZJ-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			10527cfc-182b-5162-a1da-e5f79aac27ad	7d6e77b4-b391-57b2-884c-99e19fcc7424		
+sample	TARGET-20-PAPZCL-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			11ec7291-a5fa-5d02-9299-fa008d61d8b7	1d5992ce-46f1-5a24-85da-8d8c8f9715a4		
+sample	TARGET-20-PATFGK-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			1404d997-e159-5f53-908a-f2ab4da46e33	2de1fa57-7f19-5525-9843-6bc9e745f64a		
+sample	TARGET-20-PAPXVK-03A-01R	Primary	C42.0 : Blood	-999	Tumor			149245ae-52e8-5e6b-b5f0-1ddf0591260d	7d31ec00-8858-5c49-97b4-dafb6ae80ebf		
+sample	TARGET-20-PARZGM-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			15e186ef-b9a2-5637-a2b7-82c9b72ed172	c7c5d7e8-4b5a-5790-8c35-211f421e0f72		
+sample	TARGET-20-PARFKS-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			165465df-c581-5b98-a49b-405ec2ec5c05	b248bf9a-12b4-51a7-9c30-9b7fe7a21b5b		
+sample	TARGET-20-PASNKC-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			18793029-9231-5019-8363-9b14b62ba20d	cc163e18-5ca5-5f11-af27-7a8ab046a414		
+sample	TARGET-20-PATFYN-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			21470224-4193-5e74-9c48-5135fa0ae7d6	7cb6b6e5-125e-5d63-ac7b-993c01bf241d		
+sample	TARGET-20-PANUTX-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			227e5096-0ccb-5d5b-8b12-0acd6efebeab	06131425-e132-5636-899c-d2fbe3c69f7e		
+sample	TARGET-20-PAPXJG-03A-01R	Primary	C42.0 : Blood	-999	Tumor			2d9f1d2f-36d4-527d-9053-1025bc5a7fdd	b0e28a16-32b7-5d5e-bdbd-c392674ad5eb		
+sample	TARGET-20-PARSXZ-03A-01R	Primary	C42.0 : Blood	-999	Tumor			2f15b196-bad0-58fe-bd13-2bac4b0ffde5	4e690e74-16e5-55d2-9451-5bfc5539f9f7		
+sample	TARGET-20-PARTWN-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			33a20ada-7f38-5392-b86c-5898b7d84a27	a2391c4b-ee37-561e-84a2-e8c650cfb424		
+sample	TARGET-20-PARHKY-03A-01R	Primary	C42.0 : Blood	-999	Tumor			3824ea17-8144-5f56-a324-022be2b87875	e85f4a51-25ad-5f93-9150-930f2138f5b1		
+sample	TARGET-20-PARIYB-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			38a9f188-1461-5def-a70d-707623324279	4929101c-a394-5bbe-beb2-d1abf002c3c7		
+sample	TARGET-20-PARUBE-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			395d06af-68c9-58db-8037-78372211900b	213e983d-af56-5d04-86bf-b2fbe6034cb5		
+sample	TARGET-20-PASVPC-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			3c215876-a8b6-5688-9c52-19680d93cd8d	453792d2-87d7-5fca-8796-a5eef1666d56		
+sample	TARGET-20-PARZYF-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			3d429bbb-c1fe-5f8b-bc72-de55ea16072e	4992ef38-4aa0-598f-b60c-8e149165339a		
+sample	TARGET-20-PATISV-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			3fbe7ac9-b00f-549e-a36c-d66a25e4fe6f	d23f8cde-9af3-50d3-938e-ecd73f716c89		
+sample	TARGET-20-PARUXJ-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			40919f8d-4c0e-5b01-a120-1261bad62775	87b3ce82-981b-5654-9aaa-62c59c3a77e2		
+sample	TARGET-20-PARTBN-03A-01R	Primary	C42.0 : Blood	-999	Tumor			430fa53c-0628-5685-bd6a-8d2c663212cc	3a0ca19c-6fe4-596a-9ff0-f91564b55d0e		
+sample	TARGET-20-PANTXR-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			45090442-6e60-52a2-ad13-4504b66147a7	3ef99099-cb75-50fe-8a1d-ffde4e9fe67c		
+sample	TARGET-20-PARPEK-03A-01R	Primary	C42.0 : Blood	-999	Tumor			46e3c293-40ff-5e96-be39-e386e6906fa3	77523c9a-5ab2-55da-bc56-484d63720c44		
+sample	TARGET-20-PASRRL-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			4ebbc0e2-ba00-5df4-878b-60ac6f87d900	c79eb010-3c46-500e-854d-541a1e766d1b		
+sample	TARGET-20-PARFWM-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			4f716b31-a2fb-5584-8185-aaba55957005	f3d8ccc0-1b08-5b1a-934d-3c5cfae9361b		
+sample	TARGET-20-PANTCT-03A-01R	Primary	C42.0 : Blood	-999	Tumor			51ffeb41-ac3d-53d5-a28d-22f4be293e82	4e8cc5ae-a979-5d9f-a012-7816a74f2a5d		
+sample	TARGET-20-PATMDJ-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			5334bbc4-28e5-5325-b9e9-626b1c0f4236	e17b6770-3107-5b42-8364-22501054a0e4		
+sample	TARGET-20-PATBHG-03A-01R	Primary	C42.0 : Blood	-999	Tumor			54490942-1f30-5581-8274-5313c3762132	bd7a888d-988f-587a-95ff-696019e258ef		
+sample	TARGET-20-PARJLW-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			5545da18-af0c-5b79-91a4-453b9b0ede5a	7d0ef9f4-9ff9-51c1-97fd-369080d5a6f9		
+sample	TARGET-20-PASGKA-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			56bd1a11-d305-5faa-a2e4-6f8e688592f1	79814456-ab05-526b-8c8b-375bcee3bbc3		
+sample	TARGET-20-PARCAU-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			572c85b8-9154-5ac3-b1d9-383f9792b324	f0711d08-2ecf-5840-bc91-15052d50efb6		
+sample	TARGET-20-PARVXT-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			57615873-9eee-5128-8c2f-cfcf8e82aafa	ff5f7be4-4dbb-5d46-bbd7-9dff8a843349		
+sample	TARGET-20-PAPUEM-03A-01R	Primary	C42.0 : Blood	-999	Tumor			5842af1c-6ae7-5d4a-8faa-06c19bcc4fc7	23d96291-3aab-56fa-a059-9ea0016d7da2		
+sample	TARGET-20-PANTRL-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			58f37170-644e-56a8-aaed-0f10b5efa9ac	40aa0d67-29ef-5232-ac15-2ae6906c913b		
+sample	TARGET-20-PASMYS-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			5b0089b5-a391-550e-9126-2b0315a61b26	5db53e90-6ad7-5aff-8e97-2d31d3b61b28		
+sample	TARGET-20-PASHHH-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			5b23b5b5-1e15-532f-a6c9-a691a161ba6e	28b06fc1-0003-5eed-a694-39ab55be2f4c		
+sample	TARGET-20-PASRIN-03A-01R	Primary	C42.0 : Blood	-999	Tumor			5d50a378-69d1-5140-b4a1-43a43c17aba2	4bf86d8e-c4d3-5224-9bd5-90b7b26b624d		
+sample	TARGET-20-PASMPC-03A-01R	Primary	C42.0 : Blood	-999	Tumor			5f2c80de-f197-5660-860d-9c8596925493	d9efe146-d25d-5fb8-a329-fa4550bebc35		
+sample	TARGET-20-PARNTM-03A-01R	Primary	C42.0 : Blood	-999	Tumor			64bec2a6-307a-5047-a1cd-89cfc6305b81	c4c7ab94-28f2-50cc-ae34-eb7660075f47		
+sample	TARGET-20-PARXDI-03A-01R	Primary	C42.0 : Blood	-999	Tumor			6606d345-d46a-57a0-b8c9-89e68b02e2f0	78bdaa7a-f513-5c4e-8b1c-b97ca8ca8cdb		
+sample	TARGET-20-PASFFS-03A-01R	Primary	C42.0 : Blood	-999	Tumor			6e8c40d1-223a-5de6-afff-64907339b887	effcd89f-eeaa-5812-9cdd-d8a3297238ff		
+sample	TARGET-20-PARWCG-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			71f033d6-7353-5003-9a14-f12911c6776f	fb4be225-921f-563e-8496-236fcb55fb0d		
+sample	TARGET-20-PARUZS-03A-01R	Primary	C42.0 : Blood	-999	Tumor			73635209-2c38-5041-88e5-05e448d84d94	3ab9ddbc-9c23-553c-a02f-00a441136f5c		
+sample	TARGET-20-PARKJZ-03A-01R	Primary	C42.0 : Blood	-999	Tumor			73c2ddc1-0540-5ca0-8f93-5c7f72c7adb4	c4234e56-b38e-5e84-b841-5f3868957b69		
+sample	TARGET-20-PATMIK-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			743a57eb-4704-544f-a730-109e9f2812a0	b1523ed5-d28b-5d9a-a9aa-5d60d451cc49		
+sample	TARGET-20-PASAMY-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			74ad0c83-b7ca-5a16-8fd4-725a3a2243f6	023ba766-07ee-567d-9caf-77dbc5d2cbc0		
+sample	TARGET-20-PASDUD-03A-01R	Primary	C42.0 : Blood	-999	Tumor			75e1a89b-33b1-54c5-a607-5a8d5b73fc58	a3920076-39e1-5ec7-bed9-ef89eaf51154		
+sample	TARGET-20-PARFLB-03A-01R	Primary	C42.0 : Blood	-999	Tumor			79da0e35-d7f6-532b-9373-4ef975f1593a	caefbcb6-06be-5169-9ac3-a32a5faf041d		
+sample	TARGET-20-PASFVP-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			7e92ba87-9035-5e3e-b3b2-dd7e076b88cf	d10d42fa-192a-56ce-b431-c1db224b238a		
+sample	TARGET-20-PANXPU-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			7f7a914c-e0d1-5f8d-9efe-2c4878a064f0	ad0fd471-fe95-5aff-9168-f2551930c6de		
+sample	TARGET-20-PASGEM-03A-01R	Primary	C42.0 : Blood	-999	Tumor			82b26bc9-1b67-5891-814e-b29c49e82bca	b09518be-b198-501c-abc4-79b5f2c3d8e9		
+sample	TARGET-20-PANRWM-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			83161723-cd7c-5cb5-a3b8-c1a44774b3ef	2bd11fcb-a1f1-536f-96a5-1e4f3cefbe22		
+sample	TARGET-20-PATHAE-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			83354449-d853-5796-b688-4f7d14768fc1	5c3d7343-d418-5ac6-846f-61380357ab7b		
+sample	TARGET-20-PASLPE-03A-01R	Primary	C42.0 : Blood	-999	Tumor			85c6e671-1ba3-5a1b-9e28-b26d27a5c801	00b07c6f-f017-5574-99e9-414fae4d539c		
+sample	TARGET-20-PANKCE-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			87f035c2-9a7f-561d-af9b-8b7d2f1203f8	ce2340fc-779a-5f90-a8c6-d0a0dc48248e		
+sample	TARGET-20-PASJYX-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			8840e3b6-adae-5137-8802-a9d1677b6572	1a08a89c-8ed8-5111-8ec3-888b487fc3e4		
+sample	TARGET-20-PARXVI-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			886509d2-894a-59c1-91b3-8d8dc420c5de	3dd75931-3d1e-5c28-a7fb-a927a953c574		
+sample	TARGET-20-PATDVM-03A-01R	Primary	C42.0 : Blood	-999	Tumor			898547f5-0c7d-5057-9dbe-7b9707b07356	8d2aa508-f712-5f77-ba91-ddb394f577e8		
+sample	TARGET-20-PATCHL-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			89c9f15f-7c40-5116-bb36-3a80ddb5d3bb	f930ecfa-8c65-5231-b6c9-a913bdeb9324		
+sample	TARGET-20-PATJIC-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			8a6170c8-99bc-5cac-8e1a-3b60164411eb	0657751e-dfc0-594c-a77a-d8289e04d741		
+sample	TARGET-20-PASVUI-03A-01R	Primary	C42.0 : Blood	-999	Tumor			8a7ca23f-3406-5d5f-b009-ba3a787a11f9	be1213a0-c804-581c-83ed-d9bf50260592		
+sample	TARGET-20-PANUDS-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			8b0a9384-bc72-5cf6-97e4-7372e69ecef4	17f1a5ab-33bc-5737-883b-9ef6ab2d8fe3		
+sample	TARGET-20-PANZXI-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			8e7c5c50-bd73-5f49-9b23-078870fb53f4	5c8210e4-edeb-5342-b2a4-2f60d9d2ecef		
+sample	TARGET-20-PARERV-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			90770847-0d69-518a-af28-e458823c8f8e	8b3436be-3528-5c78-b552-3356b1e02b36		
+sample	TARGET-20-PARHYP-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			9164dcf8-922e-5490-af48-730d7785917b	fe9920ab-c7c5-574f-abbf-29496f98fc9b		
+sample	TARGET-20-PANTIV-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			923d71c2-628e-58c6-9704-c82a249967b7	9c3c7021-b8a5-5f31-b006-28e19de15691		
+sample	TARGET-20-PARFZP-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			9272a92e-4e51-5330-8620-f42f90df3a6f	0a17fe39-4b7e-5755-b5cb-553118ccdc20		
+sample	TARGET-20-PARWXS-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			949a3265-bdd4-53a7-9c7c-a00652ddb8fe	a690e8a7-f625-571f-b271-cf7459a76769		
+sample	TARGET-20-PAPVET-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			9b5b062d-914f-549f-87de-fe9669a06f3f	41b1b7c5-0d1b-5ddc-9266-f79e71a27ff7		
+sample	TARGET-20-PARAFA-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			9d1200de-0f71-5a3a-a12a-3a0e89baffa5	6cea1414-cf43-5065-b3c1-63400a0e911d		
+sample	TARGET-20-PAPZZE-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			9d21c13d-0c07-55fd-99e9-4f58d0409f91	068bed25-34df-5607-84c1-a6a1ef5cc794		
+sample	TARGET-20-PASNDA-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			9dd303a7-ac4b-5a28-8291-61dd10887083	c1f12a1c-e613-55ce-a468-e97266896293		
+sample	TARGET-20-PARGYS-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			9efa04d2-5be0-5a1d-9d8a-bcc8cebb234d	97696f22-4a92-51a4-91b5-599999b92591		
+sample	TARGET-20-PAPZFV-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			a15991aa-9a99-557e-952c-b2a9233e3ccf	7101548c-9a47-5f25-a74e-ddf5dbd01294		
+sample	TARGET-20-PASGZK-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			a20c85a4-ef3b-59c9-bf94-e9b0631e0d9f	8aef2470-41d4-5024-ae8a-79275a0b7b40		
+sample	TARGET-20-PASURM-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			a25d95c0-9488-5067-ab71-365dbfae96e9	abb01559-6912-546d-9920-6d3680de8a86		
+sample	TARGET-20-PASKAS-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			a376643e-1a7c-50eb-8a96-2d181879b16c	7de65e8f-88ec-559c-9e1b-f4a050fa31db		
+sample	TARGET-20-PANXWX-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			a51bdf35-5474-50b5-9c0d-3fcc9b1ecc2e	cd979714-6f28-523c-8ab4-8d34498ab0a6		
+sample	TARGET-20-PATDIC-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			a7f8dcce-40b5-5df1-83ad-38cd34fe25ca	76bbcedd-f4e5-57d7-9dad-047265dbfca1		
+sample	TARGET-20-PASNDH-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			a837a249-1072-52b5-b5d6-9991d6e1c332	1b541f1f-70ee-5576-a562-51d0b2663a31		
+sample	TARGET-20-PARTVG-09A-01R	Primary	C42.0 : Blood	-999	Tumor			abddd9d3-f233-5ee5-bb5c-e567cd33e456	5cf53a10-f8b4-5a45-8d16-78a95941d23a		
+sample	TARGET-20-PASGZV-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			ad8ac0f1-da9a-5e97-b977-746e183c0bca	0d749596-c82a-5eec-8bf8-4320019502f3		
+sample	TARGET-20-PASANH-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			b02dead6-ec39-562f-9a2c-e72d6830eb00	b60775bf-9747-5892-8163-30ff015105cc		
+sample	TARGET-20-PANKBX-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			b2a19da9-1ad8-5d48-b32a-7ac425e934d2	ba7a5aab-ff32-50af-b0de-5e65783b6286		
+sample	TARGET-20-PARJET-03A-01R	Primary	C42.0 : Blood	-999	Tumor			b5c47df2-5a44-547b-92aa-b7e214d9dca3	7ac7f8f5-3e4a-5641-815f-9ccf3bfccf8c		
+sample	TARGET-20-PARCIN-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			b65ca1de-522a-5813-9615-f780ccc5c3d7	d288fd8a-7988-5469-92c1-9f7f1e3d160c		
+sample	TARGET-20-PARLHW-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			b920ad65-ad2d-5d1f-857b-724c90b4305b	dc069f39-8e47-5eaa-b3ad-f1c6ed696ad2		
+sample	TARGET-20-PASJZX-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			b995bd8f-3602-5235-bacf-07aab93835d6	d0509dda-20c2-5bf0-b3be-b7768efbb163		
+sample	TARGET-20-PATAML-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			ba4a2cd9-3f54-517c-a1bd-b15ebb840414	43914a65-06cb-5763-8f0f-013ed0c3a21f		
+sample	TARGET-20-PARRTH-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			bff168f1-19e2-5730-b0a9-f9b19ef0f64b	7d81e202-075b-5893-b783-fc07c9812e1a		
+sample	TARGET-20-PARZVA-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			c1a7bec5-03f0-5787-a2e7-1c8477e0f4ab	fc141fd0-5429-5ea6-93fd-49ec21085d12		
+sample	TARGET-20-PARTYK-03A-01R	Primary	C42.0 : Blood	-999	Tumor			c20703b0-42fb-5c8e-bb7f-10d337213583	e3054bb3-cd0d-5380-b558-27609d534f60		
+sample	TARGET-20-PARXJW-03A-01R	Primary	C42.0 : Blood	-999	Tumor			c2a55c4b-d578-5961-ba43-eb9868d615bf	61abad09-fb53-5dab-9c3b-2488c57a853f		
+sample	TARGET-20-PARDYG-03A-01R	Primary	C42.0 : Blood	-999	Tumor			c9d8a08a-717d-5cb7-bcee-dd26497a2d75	e3b9b477-7201-5087-b863-19896c4b6b77		
+sample	TARGET-20-PARZMZ-03A-01R	Primary	C42.0 : Blood	-999	Tumor			cb6c83b8-c513-5779-a99b-5013575901bd	a6b3d82d-8cc4-5a73-8563-11b423235caa		
+sample	TARGET-20-PATASP-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			cf95a48a-a16a-560e-8de0-0c2f5ef08e46	85b9e802-130c-54d2-89f0-388f5a3af669		
+sample	TARGET-20-PASJCL-03A-01R	Primary	C42.0 : Blood	-999	Tumor			d306b0aa-4c52-5a14-ab5e-1ee9a971c65f	5a725fb5-5bed-5e46-bc55-46bde942fbbb		
+sample	TARGET-20-PARIYP-03A-01R	Primary	C42.0 : Blood	-999	Tumor			d4fba645-0d26-5430-8f8b-fe75bf16378e	e7834d97-0994-5944-ab43-d70b8c3973d8		
+sample	TARGET-20-PATEUF-03A-01R	Primary	C42.0 : Blood	-999	Tumor			d5146f48-db77-5537-93c3-1dd52673866a	9e103d31-614c-5d3f-8447-30d4f98d7caf		
+sample	TARGET-20-PATABK-03A-01R	Primary	C42.0 : Blood	-999	Tumor			d622e83a-3bc5-5ea2-af1f-c38c15b52e19	d4881000-b8c3-5cc0-8fb4-9a0fa4f92da2		
+sample	TARGET-20-PARMMN-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			d647f338-3a2f-5ae3-a833-9fc9a6cfcde4	7c2f73d6-9da4-5e56-bd89-702334e74b70		
+sample	TARGET-20-PATBVJ-03A-01R	Primary	C42.0 : Blood	-999	Tumor			d6f6e70b-022f-5a27-944d-b68ed1c03fc0	1f9ad0ff-02cd-5473-b092-7e3b9d0f031b		
+sample	TARGET-20-PARKHV-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			d7f6bc64-1e5d-54a1-b240-7a628bfbc26b	0c9d170e-8635-5c72-927c-45eb8d16c613		
+sample	TARGET-20-PASGCE-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			d81cceff-9360-5b37-b4b2-cbf6af8917e2	655bda16-c3d6-50eb-928a-764263b9916a		
+sample	TARGET-20-PATAWB-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			da19d8b9-cae1-567b-b7d3-afdf9ac6700d	2f87d31b-3f8c-59b2-94ff-3868f69c60e3		
+sample	TARGET-20-PARJGD-03A-01R	Primary	C42.0 : Blood	-999	Tumor			e0eac381-db42-5ce8-a0c1-554b23d379bd	e1a4a8fb-8424-52f4-bf76-43460f3283b8		
+sample	TARGET-20-PARGMH-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			e1c775fc-dc80-5855-9d04-a7adfa686311	3fb9cb5f-7a3f-521e-bd68-5a79316d7318		
+sample	TARGET-20-PASKDS-03A-01R	Primary	C42.0 : Blood	-999	Tumor			e254222a-a17d-5d24-81d5-f2f3703cbc31	56679a62-4e57-5e5f-85a6-a074d507d5bd		
+sample	TARGET-20-PASCRP-03A-01R	Primary	C42.0 : Blood	-999	Tumor			e63deebb-92dc-5091-88f5-7b5c49207c84	ed4d848b-6ef2-5c3c-9f5a-0765c2f9fe8b		
+sample	TARGET-20-PAPZTC-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			e6e8cde4-598c-5f6c-a381-d22599943e71	1e8684a5-f96a-5162-baf5-b0c908b9050a		
+sample	TARGET-20-PATJWN-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			ebe7a322-4611-5579-81c8-c696829cbb16	30ad8fc8-0e43-58c4-80e4-390ead73dfde		
+sample	TARGET-20-PANKEF-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			ef2f7da2-163f-53d8-bae4-2a9839892ec7	7acbd53b-0cf9-574c-b859-f63cb8197bc1		
+sample	TARGET-20-PASXNT-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			eff64883-d7a0-5ceb-ac69-2dc7a004aa29	04a1e8b8-a1e7-54db-8f5e-a03ece106014		
+sample	TARGET-20-PANIGD-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			f01c394d-c096-55f9-b7b8-fd74ff1829ee	42fb64d0-3f5a-5925-b7e2-802905ec0d64		
+sample	TARGET-20-PAPAPD-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			f2d3a26c-83e3-5e25-942d-93cf8f07ec37	079cff05-158a-5eb1-b266-a2978b80c97d		
+sample	TARGET-20-PASMRU-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			f6a4cd9b-1582-5da0-85a9-4597bf7892f7	ea1c793a-a7d1-559d-97df-4fafce1784ff		
+sample	TARGET-20-PASNAL-09A-01R	Primary	C42.1 : Bone marrow	-999	Tumor			f789ae25-4b70-5da9-8c07-e68aeda84b9a	f94b5183-6cca-5b5c-ae14-296808bd6f3b		
+sample	TARGET-20-PATHVG-03A-01R	Primary	C42.0 : Blood	-999	Tumor			fc27c794-f532-55e8-ad8d-af94eb858a5a	721f149b-a19f-5c5a-b950-af2049f12d64		
+sample	TARGET-20-PASHZX-03A-01R	Primary	C42.0 : Blood	-999	Tumor			fd6e327d-6e97-5db8-8a7c-f53c855185b8	77835797-2fc3-598a-8585-095d02470331		

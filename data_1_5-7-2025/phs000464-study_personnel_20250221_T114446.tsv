@@ -1,0 +1,2 @@
+type	study_personnel_id	personnel_name	personnel_type	email_address	institution	orcid	crdc_id	id	study.id
+study_personnel	person_1	Stephen P. Hunger, MD	PI	hungers@chop.edu	Children's Hospital of Philadelphia	https://orcid.org/0000-0002-5492-3957		631bffa7-64bc-5145-9a8c-d9dcac44fdbf	d3393da2-306f-52d6-9aa6-bdb1aba61e31

@@ -1,0 +1,2 @@
+type	study_personnel_id	personnel_name	personnel_type	email_address	institution	orcid	crdc_id	id	study.id
+study_personnel	person_1	Soheil Meshinchi, MD, PhD	PI	smeshinc@fredhutch.org	Fred Hutchinson Cancer Research Center	https://orcid.org/0000-0002-6276-4423		79dfe626-f0db-59e7-8b5f-855b71c84167	ef4cfd5d-2f49-50a1-9a19-3485fb198937
