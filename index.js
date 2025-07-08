@@ -3,7 +3,11 @@ import { ApolloServer } from '@apollo/server';
 import { startStandaloneServer } from '@apollo/server/standalone';
 import neo4j from 'neo4j-driver'
 import { ApolloServerPluginLandingPageGraphQLPlayground } from "@apollo/server-plugin-landing-page-graphql-playground";
- 
+ import {
+  ApolloServerPluginLandingPageLocalDefault,
+  ApolloServerPluginLandingPageProductionDefault,
+} from "@apollo/server/plugin/landingPage/default";
+
 const typeDefs = `#graphql
  type participant {
   id: String
@@ -209,7 +213,6 @@ type study_funding {
   study: study @relationship(type: "of_study_funding", direction: IN)
 }
 
-
 `;
  
 const driver = neo4j.driver(
@@ -219,15 +222,18 @@ const driver = neo4j.driver(
  
 const neoSchema = new Neo4jGraphQL({ typeDefs, driver });
  
+
+let plugins = [];
+if (process.env.NODE_ENV !== "production") {
+  plugins = [ApolloServerPluginLandingPageGraphQLPlayground({ embed: true, graphRef: "myGraph@prod" })];
+} else {
+  plugins = [ApolloServerPluginLandingPageLocalDefault({ embed: true })];
+}
+
+
 const server = new ApolloServer({
     schema: await neoSchema.getSchema(),
-    plugins: [
-    ApolloServerPluginLandingPageGraphQLPlayground({
-      settings: {
-        'editor.theme': 'light',
-      },
-    }),
-  ],
+    plugins
 });
 const { url } = await startStandaloneServer(server, {
     context: async ({ req }) => ({ req, sessionConfig: {database: "memgraph"}}),
