@@ -1,0 +1,7 @@
+query Samples {
+  samples {
+    sample_tumor_status
+    sample_id
+    sample_description
+  }
+}

@@ -2,6 +2,7 @@ import { Neo4jGraphQL } from "@neo4j/graphql";
 import { ApolloServer } from '@apollo/server';
 import { startStandaloneServer } from '@apollo/server/standalone';
 import neo4j from 'neo4j-driver'
+import { ApolloServerPluginLandingPageGraphQLPlayground } from "@apollo/server-plugin-landing-page-graphql-playground";
  
 const typeDefs = `#graphql
  type participant {
@@ -220,8 +221,14 @@ const neoSchema = new Neo4jGraphQL({ typeDefs, driver });
  
 const server = new ApolloServer({
     schema: await neoSchema.getSchema(),
+    plugins: [
+    ApolloServerPluginLandingPageGraphQLPlayground({
+      settings: {
+        'editor.theme': 'light',
+      },
+    }),
+  ],
 });
- 
 const { url } = await startStandaloneServer(server, {
     context: async ({ req }) => ({ req, sessionConfig: {database: "memgraph"}}),
     listen: { port: 9000 , host: "0.0.0.0"},
