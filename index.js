@@ -227,7 +227,7 @@ let plugins = [];
 if (process.env.NODE_ENV !== "production") {
   plugins = [ApolloServerPluginLandingPageGraphQLPlayground({ embed: true, graphRef: "myGraph@prod" })];
 } else {
-  plugins = [ApolloServerPluginLandingPageLocalDefault({ embed: true })];
+  plugins = [ApolloServerPluginLandingPageGraphQLPlayground({ embed: true })];
 }
 
 
