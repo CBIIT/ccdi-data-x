@@ -9,6 +9,22 @@ import { ApolloServerPluginLandingPageGraphQLPlayground } from "@apollo/server-p
 } from "@apollo/server/plugin/landingPage/default";
 
 const typeDefs = `#graphql
+
+# Custom Query types
+type Query {
+  # Sample grouping and counting queries
+  samplesByTumorClassification: [FieldCount!]!
+  samplesByAnatomicSite: [FieldCount!]!
+  samplesByTumorStatus: [FieldCount!]!
+  samplesByField(field: String!): [FieldCount!]!
+}
+
+# Type for field count results
+type FieldCount {
+  field: String!
+  count: Int!
+}
+
  type participant {
   id: String
   created: String
@@ -219,8 +235,89 @@ const driver = neo4j.driver(
     "bolt://localhost:7687",
     neo4j.auth.basic("", "")
 );
+
+// Define custom resolvers
+const resolvers = {
+    Query: {
+        // Sample grouping resolvers
+        samplesByTumorClassification: async (parent, args, context) => {
+            const session = context.driver.session();
+            try {
+                const result = await session.run(
+                    'MATCH (s:sample) WHERE s.tumor_classification IS NOT NULL RETURN s.tumor_classification as field, count(s) as count ORDER BY count DESC'
+                );
+                return result.records.map(record => ({
+                    field: record.get('field') || 'Unknown',
+                    count: record.get('count').toNumber()
+                }));
+            } finally {
+                session.close();
+            }
+        },
+
+        samplesByAnatomicSite: async (parent, args, context) => {
+            const session = context.driver.session();
+            try {
+                const result = await session.run(
+                    'MATCH (s:sample) WHERE s.anatomic_site IS NOT NULL RETURN s.anatomic_site as field, count(s) as count ORDER BY count DESC'
+                );
+                return result.records.map(record => ({
+                    field: record.get('field') || 'Unknown',
+                    count: record.get('count').toNumber()
+                }));
+            } finally {
+                session.close();
+            }
+        },
+
+        samplesByTumorStatus: async (parent, args, context) => {
+            const session = context.driver.session();
+            try {
+                const result = await session.run(
+                    'MATCH (s:sample) WHERE s.sample_tumor_status IS NOT NULL RETURN s.sample_tumor_status as field, count(s) as count ORDER BY count DESC'
+                );
+                return result.records.map(record => ({
+                    field: record.get('field') || 'Unknown',
+                    count: record.get('count').toNumber()
+                }));
+            } finally {
+                session.close();
+            }
+        },
+
+        // Generic field grouping resolver
+        samplesByField: async (parent, { field }, context) => {
+            const session = context.driver.session();
+            try {
+                // Validate field name to prevent injection
+                const allowedFields = [
+                    'tumor_classification', 'anatomic_site', 'sample_tumor_status', 
+                    'sample_description', 'participant_age_at_collection'
+                ];
+                
+                if (!allowedFields.includes(field)) {
+                    throw new Error(`Field '${field}' is not allowed for grouping`);
+                }
+
+                const query = `MATCH (s:sample) WHERE s.${field} IS NOT NULL RETURN s.${field} as field, count(s) as count ORDER BY count DESC`;
+                const result = await session.run(query);
+                
+                return result.records.map(record => ({
+                    field: record.get('field') || 'Unknown',
+                    count: record.get('count').toNumber()
+                }));
+            } finally {
+                session.close();
+            }
+        }
+    }
+};
  
-const neoSchema = new Neo4jGraphQL({ typeDefs, driver });
+const neoSchema = new Neo4jGraphQL({ 
+    typeDefs, 
+    driver,
+    resolvers 
+});
  
 
 let plugins = [];
@@ -236,7 +333,11 @@ const server = new ApolloServer({
     plugins
 });
 const { url } = await startStandaloneServer(server, {
-    context: async ({ req }) => ({ req, sessionConfig: {database: "memgraph"}}),
+    context: async ({ req }) => ({ 
+        req, 
+        sessionConfig: {database: "memgraph"},
+        driver: driver  // Pass driver to context for custom resolvers
+    }),
     listen: { port: 9000 , host: "0.0.0.0"},
 });
  
